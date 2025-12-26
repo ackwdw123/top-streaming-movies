@@ -340,7 +340,7 @@ def generate_movies_html(movies):
 </body>
 </html>
 """
-    with open("movies.html", "w", encoding="utf-8") as f:
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
 def main():
@@ -352,7 +352,7 @@ def main():
 
     generate_movies_json(movies)
     generate_movies_html(movies)
-    print("movies.html and movies.json updated successfully.")
+    print("index.html and movies.json updated successfully.")
 
 if __name__ == "__main__":
     main()
