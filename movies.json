@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T01:58:32.617271Z",
+  "generated_at": "2025-12-26T12:42:31.829726Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -12,6 +12,23 @@
       "release_date": "2025-11-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/o8pg20G67BGmQvRkXwstNre062J.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1259102",
+      "providers": [
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ],
+      "launch_app_id": null
+    },
+    {
+      "id": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+      "rating": 6.7,
+      "release_date": "2025-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1228246",
       "providers": [
         "Amazon Video",
         "Google Play Movies",
@@ -49,37 +66,6 @@
       "launch_app_id": "com.webos.app.netflix"
     },
     {
-      "id": 1228246,
-      "title": "Five Nights at Freddy's 2",
-      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-      "rating": 6.7,
-      "release_date": "2025-12-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1228246",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ],
-      "launch_app_id": null
-    },
-    {
-      "id": 1214931,
-      "title": "Nuremberg",
-      "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-      "rating": 7.2,
-      "release_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1214931",
-      "providers": [
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ],
-      "launch_app_id": null
-    },
-    {
       "id": 7451,
       "title": "xXx",
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
@@ -89,6 +75,21 @@
       "tmdb_url": "https://www.themoviedb.org/movie/7451",
       "providers": [
         "YouTube TV"
+      ],
+      "launch_app_id": null
+    },
+    {
+      "id": 1214931,
+      "title": "Nuremberg",
+      "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+      "rating": 7.1,
+      "release_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1214931",
+      "providers": [
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ],
       "launch_app_id": null
     },
@@ -123,22 +124,6 @@
       "launch_app_id": "com.webos.app.appletv"
     },
     {
-      "id": 1230368,
-      "title": "Springsteen: Deliver Me from Nowhere",
-      "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
-      "rating": 7.0,
-      "release_date": "2025-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1230368",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ],
-      "launch_app_id": null
-    },
-    {
       "id": 1223601,
       "title": "Sisu: Road to Revenge",
       "overview": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
@@ -149,6 +134,22 @@
       "providers": [
         "Amazon Video",
         "Apple TV",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ],
+      "launch_app_id": null
+    },
+    {
+      "id": 1230368,
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+      "rating": 7.0,
+      "release_date": "2025-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1230368",
+      "providers": [
+        "Amazon Video",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
