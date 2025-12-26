@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T01:39:16.191848Z",
+  "generated_at": "2025-12-26T01:43:38.188698Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -107,22 +107,6 @@
       "launch_app_id": "com.webos.app.netflix"
     },
     {
-      "id": 1230368,
-      "title": "Springsteen: Deliver Me from Nowhere",
-      "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
-      "rating": 7.0,
-      "release_date": "2025-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1230368",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ],
-      "launch_app_id": null
-    },
-    {
       "id": 425274,
       "title": "Now You See Me: Now You Don't",
       "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
@@ -137,6 +121,22 @@
         "Fandango At Home"
       ],
       "launch_app_id": "com.webos.app.appletv"
+    },
+    {
+      "id": 1230368,
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+      "rating": 7.0,
+      "release_date": "2025-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1230368",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ],
+      "launch_app_id": null
     },
     {
       "id": 1223601,
