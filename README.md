@@ -75,6 +75,7 @@ top-streaming-movies/
   ├── .github/ 
   
   └── workflows/
+  
     └── update.yml  # GitHub Actions automation 
   
   └── README.md
