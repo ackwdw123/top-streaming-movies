@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T02:59:35.409117Z",
+  "generated_at": "2025-12-27T12:40:38.475372Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1259102,
       "title": "Eternity",
       "overview": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2025-11-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/o8pg20G67BGmQvRkXwstNre062J.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1259102",
@@ -21,6 +21,18 @@
       ]
     },
     {
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 6.7,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1228246,
       "title": "Five Nights at Freddy's 2",
       "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
@@ -28,6 +40,22 @@
       "release_date": "2025-12-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1228246",
+      "providers": [
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "rating": 6.6,
+      "release_date": "2025-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/533533",
       "providers": [
         "Amazon Video",
         "Apple TV",
@@ -50,15 +78,27 @@
       ]
     },
     {
-      "id": 1234731,
-      "title": "Anaconda",
-      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "rating": 6.6,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
+      "id": 7451,
+      "title": "xXx",
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/7451",
       "providers": [
-        "Fandango At Home"
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 1175174,
+      "title": "Fackham Hall",
+      "overview": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+      "rating": 7.8,
+      "release_date": "2025-12-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1175174",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -74,31 +114,6 @@
       ]
     },
     {
-      "id": 1435092,
-      "title": "Goodbye June",
-      "overview": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
-      "rating": 6.9,
-      "release_date": "2025-12-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1435092",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 7451,
-      "title": "xXx",
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/7451",
-      "providers": [
-        "YouTube TV"
-      ]
-    },
-    {
       "id": 425274,
       "title": "Now You See Me: Now You Don't",
       "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
@@ -111,18 +126,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1175174,
-      "title": "Fackham Hall",
-      "overview": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
-      "rating": 7.3,
-      "release_date": "2025-12-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1175174",
-      "providers": [
-        "Amazon Video"
       ]
     },
     {
