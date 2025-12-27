@@ -62,9 +62,9 @@ Everything runs without manual intervention.
 
 top-streaming-movies/ 
 │ 
-├── index.html        # Auto‑generated dashboard 
+├── index.html        # Auto‑generated dashboard
 ├── movies.json       # Auto‑generated movie data 
-├── update.py         # Python script that fetches & builds the page 
+├── update.py         # Python script that fetches & builds the page
 ├── icons/            # Streaming provider icons 
 ├── .github/ 
 └── workflows/
