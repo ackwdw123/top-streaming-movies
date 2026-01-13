@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-01-12T12:49:52.108431Z",
+  "generated_at": "2026-01-13T12:49:42.547420Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1208348,
+      "title": "Rental Family",
+      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+      "rating": 7.8,
+      "release_date": "2025-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
     {
       "id": 1054867,
       "title": "One Battle After Another",
@@ -15,6 +27,31 @@
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 1034716,
+      "title": "People We Meet on Vacation",
+      "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+      "rating": 7.2,
+      "release_date": "2026-01-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1034716",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1371185,
+      "title": "Song Sung Blue",
+      "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+      "rating": 7.4,
+      "release_date": "2025-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1371185",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -34,6 +71,18 @@
       ]
     },
     {
+      "id": 7451,
+      "title": "xXx",
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "rating": 6.0,
+      "release_date": "2002-08-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/7451",
+      "providers": [
+        "YouTube TV"
+      ]
+    },
+    {
       "id": 967941,
       "title": "Wicked: For Good",
       "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
@@ -50,99 +99,15 @@
       ]
     },
     {
-      "id": 1034716,
-      "title": "People We Meet on Vacation",
-      "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
-      "rating": 7.2,
-      "release_date": "2026-01-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1034716",
+      "id": 1043197,
+      "title": "Dust Bunny",
+      "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster she believes ate her entire family. To protect her, he'll need to battle an onslaught of assassins while accepting the fact that some monsters are real.",
+      "rating": 6.5,
+      "release_date": "2025-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1043197",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 7451,
-      "title": "xXx",
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/7451",
-      "providers": [
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 1228246,
-      "title": "Five Nights at Freddy's 2",
-      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
-      "rating": 6.8,
-      "release_date": "2025-12-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1228246",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 533533,
-      "title": "TRON: Ares",
-      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
-      "rating": 6.6,
-      "release_date": "2025-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/533533",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 1233413,
-      "title": "Sinners",
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
-      "providers": [
-        "Amazon Prime Video",
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1252037,
-      "title": "The Tank",
-      "overview": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines. As they make their way through the lethal no-man's land, they must confront not only the enemy, but also their own fears and inner demons. Fueled by the Wehrmacht's methamphetamine, their mission increasingly becomes a journey into the heart of darkness.",
-      "rating": 7.0,
-      "release_date": "2025-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1252037",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "rating": 6.6,
-      "release_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/425274",
-      "providers": [
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Amazon Video"
       ]
     }
   ]
