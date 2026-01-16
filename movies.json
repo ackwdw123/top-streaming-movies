@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T12:47:37.048440Z",
+  "generated_at": "2026-01-16T12:46:40.207840Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -20,47 +20,6 @@
       ]
     },
     {
-      "id": 1043197,
-      "title": "Dust Bunny",
-      "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
-      "rating": 7.2,
-      "release_date": "2025-12-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1043197",
-      "providers": [
-        "Amazon Video",
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 1371185,
-      "title": "Song Sung Blue",
-      "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "rating": 7.6,
-      "release_date": "2025-12-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1371185",
-      "providers": [
-        "Amazon Video",
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 1584215,
-      "title": "The Internship",
-      "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
-      "rating": 6.8,
-      "release_date": "2026-01-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1584215",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
       "id": 7451,
       "title": "xXx",
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
@@ -70,6 +29,21 @@
       "tmdb_url": "https://www.themoviedb.org/movie/7451",
       "providers": [
         "YouTube TV"
+      ]
+    },
+    {
+      "id": 1043197,
+      "title": "Dust Bunny",
+      "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
+      "rating": 7.3,
+      "release_date": "2025-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1043197",
+      "providers": [
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
@@ -86,19 +60,43 @@
       ]
     },
     {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+      "id": 1584215,
+      "title": "The Internship",
+      "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+      "rating": 7.1,
+      "release_date": "2026-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1584215",
       "providers": [
         "Amazon Video",
         "Apple TV",
         "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1412598,
+      "title": "Killer Whale",
+      "overview": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against the ocean’s top apex predator: the orca. With a dark cloud of the past hanging over them and their clashing personalities, will they make it out alive or become a part of the food chain?",
+      "rating": null,
+      "release_date": "2026-01-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1371185,
+      "title": "Song Sung Blue",
+      "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+      "rating": 7.7,
+      "release_date": "2025-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1371185",
+      "providers": [
+        "Amazon Video",
+        "Apple TV"
       ]
     },
     {
@@ -118,16 +116,19 @@
       ]
     },
     {
-      "id": 1610413,
-      "title": "One Last Adventure: The Making of Stranger Things 5",
-      "overview": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series.",
-      "rating": 7.7,
-      "release_date": "2026-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1610413",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
