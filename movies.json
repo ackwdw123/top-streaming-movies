@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-01-17T12:41:00.719624Z",
+  "generated_at": "2026-01-18T12:40:49.487689Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1412598,
-      "title": "Killer Whale",
-      "overview": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against the ocean’s top apex predator: the orca. With a dark cloud of the past hanging over them and their clashing personalities, will they make it out alive or become a part of the food chain?",
-      "rating": 5.0,
-      "release_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
+      "id": 1306368,
+      "title": "The Rip",
+      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+      "rating": 7.1,
+      "release_date": "2026-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
       "providers": [
-        "Amazon Video"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -26,21 +27,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/7451",
       "providers": [
         "YouTube TV"
-      ]
-    },
-    {
-      "id": 1208348,
-      "title": "Rental Family",
-      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "rating": 7.7,
-      "release_date": "2025-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
       ]
     },
     {
@@ -59,6 +45,48 @@
       ]
     },
     {
+      "id": 1412598,
+      "title": "Killer Whale",
+      "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+      "rating": 6.3,
+      "release_date": "2026-01-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1208348,
+      "title": "Rental Family",
+      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+      "rating": 7.9,
+      "release_date": "2025-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
+      "providers": [
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1034716,
+      "title": "People We Meet on Vacation",
+      "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
+      "rating": 7.2,
+      "release_date": "2026-01-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1034716",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
@@ -72,18 +100,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1454741,
-      "title": "The Confession",
-      "overview": "When a struggling musician moves back into her childhood home, she discovers a recording of her deceased father confessing to a grisly murder he claims to have committed to protect himself from an unknown evil force. As her young son exhibits increasingly unsettling behavior, she becomes more and more desperate in her attempts to stop the evil.",
-      "rating": 6.0,
-      "release_date": "2026-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xJCwYlJX6UfYQuUmLfWWcRP27gK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1454741",
-      "providers": [
-        "Amazon Video"
       ]
     },
     {
@@ -106,7 +122,7 @@
       "id": 1584215,
       "title": "The Internship",
       "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2026-01-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1584215",
@@ -118,29 +134,16 @@
       ]
     },
     {
-      "id": 1034716,
-      "title": "People We Meet on Vacation",
-      "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
-      "rating": 7.2,
-      "release_date": "2026-01-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1034716",
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1371185,
-      "title": "Song Sung Blue",
-      "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
-      "rating": 7.8,
-      "release_date": "2025-12-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1371185",
-      "providers": [
-        "Amazon Video",
-        "Apple TV"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     }
   ]
