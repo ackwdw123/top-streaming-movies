@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T12:52:18.698447Z",
+  "generated_at": "2026-01-21T12:51:55.572958Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -18,6 +18,20 @@
       ]
     },
     {
+      "id": 991494,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "rating": 6.5,
+      "release_date": "2025-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/991494",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
       "id": 7451,
       "title": "xXx",
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
@@ -30,15 +44,30 @@
       ]
     },
     {
-      "id": 991494,
-      "title": "The SpongeBob Movie: Search for SquarePants",
-      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "rating": 6.6,
-      "release_date": "2025-12-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/991494",
+      "id": 1208348,
+      "title": "Rental Family",
+      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+      "rating": 7.8,
+      "release_date": "2025-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "rating": 6.5,
+      "release_date": "2025-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/533533",
+      "providers": [
+        "Disney Plus"
       ]
     },
     {
@@ -54,18 +83,46 @@
       ]
     },
     {
-      "id": 1208348,
-      "title": "Rental Family",
-      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "rating": 7.9,
-      "release_date": "2025-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+      "providers": [
+        "Amazon Video",
+        "Apple TV",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1412598,
+      "title": "Killer Whale",
+      "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+      "rating": 6.1,
+      "release_date": "2026-01-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
       "providers": [
         "Amazon Video",
         "Apple TV",
         "Google Play Movies",
         "YouTube"
+      ]
+    },
+    {
+      "id": 1306400,
+      "title": "Merrily We Roll Along",
+      "overview": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
+      "rating": 8.0,
+      "release_date": "2025-12-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1306400",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -79,63 +136,6 @@
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 1043197,
-      "title": "Dust Bunny",
-      "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
-      "rating": 6.9,
-      "release_date": "2025-12-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1043197",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1412598,
-      "title": "Killer Whale",
-      "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
-      "rating": 5.9,
-      "release_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "rating": 6.6,
-      "release_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/425274",
-      "providers": [
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 533533,
-      "title": "TRON: Ares",
-      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
-      "rating": 6.5,
-      "release_date": "2025-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/533533",
-      "providers": [
-        "Disney Plus"
       ]
     }
   ]
