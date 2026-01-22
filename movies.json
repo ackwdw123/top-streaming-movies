@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T12:51:55.572958Z",
+  "generated_at": "2026-01-22T12:51:49.621037Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,7 +21,7 @@
       "id": 991494,
       "title": "The SpongeBob Movie: Search for SquarePants",
       "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2025-12-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/991494",
@@ -44,6 +44,31 @@
       ]
     },
     {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.3,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "providers": [
+        "fuboTV"
+      ]
+    },
+    {
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
       "id": 1208348,
       "title": "Rental Family",
       "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
@@ -59,83 +84,19 @@
       ]
     },
     {
-      "id": 533533,
-      "title": "TRON: Ares",
-      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
-      "rating": 6.5,
-      "release_date": "2025-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/533533",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.3,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
-      "providers": [
-        "fuboTV"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "rating": 6.7,
+      "release_date": "2025-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/967941",
       "providers": [
         "Amazon Video",
         "Apple TV",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1412598,
-      "title": "Killer Whale",
-      "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
-      "rating": 6.1,
-      "release_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1412598",
-      "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1306400,
-      "title": "Merrily We Roll Along",
-      "overview": "Franklin Shepard is a talented Broadway composer who abandons his theater career and all his friends in New York in order to produce films in Los Angeles. The story begins at the height of his Hollywood fame and moves backwards in time, showing snapshots of the most important moments in Frank’s life that shaped the man he is today. A live recording of the 2024 Tony Award-winning Broadway revival of Stephen Sondheim and George Furth's musical, filmed at the Hudson Theatre in New York City.",
-      "rating": 8.0,
-      "release_date": "2025-12-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1306400",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
       ]
     }
   ]
