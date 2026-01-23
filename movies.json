@@ -1,20 +1,22 @@
 {
-  "generated_at": "2026-01-22T12:51:49.621037Z",
+  "generated_at": "2026-01-23T12:49:58.502830Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1306368,
-      "title": "The Rip",
-      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "rating": 7.1,
-      "release_date": "2026-01-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
+      "id": 1233413,
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -27,32 +29,22 @@
       "tmdb_url": "https://www.themoviedb.org/movie/991494",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube"
       ]
     },
     {
-      "id": 7451,
-      "title": "xXx",
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-      "rating": 6.0,
-      "release_date": "2002-08-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/7451",
+      "id": 1306368,
+      "title": "The Rip",
+      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+      "rating": 7.0,
+      "release_date": "2026-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
       "providers": [
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.3,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
-      "providers": [
-        "fuboTV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -69,34 +61,71 @@
       ]
     },
     {
-      "id": 1208348,
-      "title": "Rental Family",
-      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-      "rating": 7.8,
-      "release_date": "2025-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
+      "id": 701387,
+      "title": "Bugonia",
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "rating": 7.4,
+      "release_date": "2025-10-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/701387",
       "providers": [
-        "Amazon Video",
-        "Apple TV",
-        "Google Play Movies",
-        "YouTube"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
-      "id": 967941,
-      "title": "Wicked: For Good",
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/967941",
+      "id": 1124566,
+      "title": "Sentimental Value",
+      "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+      "rating": 7.6,
+      "release_date": "2025-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wQD86MqaAqD1U68NFxIkRF5qS5u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1124566",
       "providers": [
         "Amazon Video",
-        "Apple TV",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "rating": 7.7,
+      "release_date": "2025-10-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1241983,
+      "title": "Train Dreams",
+      "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+      "rating": 7.3,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1241983",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 911430,
+      "title": "F1",
+      "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+      "rating": 7.8,
+      "release_date": "2025-06-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/911430",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
