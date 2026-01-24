@@ -1,9 +1,76 @@
 {
-  "generated_at": "2026-01-23T12:49:58.502830Z",
+  "generated_at": "2026-01-24T12:41:56.718012Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1443762,
+      "title": "The Big Fake",
+      "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere — from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere — even in the history of Italy.",
+      "rating": 6.5,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fEkHAmi2P85IWgqBLj56e1JJ3o8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1443762",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1306368,
+      "title": "The Rip",
+      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+      "rating": 7.1,
+      "release_date": "2026-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1575337,
+      "title": "Cosmic Princess Kaguya!",
+      "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+      "rating": 8.4,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1575337",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1608982,
+      "title": "From the Ashes: The Pit",
+      "overview": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive.",
+      "rating": 3.6,
+      "release_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iwZIR8wp1lqj69zsbWmZKhXTTIU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1608982",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 991494,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "rating": 6.5,
+      "release_date": "2025-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/991494",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
     {
       "id": 1233413,
       "title": "Sinners",
@@ -17,34 +84,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 991494,
-      "title": "The SpongeBob Movie: Search for SquarePants",
-      "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
-      "rating": 6.4,
-      "release_date": "2025-12-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/991494",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1306368,
-      "title": "The Rip",
-      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "rating": 7.0,
-      "release_date": "2026-01-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -74,32 +113,19 @@
       ]
     },
     {
-      "id": 1124566,
-      "title": "Sentimental Value",
-      "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-      "rating": 7.6,
-      "release_date": "2025-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wQD86MqaAqD1U68NFxIkRF5qS5u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1124566",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -113,19 +139,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 911430,
-      "title": "F1",
-      "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/911430",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     }
   ]
