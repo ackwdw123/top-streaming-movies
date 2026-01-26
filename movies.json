@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T12:43:21.119321Z",
+  "generated_at": "2026-01-26T12:50:54.957969Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,7 +21,7 @@
       "id": 1443762,
       "title": "The Big Fake",
       "overview": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere — from art galleries to state secrets. Between art, crime, and power, his signature ends up everywhere — even in the history of Italy.",
-      "rating": 6.5,
+      "rating": 6.3,
       "release_date": "2026-01-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1443762",
@@ -34,7 +34,7 @@
       "id": 1575337,
       "title": "Cosmic Princess Kaguya!",
       "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
-      "rating": 8.4,
+      "rating": 8.6,
       "release_date": "2026-01-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1575337",
@@ -59,21 +59,6 @@
       ]
     },
     {
-      "id": 1233413,
-      "title": "Sinners",
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
-      "providers": [
-        "Amazon Prime Video",
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 1208348,
       "title": "Rental Family",
       "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
@@ -89,61 +74,31 @@
       ]
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
+      "id": 1233413,
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
+      "providers": [
+        "Amazon Prime Video",
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "overview": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.",
+      "rating": 7.2,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/812583",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 701387,
-      "title": "Bugonia",
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-      "rating": 7.4,
-      "release_date": "2025-10-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/701387",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 967941,
-      "title": "Wicked: For Good",
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lDL8vPUuJs2LsPHPjAGhkbYTpNX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/967941",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
