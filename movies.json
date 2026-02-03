@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-02-02T13:01:28.929993Z",
+  "generated_at": "2026-02-03T13:01:57.925435Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.1,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
     {
       "id": 1168190,
       "title": "The Wrecking Crew",
@@ -18,13 +30,13 @@
       ]
     },
     {
-      "id": 1234731,
-      "title": "Anaconda",
-      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "rating": 5.9,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -33,13 +45,13 @@
       ]
     },
     {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 5.9,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -63,9 +75,21 @@
       ]
     },
     {
+      "id": 1370814,
+      "title": "The Plague",
+      "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
+      "rating": 7.9,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1370814",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1291608,
       "title": "Dhurandhar",
-      "overview": "In the early 2000s, an Indian undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from within.",
+      "overview": "After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal, devises an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi with the help of a 20-year-old from Punjab, held captive for a revenge crime.",
       "rating": 6.9,
       "release_date": "2025-12-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
@@ -76,6 +100,31 @@
       ]
     },
     {
+      "id": 1575337,
+      "title": "Cosmic Princess Kaguya!",
+      "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+      "rating": 8.2,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1575337",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
+      "rating": 6.5,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1306368,
       "title": "The Rip",
       "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
@@ -83,60 +132,6 @@
       "release_date": "2026-01-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1306368",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 911430,
-      "title": "F1",
-      "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-      "rating": 7.8,
-      "release_date": "2025-06-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/911430",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.1,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 967941,
-      "title": "Wicked: For Good",
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "rating": 6.7,
-      "release_date": "2025-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lDL8vPUuJs2LsPHPjAGhkbYTpNX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/967941",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1271895,
-      "title": "96 Minutes",
-      "overview": "Former bomb disposal expert, Song Kang-Ren, and his fiancée, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a well-known physics teacher who was involved in an affair scandal, also boards this same train in order to win back his wife, Ting Juan, who took the prior high-speed rail to return home in frustration…  After all, can the bomb be successfully defused this time? and resolve the crisis?",
-      "rating": 6.7,
-      "release_date": "2025-09-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gWKZ1iLhukvLoh8XY2N4tMvRQ2M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1271895",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
