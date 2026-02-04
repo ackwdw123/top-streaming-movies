@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T13:01:57.925435Z",
+  "generated_at": "2026-02-04T13:00:58.747132Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -17,16 +17,57 @@
       ]
     },
     {
-      "id": 1168190,
-      "title": "The Wrecking Crew",
-      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "rating": 6.5,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
+      "rating": 6.2,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vWOALCjS3cANciJKkG0qV8k1izW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1370814,
+      "title": "The Plague",
+      "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
+      "rating": 7.8,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1370814",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1180417,
+      "title": "The Dutchman",
+      "overview": "A successful black businessman, haunted by his crumbling marriage and identity crisis, is drawn into a psychological game of cat and mouse with a mysterious white woman he encounters on a New York subway.",
+      "rating": 3.9,
+      "release_date": "2026-01-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1180417",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
@@ -42,6 +83,19 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube"
+      ]
+    },
+    {
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "rating": 6.7,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -75,66 +129,15 @@
       ]
     },
     {
-      "id": 1370814,
-      "title": "The Plague",
-      "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
-      "rating": 7.9,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1370814",
+      "id": 1220564,
+      "title": "The Secret Agent",
+      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+      "rating": 7.7,
+      "release_date": "2025-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
       "providers": [
         "Amazon Video"
-      ]
-    },
-    {
-      "id": 1291608,
-      "title": "Dhurandhar",
-      "overview": "After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal, devises an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi with the help of a 20-year-old from Punjab, held captive for a revenge crime.",
-      "rating": 6.9,
-      "release_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291608",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1575337,
-      "title": "Cosmic Princess Kaguya!",
-      "overview": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
-      "rating": 8.2,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1575337",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1198984,
-      "title": "We Bury the Dead",
-      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
-      "rating": 6.5,
-      "release_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1306368,
-      "title": "The Rip",
-      "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-      "rating": 7.0,
-      "release_date": "2026-01-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1306368",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
