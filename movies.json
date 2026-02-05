@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T13:00:58.747132Z",
+  "generated_at": "2026-02-05T13:03:51.559912Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -10,17 +10,20 @@
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "rating": 7.1,
       "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
       "id": 858024,
       "title": "Hamnet",
       "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.8,
+      "rating": 7.7,
       "release_date": "2025-11-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/858024",
@@ -29,55 +32,38 @@
       ]
     },
     {
+      "id": 1466115,
+      "title": "Even If This Love Disappears Tonight",
+      "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
+      "rating": 7.3,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1466115",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1548113,
+      "title": "The Muppet Show",
+      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "rating": 7.1,
+      "release_date": "2026-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ox9U8j29MFOtGjjEwsPlN7tvyv1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 1198984,
       "title": "We Bury the Dead",
       "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
-      "rating": 6.2,
+      "rating": 6.3,
       "release_date": "2026-01-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/vWOALCjS3cANciJKkG0qV8k1izW.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1198984",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1370814,
-      "title": "The Plague",
-      "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
-      "rating": 7.8,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1370814",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1180417,
-      "title": "The Dutchman",
-      "overview": "A successful black businessman, haunted by his crumbling marriage and identity crisis, is drawn into a psychological game of cat and mouse with a mysterious white woman he encounters on a New York subway.",
-      "rating": 3.9,
-      "release_date": "2026-01-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1180417",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -99,6 +85,34 @@
       ]
     },
     {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1620991,
+      "title": "The Investigation of Lucy Letby",
+      "overview": "An engaging and thought-provoking look at Lucy Letby, the former nurse serving life in prison after being convicted of the murders of seven infants and the attempted murders of seven others.",
+      "rating": 8.0,
+      "release_date": "2026-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1620991",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1234731,
       "title": "Anaconda",
       "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
@@ -114,30 +128,17 @@
       ]
     },
     {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.5,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1mF4othta76CEXcL1YFInYudQ7K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
+      "id": 1370814,
+      "title": "The Plague",
+      "overview": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer.",
+      "rating": 7.5,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1370814",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1220564,
-      "title": "The Secret Agent",
-      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "rating": 7.7,
-      "release_date": "2025-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
-      "providers": [
-        "Amazon Video"
+        "Google Play Movies"
       ]
     }
   ]
