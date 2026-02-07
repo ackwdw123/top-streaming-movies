@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T13:00:59.856880Z",
+  "generated_at": "2026-02-07T12:50:46.433401Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -20,15 +20,17 @@
       ]
     },
     {
-      "id": 1548113,
-      "title": "The Muppet Show",
-      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "rating": 6.4,
-      "release_date": "2026-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
+      "id": 1373198,
+      "title": "Twisted",
+      "overview": "Two millennials make quick money by leasing incredible New York City apartments they don’t own to people who don’t know they are being scammed. The con works brilliantly until they run into an apartment owner with a dark secret who flips the game on them.",
+      "rating": 4.8,
+      "release_date": "2026-02-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1373198",
       "providers": [
-        "Disney Plus"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies"
       ]
     },
     {
@@ -45,29 +47,15 @@
       ]
     },
     {
-      "id": 1433842,
-      "title": "Relationship Goals",
-      "overview": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
-      "rating": 4.3,
-      "release_date": "2026-02-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1433842",
+      "id": 1548113,
+      "title": "The Muppet Show",
+      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "rating": 6.7,
+      "release_date": "2026-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1466115,
-      "title": "Even If This Love Disappears Tonight",
-      "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
-      "rating": 6.8,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1466115",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Disney Plus"
       ]
     },
     {
@@ -86,29 +74,18 @@
       ]
     },
     {
-      "id": 1168190,
-      "title": "The Wrecking Crew",
-      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 5.8,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1410399,
-      "title": "Death Whisperer 3",
-      "overview": "After successfully defeated the black-suited ghost, Yak must now set out on another journey to find Yee, his youngest sister who has been kidnapped by a cult. Yak and his partner Sergeant Paphan are forced to enter a fearsome cursed village.",
-      "rating": 4.6,
-      "release_date": "2025-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iGKM5vTczW0U17Wi0Aek4Mkl1y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1410399",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
@@ -127,16 +104,42 @@
       ]
     },
     {
-      "id": 1206008,
-      "title": "Ella McCay",
-      "overview": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state’s longtime incumbent governor.",
-      "rating": 5.8,
-      "release_date": "2025-12-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1206008",
+      "id": 1433842,
+      "title": "Relationship Goals",
+      "overview": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
+      "rating": 5.2,
+      "release_date": "2026-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1433842",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1466115,
+      "title": "Even If This Love Disappears Tonight",
+      "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
+      "rating": 7.2,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1466115",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
