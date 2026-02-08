@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T12:50:46.433401Z",
+  "generated_at": "2026-02-08T12:51:44.755851Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2025-12-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1368166",
@@ -20,42 +20,16 @@
       ]
     },
     {
-      "id": 1373198,
-      "title": "Twisted",
-      "overview": "Two millennials make quick money by leasing incredible New York City apartments they don’t own to people who don’t know they are being scammed. The con works brilliantly until they run into an apartment owner with a dark secret who flips the game on them.",
-      "rating": 4.8,
-      "release_date": "2026-02-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1373198",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies"
-      ]
-    },
-    {
       "id": 858024,
       "title": "Hamnet",
       "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2025-11-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
         "Amazon Video",
         "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1548113,
-      "title": "The Muppet Show",
-      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "rating": 6.7,
-      "release_date": "2026-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
-      "providers": [
-        "Disney Plus"
       ]
     },
     {
@@ -74,10 +48,22 @@
       ]
     },
     {
+      "id": 1548113,
+      "title": "The Muppet Show",
+      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "rating": 7.1,
+      "release_date": "2026-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 1234731,
       "title": "Anaconda",
       "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "rating": 5.8,
+      "rating": 5.9,
       "release_date": "2025-12-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1234731",
@@ -89,13 +75,13 @@
       ]
     },
     {
-      "id": 1198984,
-      "title": "We Bury the Dead",
-      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
-      "rating": 6.1,
-      "release_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "id": 1429605,
+      "title": "F Valentine's Day",
+      "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "rating": 4.5,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1429605",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -104,16 +90,17 @@
       ]
     },
     {
-      "id": 1433842,
-      "title": "Relationship Goals",
-      "overview": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focused on her career, until chemistry with her ex challenges her priorities.",
-      "rating": 5.2,
-      "release_date": "2026-02-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1433842",
+      "id": 1373198,
+      "title": "Twisted",
+      "overview": "Two millennials make quick money by leasing incredible New York City apartments they don’t own to people who don’t know they are being scammed. The con works brilliantly until they run into an apartment owner with a dark secret who flips the game on them.",
+      "rating": 4.6,
+      "release_date": "2026-02-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1373198",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies"
       ]
     },
     {
@@ -130,16 +117,34 @@
       ]
     },
     {
-      "id": 1466115,
-      "title": "Even If This Love Disappears Tonight",
-      "overview": "A high school girl wakes up each day with no memory of yesterday. When she agrees to date a shy classmate, can their love grow with every new beginning?",
-      "rating": 7.2,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1466115",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
+      "rating": 6.2,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     }
   ]
