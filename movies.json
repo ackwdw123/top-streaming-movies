@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-02-08T12:51:44.755851Z",
+  "generated_at": "2026-02-09T13:17:53.009815Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.7,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
     {
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "rating": 7.2,
       "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
         "Amazon Video",
@@ -48,6 +60,37 @@
       ]
     },
     {
+      "id": 1429605,
+      "title": "F Valentine's Day",
+      "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
+      "rating": 6.0,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1429605",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.8,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1548113,
       "title": "The Muppet Show",
       "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
@@ -60,28 +103,13 @@
       ]
     },
     {
-      "id": 1234731,
-      "title": "Anaconda",
-      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "rating": 5.9,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1429605,
-      "title": "F Valentine's Day",
-      "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "rating": 4.5,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1429605",
+      "id": 1043197,
+      "title": "Dust Bunny",
+      "overview": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onslaught of assassins while accepting that some monsters are real.",
+      "rating": 6.7,
+      "release_date": "2025-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1043197",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -104,42 +132,13 @@
       ]
     },
     {
-      "id": 1168190,
-      "title": "The Wrecking Crew",
-      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1198984,
-      "title": "We Bury the Dead",
-      "overview": "After a catastrophic military disaster, the dead don't just rise—they hunt. The military insists they are harmless and slow-moving, offering hope to grieving families. But when Ava enters a quarantine zone searching for her missing husband, she uncovers the horrifying truth: the undead are growing more violent, more relentless, and more dangerous with every passing hour.",
-      "rating": 6.2,
-      "release_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 5.9,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
