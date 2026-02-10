@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T13:17:53.009815Z",
+  "generated_at": "2026-02-10T13:15:14.264316Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -17,12 +17,24 @@
       ]
     },
     {
+      "id": 1315303,
+      "title": "Primate",
+      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+      "rating": 6.3,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1315303",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "rating": 7.2,
       "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
         "Amazon Video",
@@ -45,6 +57,18 @@
       ]
     },
     {
+      "id": 1146344,
+      "title": "Misdirection",
+      "overview": "A desperate couple who have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+      "rating": 8.0,
+      "release_date": "2026-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1146344",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1084242,
       "title": "Zootopia 2",
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
@@ -60,46 +84,18 @@
       ]
     },
     {
-      "id": 1429605,
-      "title": "F Valentine's Day",
-      "overview": "Gina hates her Valentine's Day birthday and travels to Greece to prevent her boyfriend's proposal. With help from vacationers Johnny and his sister Mickey, she schemes to delay it – while questioning her relationship.",
-      "rating": 6.0,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1429605",
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 5.8,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.8,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1548113,
-      "title": "The Muppet Show",
-      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
-      "rating": 7.1,
-      "release_date": "2026-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
-      "providers": [
-        "Disney Plus"
       ]
     },
     {
@@ -118,32 +114,28 @@
       ]
     },
     {
-      "id": 1373198,
-      "title": "Twisted",
-      "overview": "Two millennials make quick money by leasing incredible New York City apartments they don’t own to people who don’t know they are being scammed. The con works brilliantly until they run into an apartment owner with a dark secret who flips the game on them.",
-      "rating": 4.6,
-      "release_date": "2026-02-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1373198",
+      "id": 1548113,
+      "title": "The Muppet Show",
+      "overview": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+      "rating": 7.0,
+      "release_date": "2026-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1548113",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies"
+        "Disney Plus"
       ]
     },
     {
-      "id": 1234731,
-      "title": "Anaconda",
-      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-      "rating": 5.9,
-      "release_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
+      "id": 1168190,
+      "title": "The Wrecking Crew",
+      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
