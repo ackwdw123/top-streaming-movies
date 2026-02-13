@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T13:09:33.973431Z",
+  "generated_at": "2026-02-13T13:01:06.986484Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -23,7 +23,7 @@
       "id": 1317288,
       "title": "Marty Supreme",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.7,
+      "rating": 7.6,
       "release_date": "2025-12-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1317288",
@@ -33,29 +33,16 @@
       ]
     },
     {
-      "id": 1140498,
-      "title": "Is This Thing On?",
-      "overview": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "rating": 7.2,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1140498",
+      "id": 1426964,
+      "title": "State of Fear",
+      "overview": "As São Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped niece.",
+      "rating": 4.2,
+      "release_date": "2026-02-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1426964",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.8,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -67,11 +54,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Hulu"
       ]
     },
     {
@@ -90,16 +73,29 @@
       ]
     },
     {
-      "id": 1570282,
-      "title": "This Is I",
-      "overview": "Bullied for wanting to be an idol, Kenji finds belonging in a cabaret and help from a trailblazing doctor, emerging onstage as her true self, Ai Haruna.",
-      "rating": 6.0,
-      "release_date": "2026-02-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3aMYB238ZU2GPjP7YAvcIzPjQaN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1570282",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1140498,
+      "title": "Is This Thing On?",
+      "overview": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "rating": 6.8,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1140498",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store"
       ]
     },
     {
@@ -118,13 +114,13 @@
       ]
     },
     {
-      "id": 1323625,
-      "title": "Night Patrol",
-      "overview": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger.",
-      "rating": 4.0,
-      "release_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1323625",
+      "id": 1234731,
+      "title": "Anaconda",
+      "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+      "rating": 5.8,
+      "release_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234731",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -133,16 +129,15 @@
       ]
     },
     {
-      "id": 1168190,
-      "title": "The Wrecking Crew",
-      "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1168190",
+      "id": 1193128,
+      "title": "I Was a Stranger",
+      "overview": "A Syrian doctor and her daughter flee Aleppo, setting off a chain of events that binds five strangers together. A smuggler, a soldier, a poet, and a coast guard captain collide in a crisis that tests their courage, their choices, and their humanity.",
+      "rating": 5.7,
+      "release_date": "2026-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/RBIrEveMOIy5Kxg2WzgMnCIhaN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1193128",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Angel Studios"
       ]
     }
   ]
