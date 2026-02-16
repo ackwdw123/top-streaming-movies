@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-02-15T12:52:44.564962Z",
+  "generated_at": "2026-02-16T13:04:55.177834Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.6,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
     {
       "id": 858024,
       "title": "Hamnet",
@@ -15,59 +28,6 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1317672,
-      "title": "Love Me Love Me",
-      "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "rating": 6.2,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317672",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1243460,
-      "title": "Joe's College Road Trip",
-      "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "rating": 4.4,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1243460",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/425274",
-      "providers": [
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     },
     {
@@ -86,47 +46,15 @@
       ]
     },
     {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.6,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "rating": 7.7,
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 13494,
-      "title": "Red Sonja",
-      "overview": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
-      "rating": 5.7,
-      "release_date": "2025-07-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/13494",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
+        "Hulu"
       ]
     },
     {
@@ -142,6 +70,79 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube"
+      ]
+    },
+    {
+      "id": 425274,
+      "title": "Now You See Me: Now You Don't",
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/425274",
+      "providers": [
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1243460,
+      "title": "Joe's College Road Trip",
+      "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+      "rating": 4.7,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1243460",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1317672,
+      "title": "Love Me Love Me",
+      "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "rating": 6.1,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317672",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1339173,
+      "title": "Honey Bunch",
+      "overview": "Diana's husband is taking her to an experimental trauma facility deep in the wilderness, but she can't remember why... As her memories begin to creep back in so do some unwelcome sinister truths about her marriage.",
+      "rating": 7.2,
+      "release_date": "2026-01-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rR6zS2sPpcjND92cCLmsuMNok7M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339173",
+      "providers": [
+        "AMC Plus Apple TV Channel ",
+        "AMC+ Amazon Channel",
+        "Philo",
+        "Shudder",
+        "Shudder Amazon Channel",
+        "Shudder Apple TV Channel"
       ]
     }
   ]
