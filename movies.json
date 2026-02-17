@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-02-16T13:04:55.177834Z",
+  "generated_at": "2026-02-17T13:05:00.048041Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1272837,
+      "title": "28 Years Later: The Bone Temple",
+      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "rating": 7.2,
+      "release_date": "2026-01-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1272837",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
     {
       "id": 1317288,
       "title": "Marty Supreme",
@@ -15,76 +40,6 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.8,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1315303,
-      "title": "Primate",
-      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "rating": 6.6,
-      "release_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1315303",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/425274",
-      "providers": [
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     },
     {
@@ -103,23 +58,25 @@
       ]
     },
     {
-      "id": 1243460,
-      "title": "Joe's College Road Trip",
-      "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
-      "rating": 4.7,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1243460",
+      "id": 1315303,
+      "title": "Primate",
+      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+      "rating": 6.7,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1315303",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
       "id": 1317672,
       "title": "Love Me Love Me",
       "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "rating": 6.1,
+      "rating": 6.0,
       "release_date": "2026-02-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1317672",
@@ -129,20 +86,59 @@
       ]
     },
     {
-      "id": 1339173,
-      "title": "Honey Bunch",
-      "overview": "Diana's husband is taking her to an experimental trauma facility deep in the wilderness, but she can't remember why... As her memories begin to creep back in so do some unwelcome sinister truths about her marriage.",
-      "rating": 7.2,
-      "release_date": "2026-01-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rR6zS2sPpcjND92cCLmsuMNok7M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339173",
+      "id": 1243460,
+      "title": "Joe's College Road Trip",
+      "overview": "To teach his sheltered grandson about the real world, Madea's foul-mouthed brother Joe takes the college-bound teen on a raucous cross-country road trip.",
+      "rating": 5.1,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1243460",
       "providers": [
-        "AMC Plus Apple TV Channel ",
-        "AMC+ Amazon Channel",
-        "Philo",
-        "Shudder",
-        "Shudder Amazon Channel",
-        "Shudder Apple TV Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 425274,
+      "title": "Now You See Me: Now You Don't",
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "rating": 6.5,
+      "release_date": "2025-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/425274",
+      "providers": [
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1426964,
+      "title": "State of Fear",
+      "overview": "As São Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped niece.",
+      "rating": 4.9,
+      "release_date": "2026-02-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1426964",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     }
   ]
