@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T13:05:53.091764Z",
+  "generated_at": "2026-02-19T13:07:02.397954Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -25,7 +25,23 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1272837",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1088434,
+      "title": "Hellfire",
+      "overview": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
+      "rating": 6.9,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1088434",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
@@ -39,62 +55,6 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1315303,
-      "title": "Primate",
-      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "rating": 6.6,
-      "release_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1315303",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1317672,
-      "title": "Love Me Love Me",
-      "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James-hiding a dangerous life in clandestine MMA fights-sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-      "rating": 5.9,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317672",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
       ]
     },
     {
@@ -113,15 +73,42 @@
       ]
     },
     {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "rating": 7.7,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
-        "Disney Plus",
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1208348,
+      "title": "Rental Family",
+      "overview": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+      "rating": 7.8,
+      "release_date": "2025-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nRrwqApUDFL8gLGyJFIdDkmoule.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1208348",
+      "providers": [
         "Hulu"
       ]
     },
@@ -131,12 +118,25 @@
       "overview": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
       "rating": 6.7,
       "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1140498",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Fandango"
+      ]
+    },
+    {
+      "id": 1317672,
+      "title": "Love Me Love Me",
+      "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+      "rating": 6.0,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317672",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
