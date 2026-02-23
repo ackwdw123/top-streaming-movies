@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T12:51:22.625020Z",
+  "generated_at": "2026-02-23T13:06:07.994166Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,12 +8,13 @@
       "id": 1236153,
       "title": "Mercy",
       "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2026-01-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1236153",
       "providers": [
         "Amazon Video",
+        "Google Play Movies",
         "YouTube",
         "Fandango At Home"
       ]
@@ -22,37 +23,25 @@
       "id": 1272837,
       "title": "28 Years Later: The Bone Temple",
       "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "rating": 7.3,
+      "rating": 7.2,
       "release_date": "2026-01-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1272837",
       "providers": [
         "Amazon Video",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 1428862,
-      "title": "Firebreak",
-      "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
-      "rating": 6.0,
-      "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1428862",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.6,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -60,57 +49,28 @@
       ]
     },
     {
-      "id": 1327690,
-      "title": "One Mile: Chapter Two",
-      "overview": "Former special forces operative Danny is forced back onto a remote island when a violent, secretive community takes revenge by abducting his daughter Alex, launching a relentless hunt against enemies prepared for his every move.",
-      "rating": 8.6,
-      "release_date": "2026-02-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327690",
+      "id": 1327688,
+      "title": "One Mile: Chapter One",
+      "overview": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
+      "rating": 7.7,
+      "release_date": "2026-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327688",
       "providers": [
-        "Amazon Video",
-        "YouTube"
+        "Google Play Movies"
       ]
     },
     {
-      "id": 1268609,
-      "title": "Pavane",
-      "overview": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
-      "rating": 7.2,
+      "id": 1428862,
+      "title": "Firebreak",
+      "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+      "rating": 6.1,
       "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1268609",
+      "poster_url": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1428862",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1242937,
-      "title": "The Dreadful",
-      "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
-      "rating": 7.2,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242937",
-      "providers": [
-        "Google Play Movies",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1088434,
-      "title": "Hellfire",
-      "overview": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them.",
-      "rating": 7.2,
-      "release_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1088434",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     },
     {
@@ -130,16 +90,59 @@
       ]
     },
     {
-      "id": 1261188,
-      "title": "The Swedish Connection",
-      "overview": "Swedish Foreign Ministry bureaucrat Gösta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral force. His efforts challenged the status quo and left a lasting humanitarian legacy.",
-      "rating": 8.0,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1261188",
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.6,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1268609,
+      "title": "Pavane",
+      "overview": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of love.",
+      "rating": 7.5,
+      "release_date": "2026-02-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1268609",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1242937,
+      "title": "The Dreadful",
+      "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
+      "rating": 7.1,
+      "release_date": "2026-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242937",
+      "providers": [
+        "Google Play Movies",
+        "Fandango At Home"
       ]
     }
   ]
