@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T13:07:28.968254Z",
+  "generated_at": "2026-02-25T13:06:12.332661Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,10 +8,64 @@
       "id": 1290821,
       "title": "Shelter",
       "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 7.4,
+      "rating": 7.1,
       "release_date": "2026-01-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "rating": 5.1,
+      "release_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/680493",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1263012,
+      "title": "Dead Man's Wire",
+      "overview": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
+      "rating": 6.6,
+      "release_date": "2025-12-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1263012",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 804370,
+      "title": "Arco",
+      "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
+      "rating": 7.8,
+      "release_date": "2025-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/804370",
       "providers": [
         "Amazon Video"
       ]
@@ -47,82 +101,16 @@
       ]
     },
     {
-      "id": 680493,
-      "title": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "rating": 5.1,
-      "release_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/680493",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
       "id": 1317288,
       "title": "Marty Supreme",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2025-12-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1317288",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1428862,
-      "title": "Firebreak",
-      "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
-      "rating": 6.1,
-      "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1428862",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1327688,
-      "title": "One Mile: Chapter One",
-      "overview": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves fighting for more than their lost relationship when a murderous cult pursues them.",
-      "rating": 7.7,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327688",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1242937,
-      "title": "The Dreadful",
-      "overview": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past returns from war, a curse begins to take shape through a mysterious knight and threatens to destroy them all.",
-      "rating": 6.9,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242937",
-      "providers": [
-        "Google Play Movies",
         "Fandango At Home"
       ]
     },
@@ -140,6 +128,19 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1428862,
+      "title": "Firebreak",
+      "overview": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames do.",
+      "rating": 6.2,
+      "release_date": "2026-02-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1428862",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
