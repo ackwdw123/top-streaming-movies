@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T13:00:24.648823Z",
+  "generated_at": "2026-02-28T12:47:00.509628Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 799882,
       "title": "The Bluff",
       "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
-      "rating": 5.9,
+      "rating": 6.0,
       "release_date": "2026-02-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/799882",
@@ -21,12 +21,28 @@
       "id": 1290821,
       "title": "Shelter",
       "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 7.0,
+      "rating": 6.9,
       "release_date": "2026-01-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290821",
       "providers": [
         "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1214931,
+      "title": "Nuremberg",
+      "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+      "rating": 7.3,
+      "release_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1214931",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -38,21 +54,6 @@
       "release_date": "2026-01-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1272837",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 680493,
-      "title": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "rating": 5.1,
-      "release_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/680493",
       "providers": [
         "Amazon Video",
         "Google Play Movies",
@@ -82,6 +83,21 @@
       "release_date": "2026-01-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1236153",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "rating": 5.1,
+      "release_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/680493",
       "providers": [
         "Amazon Video",
         "Google Play Movies",
@@ -120,31 +136,18 @@
       ]
     },
     {
-      "id": 425274,
-      "title": "Now You See Me: Now You Don't",
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-      "rating": 6.5,
-      "release_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/425274",
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
+        "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 804370,
-      "title": "Arco",
-      "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
-      "rating": 7.8,
-      "release_date": "2025-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/804370",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
         "Fandango At Home"
       ]
     }
