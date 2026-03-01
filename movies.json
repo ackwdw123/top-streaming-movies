@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:47:00.509628Z",
+  "generated_at": "2026-03-01T12:50:27.260312Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,7 +21,7 @@
       "id": 1290821,
       "title": "Shelter",
       "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2026-01-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290821",
@@ -31,19 +31,16 @@
       ]
     },
     {
-      "id": 1214931,
-      "title": "Nuremberg",
-      "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-      "rating": 7.3,
-      "release_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1214931",
+      "id": 1389149,
+      "title": "Accused",
+      "overview": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage fractures and the truth blurs. Her wife must decide whether to walk away, or fight for the woman the world is turning against.",
+      "rating": 4.3,
+      "release_date": "2026-02-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1389149",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -54,6 +51,21 @@
       "release_date": "2026-01-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1272837",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1236153,
+      "title": "Mercy",
+      "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "rating": 7.1,
+      "release_date": "2026-01-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1236153",
       "providers": [
         "Amazon Video",
         "Google Play Movies",
@@ -76,36 +88,6 @@
       ]
     },
     {
-      "id": 1236153,
-      "title": "Mercy",
-      "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "rating": 7.1,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1236153",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 680493,
-      "title": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "rating": 5.1,
-      "release_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/680493",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1084242,
       "title": "Zootopia 2",
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
@@ -116,6 +98,21 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 680493,
+      "title": "Return to Silent Hill",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "rating": 5.0,
+      "release_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/680493",
+      "providers": [
+        "Amazon Video",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
@@ -136,19 +133,21 @@
       ]
     },
     {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "id": 798645,
+      "title": "The Running Man",
+      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+      "rating": 6.8,
+      "release_date": "2025-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/798645",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "MGM+ Amazon Channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "MGM Plus",
+        "Philo",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     }
   ]
