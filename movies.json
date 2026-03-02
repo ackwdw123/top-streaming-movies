@@ -1,20 +1,58 @@
 {
-  "generated_at": "2026-03-01T12:50:27.260312Z",
+  "generated_at": "2026-03-02T12:59:57.447990Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1159559,
+      "title": "Scream 7",
+      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "rating": 5.9,
+      "release_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1159559",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 799882,
       "title": "The Bluff",
       "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2026-02-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/799882",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.8,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1032892,
+      "title": "In the Blink of an Eye",
+      "overview": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "rating": 4.1,
+      "release_date": "2026-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1032892",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -31,16 +69,17 @@
       ]
     },
     {
-      "id": 1389149,
-      "title": "Accused",
-      "overview": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage fractures and the truth blurs. Her wife must decide whether to walk away, or fight for the woman the world is turning against.",
-      "rating": 4.3,
-      "release_date": "2026-02-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1389149",
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.5,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -74,17 +113,15 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "release_date": "2025-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Hulu"
       ]
     },
     {
@@ -101,53 +138,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 680493,
-      "title": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "rating": 5.0,
-      "release_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/680493",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.5,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 798645,
-      "title": "The Running Man",
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-      "rating": 6.8,
-      "release_date": "2025-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/798645",
-      "providers": [
-        "MGM+ Amazon Channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "MGM Plus",
-        "Philo",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
       ]
     }
   ]
