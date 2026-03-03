@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T12:59:57.447990Z",
+  "generated_at": "2026-03-03T12:59:01.470511Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1159559,
       "title": "Scream 7",
       "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-      "rating": 5.9,
+      "rating": 6.0,
       "release_date": "2026-02-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1159559",
@@ -20,7 +20,7 @@
       "id": 799882,
       "title": "The Bluff",
       "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
-      "rating": 5.9,
+      "rating": 6.1,
       "release_date": "2026-02-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/799882",
@@ -30,16 +30,30 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.8,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.7,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
       "providers": [
         "Amazon Video",
-        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1128377,
+      "title": "In Cold Light",
+      "overview": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish underworld where allies are scarce and enemies multiply by the minute.",
+      "rating": 5.8,
+      "release_date": "2026-01-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1128377",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -47,7 +61,7 @@
       "id": 1032892,
       "title": "In the Blink of an Eye",
       "overview": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
-      "rating": 4.1,
+      "rating": 4.3,
       "release_date": "2026-01-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1032892",
@@ -56,15 +70,32 @@
       ]
     },
     {
-      "id": 1290821,
-      "title": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.3,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -107,34 +138,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1236153",
       "providers": [
         "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "rating": 7.7,
-      "release_date": "2025-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242898",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
