@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-03-05T13:01:53.690502Z",
+  "generated_at": "2026-03-06T12:57:36.106128Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1193501,
+      "title": "Whistle",
+      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+      "rating": 5.9,
+      "release_date": "2026-01-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1262547,
+      "title": "Subedaar",
+      "overview": "Haunted by loss and drifting away from his daughter, a retired Subedaar Arjun Maurya’s newly found civilian life is jolted by one reckless act. As old wounds reopen, he must summon the warrior within to face a new kind of war - one that hits too close to his heart.",
+      "rating": null,
+      "release_date": "2026-03-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1262547",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.5,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1629382,
       "title": "Street Flow 3",
       "overview": "Grieving and facing the consequences of their crimes, the Traoré brothers get one last chance to forge a new path.",
-      "rating": 3.7,
+      "rating": 3.6,
       "release_date": "2026-03-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1629382",
@@ -18,16 +58,15 @@
       ]
     },
     {
-      "id": 1193501,
-      "title": "Whistle",
-      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-      "rating": 6.0,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
+      "id": 1010755,
+      "title": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+      "rating": 5.9,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1010755",
       "providers": [
-        "Amazon Video",
-        "Fandango At Home"
+        "Amazon Video"
       ]
     },
     {
@@ -41,6 +80,33 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
       ]
     },
     {
@@ -60,64 +126,6 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1422562,
-      "title": "The Moment",
-      "overview": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-      "rating": 5.7,
-      "release_date": "2026-01-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1422562",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1272837,
-      "title": "28 Years Later: The Bone Temple",
-      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "rating": 7.2,
-      "release_date": "2026-01-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1272837",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.5,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1084242,
       "title": "Zootopia 2",
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
@@ -130,19 +138,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1290821,
-      "title": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
-      "providers": [
-        "Amazon Video",
         "Fandango At Home"
       ]
     }
