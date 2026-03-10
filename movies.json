@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T13:04:43.351650Z",
+  "generated_at": "2026-03-10T13:02:08.276839Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1265609,
       "title": "War Machine",
       "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "rating": 7.0,
+      "rating": 7.2,
       "release_date": "2026-02-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1265609",
@@ -31,15 +31,28 @@
       ]
     },
     {
-      "id": 1159831,
-      "title": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "rating": 6.4,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1159831",
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
+      "rating": 7.4,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
       "providers": [
-        "Fandango At Home"
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -57,23 +70,10 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
       "id": 1010755,
       "title": "The Strangers: Chapter 3",
       "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2026-02-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1010755",
@@ -85,28 +85,38 @@
       ]
     },
     {
-      "id": 1381027,
-      "title": "The Good Boy",
-      "overview": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-      "rating": 8.8,
-      "release_date": "2026-03-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b3lnPhLbkk37fYFtQy1gGixd8Jz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1381027",
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
       "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     },
     {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "id": 1291335,
+      "title": "Solo Mio",
+      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+      "rating": 7.5,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.3,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -116,31 +126,18 @@
       ]
     },
     {
-      "id": 1193501,
-      "title": "Whistle",
-      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-      "rating": 6.0,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/84vAcFwxoObBuMWANWQXCg0Umg8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
+      "id": 1233413,
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
       "providers": [
-        "Amazon Video",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1236153,
-      "title": "Mercy",
-      "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-      "rating": 7.1,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1236153",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
