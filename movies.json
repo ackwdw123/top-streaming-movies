@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:01:40.475226Z",
+  "generated_at": "2026-03-12T13:01:51.313758Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -15,30 +15,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1119449,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "rating": 7.3,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1291335,
-      "title": "Solo Mio",
-      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
-      "rating": 7.6,
-      "release_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
-      "providers": [
-        "Amazon Video"
       ]
     },
     {
@@ -58,6 +34,19 @@
       ]
     },
     {
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
+      "rating": 7.3,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 696393,
       "title": "Cold Storage",
       "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
@@ -67,22 +56,26 @@
       "tmdb_url": "https://www.themoviedb.org/movie/696393",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "id": 1401281,
+      "title": "The Testament of Ann Lee",
+      "overview": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
+      "rating": 7.2,
+      "release_date": "2025-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1401281",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -100,29 +93,44 @@
       ]
     },
     {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
+      "id": 1291335,
+      "title": "Solo Mio",
+      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+      "rating": 7.9,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Angel Studios"
       ]
     },
     {
-      "id": 1413097,
-      "title": "Melania",
-      "overview": "Offering unprecedented access to the 20 days leading up to the 2025 Presidential Inauguration — through the eyes of the First Lady-elect herself — step inside Melania Trump's world as she orchestrates inauguration plans, navigates the complexities of the White House transition, and reenters public life with her family. With exclusive footage capturing critical meetings, private conversations, and never-before-seen environments, Mrs. Trump returns to one of the world's most powerful roles.",
-      "rating": 3.1,
-      "release_date": "2026-01-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413097",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.3,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
