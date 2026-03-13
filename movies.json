@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T13:01:51.313758Z",
+  "generated_at": "2026-03-13T13:00:04.975660Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -18,26 +18,10 @@
       ]
     },
     {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1119449,
       "title": "Good Luck, Have Fun, Don't Die",
       "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "rating": 7.3,
+      "rating": 7.2,
       "release_date": "2026-02-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1119449",
@@ -47,29 +31,13 @@
       ]
     },
     {
-      "id": 696393,
-      "title": "Cold Storage",
-      "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
-      "rating": 6.5,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/696393",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1401281,
-      "title": "The Testament of Ann Lee",
-      "overview": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
-      "rating": 7.2,
-      "release_date": "2025-12-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1401281",
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -90,18 +58,6 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1291335,
-      "title": "Solo Mio",
-      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
-      "rating": 7.9,
-      "release_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
-      "providers": [
-        "Angel Studios"
       ]
     },
     {
@@ -134,17 +90,56 @@
       ]
     },
     {
-      "id": 1290821,
-      "title": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 6.7,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "id": 1401281,
+      "title": "The Testament of Ann Lee",
+      "overview": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
+      "rating": 7.1,
+      "release_date": "2025-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1401281",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1291335,
+      "title": "Solo Mio",
+      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
+      "rating": 7.6,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
+      "providers": [
+        "Angel Studios"
+      ]
+    },
+    {
+      "id": 1220564,
+      "title": "The Secret Agent",
+      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+      "rating": 7.4,
+      "release_date": "2025-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 1633264,
+      "title": "Louis Theroux: Inside the Manosphere",
+      "overview": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
+      "rating": null,
+      "release_date": "2026-03-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1633264",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
