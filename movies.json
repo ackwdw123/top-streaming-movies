@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T13:00:04.975660Z",
+  "generated_at": "2026-03-14T12:53:06.627268Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -10,7 +10,7 @@
       "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
       "rating": 7.2,
       "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1265609",
       "providers": [
         "Netflix",
@@ -20,13 +20,14 @@
     {
       "id": 1119449,
       "title": "Good Luck, Have Fun, Don't Die",
-      "overview": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world.",
-      "rating": 7.2,
+      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "rating": 7.0,
       "release_date": "2026-02-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1119449",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -39,11 +40,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Disney Plus"
       ]
     },
     {
@@ -74,6 +71,31 @@
       ]
     },
     {
+      "id": 1561687,
+      "title": "Made in Korea",
+      "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+      "rating": 10.0,
+      "release_date": "2026-03-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1561687",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1428990,
+      "title": "This Is Not a Test",
+      "overview": "Sloane and four classmates take cover in Cortege High to escape a world plagued by the infected. As danger relentlessly pounds on the doors, Sloane begins to see the world through the eyes of those who actually want to live and takes matters into her own hands.",
+      "rating": 5.7,
+      "release_date": "2026-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oZqxDDByIei1UVDgw7ZBXJCHHtI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1428990",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
@@ -90,34 +112,6 @@
       ]
     },
     {
-      "id": 1401281,
-      "title": "The Testament of Ann Lee",
-      "overview": "Ann Lee, the founding leader of the Shaker Movement, proclaimed as the female Christ by her followers. Depicts her establishment of a utopian society and the Shakers’ worship through song and dance, based on real events.",
-      "rating": 7.1,
-      "release_date": "2025-12-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1401281",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1291335,
-      "title": "Solo Mio",
-      "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
-      "rating": 7.6,
-      "release_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291335",
-      "providers": [
-        "Angel Studios"
-      ]
-    },
-    {
       "id": 1220564,
       "title": "The Secret Agent",
       "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
@@ -130,16 +124,19 @@
       ]
     },
     {
-      "id": 1633264,
-      "title": "Louis Theroux: Inside the Manosphere",
-      "overview": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers.",
-      "rating": null,
-      "release_date": "2026-03-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1633264",
+      "id": 1510745,
+      "title": "Bodycam",
+      "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
+      "rating": 3.5,
+      "release_date": "2026-03-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1510745",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "AMC Plus Apple TV Channel ",
+        "AMC+ Amazon Channel",
+        "Philo",
+        "Shudder Amazon Channel",
+        "Shudder Apple TV Channel"
       ]
     }
   ]
