@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T12:53:06.627268Z",
+  "generated_at": "2026-03-15T12:54:41.106575Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -44,6 +44,34 @@
       ]
     },
     {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
+      "providers": [
+        "Amazon Prime Video",
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1317288,
       "title": "Marty Supreme",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
@@ -58,51 +86,38 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     },
     {
-      "id": 1561687,
-      "title": "Made in Korea",
-      "overview": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
-      "rating": 10.0,
-      "release_date": "2026-03-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1561687",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1428990,
-      "title": "This Is Not a Test",
-      "overview": "Sloane and four classmates take cover in Cortege High to escape a world plagued by the infected. As danger relentlessly pounds on the doors, Sloane begins to see the world through the eyes of those who actually want to live and takes matters into her own hands.",
-      "rating": 5.7,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oZqxDDByIei1UVDgw7ZBXJCHHtI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1428990",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "id": 1220564,
+      "title": "The Secret Agent",
+      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
       "rating": 7.3,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "release_date": "2025-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 1401778,
+      "title": "Turbulence",
+      "overview": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
+      "rating": 5.8,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1401778",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -112,31 +127,16 @@
       ]
     },
     {
-      "id": 1220564,
-      "title": "The Secret Agent",
-      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "rating": 7.4,
-      "release_date": "2025-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
+      "id": 1062722,
+      "title": "Frankenstein",
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "rating": 7.7,
+      "release_date": "2025-10-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
       "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1510745,
-      "title": "Bodycam",
-      "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
-      "rating": 3.5,
-      "release_date": "2026-03-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1510745",
-      "providers": [
-        "AMC Plus Apple TV Channel ",
-        "AMC+ Amazon Channel",
-        "Philo",
-        "Shudder Amazon Channel",
-        "Shudder Apple TV Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
