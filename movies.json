@@ -1,59 +1,20 @@
 {
-  "generated_at": "2026-03-15T12:54:41.106575Z",
+  "generated_at": "2026-03-16T13:14:18.856212Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1265609,
-      "title": "War Machine",
-      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "rating": 7.2,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1265609",
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1119449,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "rating": 7.0,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     },
     {
@@ -72,6 +33,32 @@
       ]
     },
     {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1062722,
+      "title": "Frankenstein",
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "rating": 7.7,
+      "release_date": "2025-10-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1317288,
       "title": "Marty Supreme",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
@@ -86,38 +73,13 @@
       ]
     },
     {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 1220564,
-      "title": "The Secret Agent",
-      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "rating": 7.3,
-      "release_date": "2025-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1220564",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1401778,
-      "title": "Turbulence",
-      "overview": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
-      "rating": 5.8,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1401778",
+      "id": 1124566,
+      "title": "Sentimental Value",
+      "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+      "rating": 7.5,
+      "release_date": "2025-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1124566",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -127,16 +89,55 @@
       ]
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
+      "id": 1265609,
+      "title": "War Machine",
+      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "rating": 7.2,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1265609",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 1078605,
+      "title": "Weapons",
+      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "rating": 7.3,
+      "release_date": "2025-08-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1078605",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "rating": 6.9,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
