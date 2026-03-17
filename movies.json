@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T13:14:18.856212Z",
+  "generated_at": "2026-03-17T13:13:39.854353Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -46,13 +46,39 @@
       ]
     },
     {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "rating": 7.0,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 1265609,
+      "title": "War Machine",
+      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "rating": 7.2,
+      "release_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1265609",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -73,70 +99,44 @@
       ]
     },
     {
-      "id": 1124566,
-      "title": "Sentimental Value",
-      "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-      "rating": 7.5,
-      "release_date": "2025-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1124566",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1265609,
-      "title": "War Machine",
-      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "rating": 7.2,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1265609",
+      "id": 1636918,
+      "title": "The Plastic Detox",
+      "overview": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
+      "rating": null,
+      "release_date": "2026-03-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1636918",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 1084242,
-      "title": "Zootopia 2",
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-      "rating": 7.6,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
+      "id": 1062722,
+      "title": "Frankenstein",
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "rating": 7.7,
+      "release_date": "2025-10-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
       "providers": [
-        "Disney Plus"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 1078605,
-      "title": "Weapons",
-      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-      "rating": 7.3,
-      "release_date": "2025-08-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1078605",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 1119449,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "rating": 6.9,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     }
