@@ -1,64 +1,9 @@
 {
-  "generated_at": "2026-03-17T13:13:39.854353Z",
+  "generated_at": "2026-03-18T13:14:00.070805Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 1233413,
-      "title": "Sinners",
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "rating": 7.5,
-      "release_date": "2025-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
-      "providers": [
-        "Amazon Prime Video",
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1119449,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-      "rating": 7.0,
-      "release_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
     {
       "id": 1084242,
       "title": "Zootopia 2",
@@ -85,6 +30,62 @@
       ]
     },
     {
+      "id": 1406657,
+      "title": "Scarlet",
+      "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+      "rating": 6.0,
+      "release_date": "2025-11-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1406657",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1233413,
+      "title": "Sinners",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "rating": 7.5,
+      "release_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1233413",
+      "providers": [
+        "Amazon Prime Video",
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1317288,
       "title": "Marty Supreme",
       "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
@@ -99,44 +100,30 @@
       ]
     },
     {
-      "id": 1636918,
-      "title": "The Plastic Detox",
-      "overview": "This eye-opening documentary follows six couples with unexplained infertility as they lower their exposure to plastics in hopes it helps them conceive.",
-      "rating": null,
-      "release_date": "2026-03-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1636918",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1062722,
-      "title": "Frankenstein",
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "rating": 7.7,
-      "release_date": "2025-10-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1062722",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "id": 1119449,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "rating": 7.0,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1119449",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 846049,
+      "title": "The Dresden Sun",
+      "overview": "A brilliant, principled mercenary with a traumatic past works with an insider to steal a valued asset from Peredor Corporation called “the sphere”. The C & Earth corporation, vying for global dominance, seeks to find a solution to an otherworldly technology via a scientist’s project. Meanwhile, a financial analyst, who despises his job at the powerful investment firm Mutual One, finds himself caught between deadly corporate rivals, financial fraud, and technological espionage, and is ultimately forced to run from a psychopathic military contractor.",
+      "rating": 6.0,
+      "release_date": "2026-02-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6O7EVJ8vxHuoSel6B1usOONizhO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/846049",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     }
