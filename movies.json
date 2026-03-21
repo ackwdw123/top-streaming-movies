@@ -1,19 +1,62 @@
 {
-  "generated_at": "2026-03-20T13:01:02.647995Z",
+  "generated_at": "2026-03-21T12:51:02.160424Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 875828,
+      "title": "Peaky Blinders: The Immortal Man",
+      "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+      "rating": 7.1,
+      "release_date": "2026-03-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/875828",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 999136,
       "title": "Do Not Enter",
       "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
-      "rating": 4.0,
-      "release_date": "2026-03-20",
+      "rating": 6.0,
+      "release_date": "2026-03-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/999136",
       "providers": [
         "Amazon Video"
+      ]
+    },
+    {
+      "id": 840464,
+      "title": "Greenland 2: Migration",
+      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "rating": 6.4,
+      "release_date": "2026-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/840464",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.5,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -53,62 +96,21 @@
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.5,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
+        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1649758,
-      "title": "Meal Ticket",
-      "overview": "Follow the untold story of the 47-year old legacy of the McDonald's All American Game and the past, present and future stars that defined it.",
-      "rating": 8.0,
-      "release_date": "2026-03-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1649758",
+      "id": 858024,
+      "title": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "rating": 7.7,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/858024",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.4,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -128,16 +130,16 @@
       ]
     },
     {
-      "id": 858024,
-      "title": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "rating": 7.7,
-      "release_date": "2025-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/858024",
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "rating": 7.4,
+      "release_date": "2025-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     }
   ]
