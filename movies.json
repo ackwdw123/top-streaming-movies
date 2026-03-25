@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T13:13:19.617605Z",
+  "generated_at": "2026-03-25T13:12:29.155744Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,10 +8,25 @@
       "id": 1297842,
       "title": "GOAT",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1297842",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 467905,
+      "title": "How to Make a Killing",
+      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+      "rating": 6.9,
+      "release_date": "2026-02-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/467905",
       "providers": [
         "Amazon Video"
       ]
@@ -20,7 +35,7 @@
       "id": 875828,
       "title": "Peaky Blinders: The Immortal Man",
       "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-      "rating": 7.4,
+      "rating": 7.5,
       "release_date": "2026-03-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/875828",
@@ -30,13 +45,13 @@
       ]
     },
     {
-      "id": 467905,
-      "title": "How to Make a Killing",
-      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "rating": 6.7,
-      "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/udsbVbckQIJ2FpsJj5ScALQe0A1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/467905",
+      "id": 1154538,
+      "title": "Nirvanna the Band the Show the Movie",
+      "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "rating": 7.8,
+      "release_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1154538",
       "providers": [
         "Amazon Video"
       ]
@@ -67,22 +82,6 @@
       ]
     },
     {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.4,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1265609,
       "title": "War Machine",
       "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
@@ -96,42 +95,13 @@
       ]
     },
     {
-      "id": 999136,
-      "title": "Do Not Enter",
-      "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
-      "rating": 5.7,
-      "release_date": "2026-03-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8V2jpc1K8icNr0EScpqARyitXlc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/999136",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1628123,
-      "title": "BTS THE COMEBACK LIVE | ARIRANG",
-      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
-      "rating": 9.7,
-      "release_date": "2026-03-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tztql23n2UCoM76KyCSKoZxVUL1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1628123",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "id": 1196067,
+      "title": "Worldbreaker",
+      "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+      "rating": 5.9,
+      "release_date": "2025-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4xx25oYs08myEelHiSbOuVi80Ki.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1196067",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
