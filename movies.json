@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-03-26T13:17:35.998881Z",
+  "generated_at": "2026-03-27T13:08:09.752600Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1084187,
+      "title": "Pretty Lethal",
+      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "rating": 6.8,
+      "release_date": "2026-03-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084187",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1297842,
       "title": "GOAT",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.5,
+      "rating": 7.6,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1297842",
@@ -16,14 +29,15 @@
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1198994,
       "title": "Send Help",
       "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2026-01-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1198994",
@@ -31,14 +45,15 @@
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
       "id": 467905,
       "title": "How to Make a Killing",
       "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-02-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/467905",
@@ -47,6 +62,20 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.7,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -92,19 +121,6 @@
       ]
     },
     {
-      "id": 1314786,
-      "title": "Agent Zeta",
-      "overview": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ciénaga\" decades ago in Colombia. Zeta, the CNI's best operative, must hunt and protect the sole survivor, facing his deadliest global mission yet. Top Colombian agent Alfa will join Zeta, seemingly knowing more about \"Ciénaga\"'s secrets than him.",
-      "rating": 6.8,
-      "release_date": "2026-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1314786",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 1265609,
       "title": "War Machine",
       "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
@@ -115,19 +131,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-      "rating": 7.4,
-      "release_date": "2025-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1054867",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
       ]
     }
   ]
