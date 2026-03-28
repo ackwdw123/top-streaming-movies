@@ -1,27 +1,14 @@
 {
-  "generated_at": "2026-03-27T13:08:09.752600Z",
+  "generated_at": "2026-03-28T12:56:32.761731Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1084187,
-      "title": "Pretty Lethal",
-      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "rating": 6.8,
-      "release_date": "2026-03-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084187",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 1297842,
       "title": "GOAT",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1297842",
@@ -50,19 +37,29 @@
       ]
     },
     {
-      "id": 467905,
-      "title": "How to Make a Killing",
-      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "rating": 7.0,
-      "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/467905",
+      "id": 1276704,
+      "title": "53 Sundays",
+      "overview": "Three siblings get together to decide what to do with their 86‑year‑old father, who has started behaving in a very peculiar way. Should they move him into a nursing home? Have him live with one of them? What begins as a polite family meeting quickly spirals into a wildly funny and unexpected situation that soon gets completely out of control.",
+      "rating": 7.3,
+      "release_date": "2026-03-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1276704",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1084187,
+      "title": "Pretty Lethal",
+      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "rating": 6.8,
+      "release_date": "2026-03-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084187",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -80,26 +77,39 @@
       ]
     },
     {
-      "id": 875828,
-      "title": "Peaky Blinders: The Immortal Man",
-      "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-      "rating": 7.4,
-      "release_date": "2026-03-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/875828",
+      "id": 1630433,
+      "title": "The Red Line",
+      "overview": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money — and their dignity.",
+      "rating": 6.5,
+      "release_date": "2026-03-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1630433",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.4,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
+      "id": 938150,
+      "title": "Wardriver",
+      "overview": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
+      "rating": 7.5,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/938150",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 467905,
+      "title": "How to Make a Killing",
+      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+      "rating": 7.0,
+      "release_date": "2026-02-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/467905",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -121,16 +131,15 @@
       ]
     },
     {
-      "id": 1265609,
-      "title": "War Machine",
-      "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-      "rating": 7.3,
-      "release_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1265609",
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "rating": 6.5,
+      "release_date": "2026-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Fandango At Home"
       ]
     }
   ]
