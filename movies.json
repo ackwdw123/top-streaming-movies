@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-03-30T13:21:24.948838Z",
+  "generated_at": "2026-03-31T13:20:01.438812Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1159559,
+      "title": "Scream 7",
+      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "rating": 5.8,
+      "release_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1159559",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
     {
       "id": 1316092,
       "title": "\"Wuthering Heights\"",
@@ -20,7 +32,7 @@
       "id": 1115544,
       "title": "Mike & Nick & Nick & Alice",
       "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-      "rating": 6.6,
+      "rating": 6.8,
       "release_date": "2026-03-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1115544",
@@ -32,10 +44,26 @@
       "id": 1297842,
       "title": "GOAT",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.8,
+      "rating": 7.7,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1297842",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1198994,
+      "title": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "rating": 7.1,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -58,68 +86,38 @@
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.1,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 467905,
-      "title": "How to Make a Killing",
-      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-      "rating": 7.0,
-      "release_date": "2026-02-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/467905",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1292695,
-      "title": "They Will Kill You",
-      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "rating": 6.7,
-      "release_date": "2026-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339876,
-      "title": "Mardaani 3",
-      "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
-      "rating": 6.7,
-      "release_date": "2026-01-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339876",
+      "id": 875828,
+      "title": "Peaky Blinders: The Immortal Man",
+      "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+      "rating": 7.3,
+      "release_date": "2026-03-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/875828",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.7,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1276704,
       "title": "53 Sundays",
-      "overview": "Three siblings get together to decide what to do with their 86‑year‑old father, who has started behaving in a very peculiar way. Should they move him into a nursing home? Have him live with one of them? What begins as a polite family meeting quickly spirals into a wildly funny and unexpected situation that soon gets completely out of control.",
-      "rating": 6.1,
-      "release_date": "2026-03-27",
+      "overview": "When three siblings agree to meet and discuss their aging father's future, their reunion spirals into bickering, bantering and reliving old grudges.",
+      "rating": 6.0,
+      "release_date": "2026-03-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1276704",
       "providers": [
@@ -128,16 +126,15 @@
       ]
     },
     {
-      "id": 1630433,
-      "title": "The Red Line",
-      "overview": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money — and their dignity.",
-      "rating": 6.9,
-      "release_date": "2026-03-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1630433",
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Disney Plus"
       ]
     }
   ]
