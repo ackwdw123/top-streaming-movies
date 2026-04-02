@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T13:23:31.494434Z",
+  "generated_at": "2026-04-02T13:15:11.893567Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -20,6 +20,18 @@
       ]
     },
     {
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "rating": 8.2,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1159559,
       "title": "Scream 7",
       "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
@@ -28,20 +40,50 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1159559",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1316092,
       "title": "\"Wuthering Heights\"",
       "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "rating": 6.4,
+      "rating": 6.5,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1316092",
       "providers": [
         "Amazon Video",
-        "Apple TV Store"
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1561758,
+      "title": "It Takes a Village",
+      "overview": "When financial trouble forces Halina to call off her wedding, her friends and family decide to hatch a wild plan to bring in tourist money.",
+      "rating": null,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znUVVJh0WSCHAhiJ6Att5qhmAzG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1561758",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1115544,
+      "title": "Mike & Nick & Nick & Alice",
+      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "rating": 6.7,
+      "release_date": "2026-03-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1115544",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -61,18 +103,6 @@
       ]
     },
     {
-      "id": 662707,
-      "title": "Starbright",
-      "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
-      "rating": 8.0,
-      "release_date": "2026-02-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/662707",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
       "id": 1198994,
       "title": "Send Help",
       "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
@@ -89,28 +119,31 @@
       ]
     },
     {
-      "id": 1115544,
-      "title": "Mike & Nick & Nick & Alice",
-      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-      "rating": 6.7,
-      "release_date": "2026-03-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1115544",
+      "id": 662707,
+      "title": "Starbright",
+      "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
+      "rating": 8.7,
+      "release_date": "2026-02-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/662707",
       "providers": [
-        "Hulu"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 1084187,
-      "title": "Pretty Lethal",
-      "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-      "rating": 6.7,
-      "release_date": "2026-03-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084187",
+      "id": 1317288,
+      "title": "Marty Supreme",
+      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "rating": 7.4,
+      "release_date": "2025-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
