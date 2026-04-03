@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-04-02T13:15:11.893567Z",
+  "generated_at": "2026-04-03T13:05:16.785369Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1171145,
+      "title": "Crime 101",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "rating": 7.0,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1171145",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 83533,
       "title": "Avatar: Fire and Ash",
@@ -16,7 +29,8 @@
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -29,6 +43,19 @@
       "tmdb_url": "https://www.themoviedb.org/movie/687163",
       "providers": [
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1268127,
+      "title": "Humint",
+      "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
+      "rating": 7.3,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1268127",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -48,49 +75,10 @@
       ]
     },
     {
-      "id": 1316092,
-      "title": "\"Wuthering Heights\"",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "rating": 6.5,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1561758,
-      "title": "It Takes a Village",
-      "overview": "When financial trouble forces Halina to call off her wedding, her friends and family decide to hatch a wild plan to bring in tourist money.",
-      "rating": null,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znUVVJh0WSCHAhiJ6Att5qhmAzG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1561758",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1115544,
-      "title": "Mike & Nick & Nick & Alice",
-      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-      "rating": 6.7,
-      "release_date": "2026-03-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1115544",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
       "id": 1297842,
       "title": "GOAT",
       "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2026-02-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1297842",
@@ -103,43 +91,53 @@
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.1,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+      "id": 1316092,
+      "title": "\"Wuthering Heights\"",
+      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "rating": 6.5,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1115544,
+      "title": "Mike & Nick & Nick & Alice",
+      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "rating": 6.8,
+      "release_date": "2026-03-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1115544",
+      "providers": [
+        "Hulu"
       ]
     },
     {
       "id": 662707,
       "title": "Starbright",
       "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
-      "rating": 8.7,
+      "rating": 7.9,
       "release_date": "2026-02-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/662707",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1317288,
-      "title": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "rating": 7.4,
-      "release_date": "2025-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317288",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
