@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T12:58:59.870097Z",
+  "generated_at": "2026-04-12T13:02:44.461978Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,38 +21,13 @@
       "id": 1049471,
       "title": "Outcome",
       "overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
-      "rating": 6.0,
+      "rating": 5.2,
       "release_date": "2026-04-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1049471",
       "providers": [
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 1418657,
-      "title": "The Yeti",
-      "overview": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
-      "rating": 7.5,
-      "release_date": "2026-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qW22SucWPODisKufindxiI5Frxm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1418657",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1159831,
-      "title": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "rating": 6.3,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1159831",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -72,16 +47,18 @@
       ]
     },
     {
-      "id": 1641319,
-      "title": "Sniper: No Nation",
-      "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
-      "rating": 5.7,
-      "release_date": "2026-04-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1641319",
+      "id": 1159831,
+      "title": "The Bride!",
+      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "rating": 6.3,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1159831",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -99,43 +76,82 @@
       ]
     },
     {
-      "id": 1472951,
-      "title": "Infiltrate",
-      "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-      "rating": 5.3,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1472951",
+      "id": 1641319,
+      "title": "Sniper: No Nation",
+      "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
+      "rating": 5.9,
+      "release_date": "2026-04-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1641319",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1418657,
+      "title": "The Yeti",
+      "overview": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
+      "rating": 7.1,
+      "release_date": "2026-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qW22SucWPODisKufindxiI5Frxm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1418657",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1631917,
-      "title": "18th Rose",
-      "overview": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans.",
-      "rating": 5.6,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1631917",
+      "id": 1159559,
+      "title": "Scream 7",
+      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "rating": 6.0,
+      "release_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1159559",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 1493859,
-      "title": "Pizza Movie",
-      "overview": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental drug, they're thrust into a chaotic night of absurd encounters, wild hallucinations, and unexpected revelations that could change their lives forever.",
-      "rating": 6.6,
-      "release_date": "2026-03-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1493859",
+      "id": 1236153,
+      "title": "Mercy",
+      "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "rating": 7.0,
+      "release_date": "2026-01-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1236153",
       "providers": [
-        "Hulu"
+        "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus",
+        "Philo",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Starz Amazon Channel"
       ]
     }
   ]
