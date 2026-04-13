@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T13:02:44.461978Z",
+  "generated_at": "2026-04-13T13:26:54.451537Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -7,8 +7,8 @@
     {
       "id": 1290417,
       "title": "Thrash",
-      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks.",
-      "rating": 5.9,
+      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+      "rating": 6.0,
       "release_date": "2026-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290417",
@@ -36,7 +36,7 @@
       "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
       "rating": 7.4,
       "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
         "Amazon Video",
@@ -47,6 +47,18 @@
       ]
     },
     {
+      "id": 1367642,
+      "title": "Reminders of Him",
+      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "rating": 7.1,
+      "release_date": "2026-03-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
+      "providers": [
+        "Peacock Premium"
+      ]
+    },
+    {
       "id": 1159831,
       "title": "The Bride!",
       "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
@@ -54,49 +66,6 @@
       "release_date": "2026-03-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1159831",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1171145,
-      "title": "Crime 101",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "rating": 7.0,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1171145",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1641319,
-      "title": "Sniper: No Nation",
-      "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage.",
-      "rating": 5.9,
-      "release_date": "2026-04-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1641319",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1418657,
-      "title": "The Yeti",
-      "overview": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
-      "rating": 7.1,
-      "release_date": "2026-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qW22SucWPODisKufindxiI5Frxm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1418657",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -122,36 +91,60 @@
       ]
     },
     {
-      "id": 1236153,
-      "title": "Mercy",
-      "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "id": 1010755,
+      "title": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+      "rating": 5.2,
+      "release_date": "2026-02-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1010755",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1171145,
+      "title": "Crime 101",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
       "rating": 7.0,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1236153",
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1171145",
       "providers": [
         "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus",
-        "Philo",
         "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "id": 1084242,
+      "title": "Zootopia 2",
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "rating": 7.6,
+      "release_date": "2025-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084242",
       "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Starz Amazon Channel"
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 1198994,
+      "title": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "rating": 7.0,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
