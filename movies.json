@@ -1,26 +1,29 @@
 {
-  "generated_at": "2026-04-14T13:27:28.701905Z",
+  "generated_at": "2026-04-15T13:25:30.590455Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1367642,
-      "title": "Reminders of Him",
-      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "rating": 7.1,
-      "release_date": "2026-03-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
+      "id": 1480387,
+      "title": "undertone",
+      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+      "rating": 6.5,
+      "release_date": "2026-03-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1480387",
       "providers": [
-        "Peacock Premium"
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1290417,
       "title": "Thrash",
       "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-      "rating": 6.1,
+      "rating": 6.0,
       "release_date": "2026-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290417",
@@ -30,16 +33,18 @@
       ]
     },
     {
-      "id": 1049471,
-      "title": "Outcome",
-      "overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
-      "rating": 5.3,
-      "release_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1049471",
+      "id": 1367642,
+      "title": "Reminders of Him",
+      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "rating": 7.0,
+      "release_date": "2026-03-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eHZtr8fhSAzuUpg79NLTqrcW0MA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -59,6 +64,19 @@
       ]
     },
     {
+      "id": 1049471,
+      "title": "Outcome",
+      "overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
+      "rating": 5.3,
+      "release_date": "2026-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1049471",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 1198994,
       "title": "Send Help",
       "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
@@ -72,51 +90,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1010755,
-      "title": "The Strangers: Chapter 3",
-      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-      "rating": 5.3,
-      "release_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1010755",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1159559,
-      "title": "Scream 7",
-      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-      "rating": 6.0,
-      "release_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1159559",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1171145,
-      "title": "Crime 101",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "rating": 7.0,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1171145",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
