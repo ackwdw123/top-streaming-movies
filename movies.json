@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-04-15T13:25:30.590455Z",
+  "generated_at": "2026-04-16T13:45:39.553624Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1480387,
       "title": "undertone",
       "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-      "rating": 6.5,
+      "rating": 6.8,
       "release_date": "2026-03-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDQbFRqpHaRFC2Pg3a8E3mFTxbh.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1480387",
       "providers": [
         "Amazon Video",
@@ -20,10 +36,23 @@
       ]
     },
     {
+      "id": 1416391,
+      "title": "Toaster",
+      "overview": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+      "rating": 7.0,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1416391",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1290417,
       "title": "Thrash",
       "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2026-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1290417",
@@ -38,23 +67,8 @@
       "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
       "rating": 7.0,
       "release_date": "2026-03-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eHZtr8fhSAzuUpg79NLTqrcW0MA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1367642",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -93,13 +107,42 @@
       ]
     },
     {
-      "id": 1159831,
-      "title": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "rating": 6.2,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1159831",
+      "id": 1297446,
+      "title": "Slanted",
+      "overview": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+      "rating": 6.7,
+      "release_date": "2026-03-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bM8SoixXsOsQRoiNwHaHwttkxNA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1297446",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Starz Amazon Channel"
+      ]
+    },
+    {
+      "id": 1159559,
+      "title": "Scream 7",
+      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "rating": 6.0,
+      "release_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1159559",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
