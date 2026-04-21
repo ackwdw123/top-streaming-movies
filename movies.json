@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-04-20T13:43:32.649375Z",
+  "generated_at": "2026-04-21T13:28:09.688510Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1304313,
-      "title": "Lee Cronin's The Mummy",
-      "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-      "rating": 6.9,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1304313",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1511057,
       "title": "Roommates",
       "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "rating": 6.5,
+      "rating": 6.6,
       "release_date": "2026-04-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1511057",
@@ -30,16 +18,16 @@
       ]
     },
     {
-      "id": 1659087,
-      "title": "180",
-      "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-      "rating": 5.1,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1659087",
+      "id": 1084577,
+      "title": "Balls Up",
+      "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+      "rating": 5.7,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084577",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -59,26 +47,26 @@
       ]
     },
     {
-      "id": 1084577,
-      "title": "Balls Up",
-      "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "rating": 5.5,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084577",
+      "id": 1659087,
+      "title": "180",
+      "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+      "rating": 5.4,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1659087",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.0,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+      "id": 1367642,
+      "title": "Reminders of Him",
+      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+      "rating": 7.2,
+      "release_date": "2026-03-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -88,26 +76,13 @@
       ]
     },
     {
-      "id": 1290417,
-      "title": "Thrash",
-      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-      "rating": 6.0,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290417",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1480387,
-      "title": "undertone",
-      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-      "rating": 6.7,
-      "release_date": "2026-03-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1480387",
+      "id": 1414413,
+      "title": "Brothers Under Fire",
+      "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+      "rating": 6.1,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1414413",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -120,12 +95,28 @@
       "id": 1243741,
       "title": "Ballistic",
       "overview": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
-      "rating": 7.1,
+      "rating": 6.8,
       "release_date": "2026-04-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1243741",
       "providers": [
         "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1297842,
+      "title": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "rating": 7.9,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1297842",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     }
