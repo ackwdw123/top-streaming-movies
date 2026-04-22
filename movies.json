@@ -1,14 +1,43 @@
 {
-  "generated_at": "2026-04-21T13:28:09.688510Z",
+  "generated_at": "2026-04-22T13:41:11.731414Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1383731,
+      "title": "Protector",
+      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "rating": 7.1,
+      "release_date": "2026-03-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
+      "providers": [
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1414413,
+      "title": "Brothers Under Fire",
+      "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+      "rating": 6.1,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1414413",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1511057,
       "title": "Roommates",
       "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-04-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1511057",
@@ -18,10 +47,26 @@
       ]
     },
     {
+      "id": 840464,
+      "title": "Greenland 2: Migration",
+      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "rating": 6.5,
+      "release_date": "2026-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/840464",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1084577,
       "title": "Balls Up",
       "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "rating": 5.7,
+      "rating": 5.6,
       "release_date": "2026-04-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1084577",
@@ -50,7 +95,7 @@
       "id": 1659087,
       "title": "180",
       "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-      "rating": 5.4,
+      "rating": 5.6,
       "release_date": "2026-04-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1659087",
@@ -60,13 +105,26 @@
       ]
     },
     {
-      "id": 1367642,
-      "title": "Reminders of Him",
-      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "rating": 7.2,
-      "release_date": "2026-03-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
+      "id": 1641966,
+      "title": "Untold: The Shooting at Hawthorne Hill",
+      "overview": "A retired Olympic equestrian takes on a new dressage student at his idyllic farm in New Jersey. Over time, tensions mount between the two, leading to 911 calls, cryptic social media posts, and accusations of spying. The feud culminates in a shocking act of violence and a trial that rocked the prestigious and sophisticated world of dressage.",
+      "rating": null,
+      "release_date": "2026-04-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1641966",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1480387,
+      "title": "undertone",
+      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+      "rating": 6.6,
+      "release_date": "2026-03-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1480387",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -76,47 +134,15 @@
       ]
     },
     {
-      "id": 1414413,
-      "title": "Brothers Under Fire",
-      "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-      "rating": 6.1,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1414413",
+      "id": 1244517,
+      "title": "Tow",
+      "overview": "Amanda Ogle is a woman living in her aging Toyota Camry on the streets of Seattle. When her car is stolen and impounded, she’s thrust into a relentless legal battle against an indifferent system. What begins as a fight to reclaim her car evolves into a deeply human story of resilience, dignity, and the power of one woman’s voice in the face of systemic failure.",
+      "rating": 6.7,
+      "release_date": "2026-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wMd9UIyRYjnZLP0VcadMCeFHwKp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1244517",
       "providers": [
         "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1243741,
-      "title": "Ballistic",
-      "overview": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
-      "rating": 6.8,
-      "release_date": "2026-04-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1243741",
-      "providers": [
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1297842,
-      "title": "GOAT",
-      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.9,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1297842",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     }
