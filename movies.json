@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T13:43:48.710052Z",
+  "generated_at": "2026-04-24T13:25:08.451297Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,8 +8,8 @@
       "id": 1383731,
       "title": "Protector",
       "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "rating": 7.2,
-      "release_date": "2026-03-05",
+      "rating": 7.1,
+      "release_date": "2026-02-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1383731",
       "providers": [
@@ -25,6 +25,22 @@
       "release_date": "2026-01-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/840464",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1193501,
+      "title": "Whistle",
+      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+      "rating": 6.0,
+      "release_date": "2026-01-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -50,90 +66,32 @@
       ]
     },
     {
-      "id": 1414413,
-      "title": "Brothers Under Fire",
-      "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-      "rating": 5.8,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1414413",
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Starz Amazon Channel"
       ]
     },
     {
       "id": 1511057,
       "title": "Roommates",
       "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2026-04-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1511057",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1480387,
-      "title": "undertone",
-      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-      "rating": 6.6,
-      "release_date": "2026-03-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1480387",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1659087,
-      "title": "180",
-      "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-      "rating": 5.6,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1659087",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1084577,
-      "title": "Balls Up",
-      "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "rating": 5.7,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084577",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1367642,
-      "title": "Reminders of Him",
-      "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-      "rating": 7.2,
-      "release_date": "2026-03-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1367642",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
