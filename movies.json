@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-24T13:25:08.451297Z",
+  "generated_at": "2026-04-25T13:05:47.992723Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1383731,
-      "title": "Protector",
-      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "rating": 7.1,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
+      "id": 1318447,
+      "title": "Apex",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "rating": 6.5,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
       "providers": [
-        "Apple TV Store",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 840464,
       "title": "Greenland 2: Migration",
       "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2026-01-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/840464",
@@ -34,13 +34,26 @@
       ]
     },
     {
-      "id": 1193501,
-      "title": "Whistle",
-      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-      "rating": 6.0,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
+      "id": 1383731,
+      "title": "Protector",
+      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "rating": 6.8,
+      "release_date": "2026-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
+      "providers": [
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1297842,
+      "title": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "rating": 7.9,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1297842",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -50,19 +63,16 @@
       ]
     },
     {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "id": 1290417,
+      "title": "Thrash",
+      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+      "rating": 6.0,
+      "release_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290417",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -82,16 +92,48 @@
       ]
     },
     {
-      "id": 1511057,
-      "title": "Roommates",
-      "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-      "rating": 6.4,
-      "release_date": "2026-04-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1511057",
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1084577,
+      "title": "Balls Up",
+      "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+      "rating": 5.6,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084577",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1193501,
+      "title": "Whistle",
+      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+      "rating": 6.0,
+      "release_date": "2026-01-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
