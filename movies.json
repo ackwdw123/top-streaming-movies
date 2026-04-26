@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T13:05:47.992723Z",
+  "generated_at": "2026-04-26T13:07:15.849431Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,13 +8,42 @@
       "id": 1318447,
       "title": "Apex",
       "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.5,
+      "rating": 6.4,
       "release_date": "2026-04-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318447",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.4,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1383731,
+      "title": "Protector",
+      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+      "rating": 6.7,
+      "release_date": "2026-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
+      "providers": [
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -30,19 +59,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1383731,
-      "title": "Protector",
-      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "rating": 6.8,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
-      "providers": [
-        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -63,19 +79,6 @@
       ]
     },
     {
-      "id": 1290417,
-      "title": "Thrash",
-      "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-      "rating": 6.0,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290417",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
@@ -92,19 +95,44 @@
       ]
     },
     {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "id": 1207162,
+      "title": "Rise of the Conqueror",
+      "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+      "rating": 5.2,
+      "release_date": "2026-04-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1207162",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 7.6,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1272837,
+      "title": "28 Years Later: The Bone Temple",
+      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "rating": 7.1,
+      "release_date": "2026-01-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1272837",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -118,22 +146,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1193501,
-      "title": "Whistle",
-      "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-      "rating": 6.0,
-      "release_date": "2026-01-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1193501",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
