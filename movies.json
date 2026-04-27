@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T13:07:15.849431Z",
+  "generated_at": "2026-04-27T13:54:44.039838Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,13 +8,25 @@
       "id": 1318447,
       "title": "Apex",
       "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.4,
+      "rating": 6.5,
       "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318447",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "rating": 6.5,
+      "release_date": "2026-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -25,35 +37,6 @@
       "release_date": "2025-12-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/83533",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1383731,
-      "title": "Protector",
-      "overview": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-      "rating": 6.7,
-      "release_date": "2026-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1383731",
-      "providers": [
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.4,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -79,29 +62,13 @@
       ]
     },
     {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
-      "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 1207162,
-      "title": "Rise of the Conqueror",
-      "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
-      "rating": 5.2,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1207162",
+      "id": 840464,
+      "title": "Greenland 2: Migration",
+      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "rating": 6.4,
+      "release_date": "2026-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/840464",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -123,6 +90,54 @@
       ]
     },
     {
+      "id": 1316092,
+      "title": "\"Wuthering Heights\"",
+      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "rating": 6.5,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1207162,
+      "title": "Rise of the Conqueror",
+      "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+      "rating": 6.3,
+      "release_date": "2026-04-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1207162",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1368166,
+      "title": "The Housemaid",
+      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "rating": 7.2,
+      "release_date": "2025-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
+      "providers": [
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Starz Amazon Channel"
+      ]
+    },
+    {
       "id": 1272837,
       "title": "28 Years Later: The Bone Temple",
       "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
@@ -133,19 +148,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1084577,
-      "title": "Balls Up",
-      "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-      "rating": 5.6,
-      "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084577",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
