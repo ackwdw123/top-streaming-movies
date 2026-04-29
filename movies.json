@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-04-27T13:54:44.039838Z",
+  "generated_at": "2026-04-29T13:58:02.854592Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1318447,
-      "title": "Apex",
-      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.5,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 1292695,
       "title": "They Will Kill You",
@@ -26,7 +13,61 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1292695",
       "providers": [
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 7.7,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "providers": [
         "Amazon Video"
+      ]
+    },
+    {
+      "id": 1318447,
+      "title": "Apex",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "rating": 6.5,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1450527,
+      "title": "Forbidden Fruits",
+      "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
+      "rating": 6.6,
+      "release_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1450527",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 938150,
+      "title": "Wardriver",
+      "overview": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
+      "rating": 6.3,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/938150",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -62,66 +103,6 @@
       ]
     },
     {
-      "id": 840464,
-      "title": "Greenland 2: Migration",
-      "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-      "rating": 6.4,
-      "release_date": "2026-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/840464",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1327819,
-      "title": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "rating": 7.6,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1316092,
-      "title": "\"Wuthering Heights\"",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "rating": 6.5,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1207162,
-      "title": "Rise of the Conqueror",
-      "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
-      "rating": 6.3,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1207162",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1368166,
       "title": "The Housemaid",
       "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
@@ -138,16 +119,19 @@
       ]
     },
     {
-      "id": 1272837,
-      "title": "28 Years Later: The Bone Temple",
-      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "rating": 7.1,
-      "release_date": "2026-01-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1272837",
+      "id": 1316092,
+      "title": "\"Wuthering Heights\"",
+      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+      "rating": 6.5,
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
