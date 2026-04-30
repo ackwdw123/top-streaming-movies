@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T13:58:02.854592Z",
+  "generated_at": "2026-04-30T13:56:41.524305Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -10,11 +10,24 @@
       "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
       "rating": 6.5,
       "release_date": "2026-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1292695",
       "providers": [
         "Amazon Video",
         "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1318447,
+      "title": "Apex",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "rating": 6.5,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -26,27 +39,40 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1327819",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store"
       ]
     },
     {
-      "id": 1318447,
-      "title": "Apex",
-      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.5,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+      "id": 829487,
+      "title": "Je m'appelle Agneta",
+      "overview": "Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.",
+      "rating": 7.0,
+      "release_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/829487",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.2,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1450527,
       "title": "Forbidden Fruits",
       "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
-      "rating": 6.6,
+      "rating": 6.4,
       "release_date": "2026-03-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1450527",
@@ -55,13 +81,13 @@
       ]
     },
     {
-      "id": 938150,
-      "title": "Wardriver",
-      "overview": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
-      "rating": 6.3,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/938150",
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -87,51 +113,17 @@
       ]
     },
     {
-      "id": 1297842,
-      "title": "GOAT",
-      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "rating": 7.9,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1297842",
+      "id": 1325678,
+      "title": "Sarah's Oil",
+      "overview": "Sarah Rector, a Black girl born in early 20th-century Oklahoma Indian Territory, believes there is oil beneath the barren land she’s allotted, and her faith proves right. As greedy oil sharks close in, Sarah turns to family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first Black female millionaires—at eleven years old.",
+      "rating": 8.1,
+      "release_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1325678",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1368166,
-      "title": "The Housemaid",
-      "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-      "rating": 7.2,
-      "release_date": "2025-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368166",
-      "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 1316092,
-      "title": "\"Wuthering Heights\"",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "rating": 6.5,
-      "release_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1316092",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Wonder Project Amazon Channel"
       ]
     }
   ]
