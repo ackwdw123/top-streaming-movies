@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-04-30T13:56:41.524305Z",
+  "generated_at": "2026-05-01T13:19:05.244193Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1292695,
-      "title": "They Will Kill You",
-      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "rating": 6.5,
-      "release_date": "2026-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
     {
       "id": 1318447,
       "title": "Apex",
@@ -25,32 +12,6 @@
       "release_date": "2026-04-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318447",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1327819,
-      "title": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "rating": 7.7,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 829487,
-      "title": "Je m'appelle Agneta",
-      "overview": "Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.",
-      "rating": 7.0,
-      "release_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/829487",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -69,15 +30,31 @@
       ]
     },
     {
-      "id": 1450527,
-      "title": "Forbidden Fruits",
-      "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
-      "rating": 6.4,
-      "release_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/t3hvrrrqvRoURz4y1A1aCys6WD9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1450527",
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 7.7,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "rating": 6.6,
+      "release_date": "2026-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -97,13 +74,26 @@
       ]
     },
     {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.4,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "id": 829487,
+      "title": "Je m'appelle Agneta",
+      "overview": "Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.",
+      "rating": 8.0,
+      "release_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/829487",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1624961,
+      "title": "No Ordinary Heist",
+      "overview": "Inspired by the true 2004 Northern Bank robbery, two feuding bank employees are forced to execute Ireland’s biggest heist after criminals kidnap their families and threaten to kill them.",
+      "rating": 6.4,
+      "release_date": "2026-03-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1624961",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -113,17 +103,17 @@
       ]
     },
     {
-      "id": 1325678,
-      "title": "Sarah's Oil",
-      "overview": "Sarah Rector, a Black girl born in early 20th-century Oklahoma Indian Territory, believes there is oil beneath the barren land she’s allotted, and her faith proves right. As greedy oil sharks close in, Sarah turns to family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first Black female millionaires—at eleven years old.",
-      "rating": 8.1,
-      "release_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1325678",
+      "id": 1450527,
+      "title": "Forbidden Fruits",
+      "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
+      "rating": 6.5,
+      "release_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1450527",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads",
-        "Wonder Project Amazon Channel"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
