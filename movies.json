@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T13:12:41.881627Z",
+  "generated_at": "2026-05-03T13:11:46.304363Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1007757,
       "title": "Swapped",
       "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
-      "rating": 8.8,
+      "rating": 8.4,
       "release_date": "2026-05-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1007757",
@@ -59,18 +59,42 @@
       ]
     },
     {
-      "id": 1290821,
-      "title": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "rating": 6.8,
-      "release_date": "2026-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
+      "id": 1651233,
+      "title": "Son-in-Law",
+      "overview": "José Sánchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming El Serpiente, a political boss feared for all the wrong reasons. Now he must pull off one final deal to stay alive — a deal far beyond anything he can fake.",
+      "rating": 6.0,
+      "release_date": "2026-04-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1651233",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1239198,
+      "title": "My Dearest Señorita",
+      "overview": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected places.",
+      "rating": 4.5,
+      "release_date": "2026-04-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1239198",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1450527,
+      "title": "Forbidden Fruits",
+      "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
+      "rating": 6.7,
+      "release_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1450527",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -91,30 +115,35 @@
       ]
     },
     {
-      "id": 1450527,
-      "title": "Forbidden Fruits",
-      "overview": "Free Eden employee Apple secretly runs a witchy femme cult in the basement of the mall store after hours - with fellow fruits Cherry and Fig. But when new hire Pumpkin challenges their performative sisterhood, the women are forced to face their own poisons or succumb to a bloody fate.",
-      "rating": 6.5,
-      "release_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1450527",
+      "id": 1290821,
+      "title": "Shelter",
+      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "rating": 6.8,
+      "release_date": "2026-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290821",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 829487,
-      "title": "Je m'appelle Agneta",
-      "overview": "Craving a fresh start, recently unemployed Agneta accepts an au pair gig in Provence that turns into an indulgent escape — and an unexpected awakening.",
+      "id": 1297842,
+      "title": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "rating": 7.9,
-      "release_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/829487",
+      "release_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1297842",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
