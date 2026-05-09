@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T13:49:01.201146Z",
+  "generated_at": "2026-05-09T13:18:18.743127Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1317448,
       "title": "No Place to Be Single",
       "overview": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score.",
-      "rating": 6.0,
+      "rating": 6.5,
       "release_date": "2026-05-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1317448",
@@ -18,16 +18,15 @@
       ]
     },
     {
-      "id": 1226863,
-      "title": "The Super Mario Galaxy Movie",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "id": 1292415,
+      "title": "Beast",
+      "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
       "rating": 6.7,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "release_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292415",
       "providers": [
-        "Google Play Movies",
-        "YouTube"
+        "Amazon Video"
       ]
     },
     {
@@ -47,19 +46,16 @@
       ]
     },
     {
-      "id": 1325734,
-      "title": "The Drama",
-      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "rating": 7.0,
-      "release_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1325734",
+      "id": 1630423,
+      "title": "My Dearest Assassin",
+      "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+      "rating": 6.5,
+      "release_date": "2026-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1630423",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -73,6 +69,35 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "rating": 6.7,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "providers": [
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1325734,
+      "title": "The Drama",
+      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "rating": 7.0,
+      "release_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1325734",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -90,22 +115,6 @@
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.0,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1318447,
       "title": "Apex",
       "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
@@ -119,31 +128,15 @@
       ]
     },
     {
-      "id": 696393,
-      "title": "Cold Storage",
-      "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
-      "rating": 6.8,
+      "id": 1198994,
+      "title": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "rating": 7.0,
       "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/696393",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1292415,
-      "title": "Beast",
-      "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against it's brutal champion Xavier Grau.",
-      "rating": 6.0,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1292415",
-      "providers": [
-        "Amazon Video"
+        "Hulu"
       ]
     }
   ]
