@@ -1,58 +1,17 @@
 {
-  "generated_at": "2026-05-09T13:18:18.743127Z",
+  "generated_at": "2026-05-10T13:19:03.473336Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1317448,
-      "title": "No Place to Be Single",
-      "overview": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score.",
-      "rating": 6.5,
-      "release_date": "2026-05-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1317448",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1292415,
-      "title": "Beast",
-      "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-      "rating": 6.7,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1292415",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1266127,
-      "title": "Ready or Not 2: Here I Come",
-      "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
-      "rating": 7.1,
-      "release_date": "2026-03-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1266127",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1630423,
-      "title": "My Dearest Assassin",
-      "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
-      "rating": 6.5,
-      "release_date": "2026-05-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1630423",
+      "id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "rating": 8.2,
+      "release_date": "2026-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -62,13 +21,27 @@
       "id": 1007757,
       "title": "Swapped",
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "rating": 7.9,
+      "rating": 8.5,
       "release_date": "2026-05-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1007757",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 7.8,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -101,24 +74,54 @@
       ]
     },
     {
-      "id": 1327819,
-      "title": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "rating": 7.7,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "id": 1266127,
+      "title": "Ready or Not 2: Here I Come",
+      "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+      "rating": 7.3,
+      "release_date": "2026-03-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1266127",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1292415,
+      "title": "Beast",
+      "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+      "rating": 7.3,
+      "release_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292415",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1630423,
+      "title": "My Dearest Assassin",
+      "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+      "rating": 6.4,
+      "release_date": "2026-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1630423",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 1318447,
       "title": "Apex",
       "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.4,
+      "rating": 6.5,
       "release_date": "2026-04-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318447",
@@ -128,15 +131,16 @@
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.0,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+      "id": 1317448,
+      "title": "No Place to Be Single",
+      "overview": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score.",
+      "rating": 7.4,
+      "release_date": "2026-05-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1317448",
       "providers": [
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
