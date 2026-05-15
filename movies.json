@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-05-14T14:12:26.744460Z",
+  "generated_at": "2026-05-15T14:07:37.203984Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1439930,
+      "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+      "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "rating": 8.6,
+      "release_date": "2026-05-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOggsBCSypNXq0yApYeXe7nnopT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1439930",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
     {
       "id": 687163,
       "title": "Project Hail Mary",
@@ -14,34 +26,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/687163",
       "providers": [
         "Amazon Video"
-      ]
-    },
-    {
-      "id": 855435,
-      "title": "Faces of Death",
-      "overview": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film.",
-      "rating": 5.3,
-      "release_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/855435",
-      "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1226863,
-      "title": "The Super Mario Galaxy Movie",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 6.7,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
-      "providers": [
-        "Google Play Movies",
-        "YouTube"
       ]
     },
     {
@@ -71,10 +55,38 @@
       ]
     },
     {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "rating": 6.7,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "providers": [
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 855435,
+      "title": "Faces of Death",
+      "overview": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film.",
+      "rating": 5.2,
+      "release_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/855435",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1455079,
       "title": "You, Me & Tuscany",
       "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
-      "rating": 5.5,
+      "rating": 6.3,
       "release_date": "2026-04-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1455079",
@@ -105,37 +117,8 @@
       "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
       "rating": 6.6,
       "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gqpXIE9fQNqMgEza73nOZy3aVMR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318447",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1325734,
-      "title": "The Drama",
-      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "rating": 7.0,
-      "release_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1325734",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1678844,
-      "title": "The Bus: A French Football Mutiny",
-      "overview": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
-      "rating": 7.9,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1678844",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
