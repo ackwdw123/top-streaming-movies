@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-15T14:07:37.203984Z",
+  "generated_at": "2026-05-16T13:22:47.660910Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
       "id": 1439930,
-      "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+      "title": "The Punisher: One Last Kill",
       "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "rating": 8.6,
-      "release_date": "2026-05-12",
+      "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/gOggsBCSypNXq0yApYeXe7nnopT.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1439930",
       "providers": [
@@ -29,26 +29,13 @@
       ]
     },
     {
-      "id": 1330021,
-      "title": "Remarkably Bright Creatures",
-      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-      "rating": 8.4,
-      "release_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1007757,
-      "title": "Swapped",
-      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "rating": 9.0,
-      "release_date": "2026-05-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1007757",
+      "id": 1684226,
+      "title": "Bride of the Year",
+      "overview": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex.",
+      "rating": null,
+      "release_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1684226",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -68,33 +55,58 @@
       ]
     },
     {
+      "id": 1628367,
+      "title": "Kartavya",
+      "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+      "rating": null,
+      "release_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9VQvX7a05FgDKAiSGg71MHTXsyF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1628367",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "rating": 8.5,
+      "release_date": "2026-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 855435,
       "title": "Faces of Death",
       "overview": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film.",
-      "rating": 5.2,
+      "rating": 5.1,
       "release_date": "2026-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/855435",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1455079,
-      "title": "You, Me & Tuscany",
-      "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
-      "rating": 6.3,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1455079",
+      "id": 1007757,
+      "title": "Swapped",
+      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "rating": 9.0,
+      "release_date": "2026-05-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/te3zACrsYkS2x3mkjG6htLqhMo4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1007757",
       "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
