@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-05-17T13:21:03.610519Z",
+  "generated_at": "2026-05-18T15:32:58.178242Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.6,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "rating": 6.7,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1304313",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store"
+        "Amazon Video"
       ]
     },
     {
@@ -30,17 +29,16 @@
       ]
     },
     {
-      "id": 1327819,
-      "title": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "rating": 8.0,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.6,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
       "providers": [
         "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Apple TV Store"
       ]
     },
     {
@@ -57,57 +55,16 @@
       ]
     },
     {
-      "id": 1330021,
-      "title": "Remarkably Bright Creatures",
-      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-      "rating": 8.5,
-      "release_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1007757,
-      "title": "Swapped",
-      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "rating": 9.0,
-      "release_date": "2026-05-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/te3zACrsYkS2x3mkjG6htLqhMo4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1007757",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1318447,
-      "title": "Apex",
-      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.6,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1266127,
-      "title": "Ready or Not: Here I Come",
-      "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
-      "rating": 7.6,
-      "release_date": "2026-03-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1266127",
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 8.1,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -115,7 +72,7 @@
       "id": 1628367,
       "title": "Kartavya",
       "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-      "rating": 7.0,
+      "rating": 5.3,
       "release_date": "2026-05-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1628367",
@@ -125,13 +82,51 @@
       ]
     },
     {
+      "id": 1198994,
+      "title": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "rating": 7.0,
+      "release_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 1007757,
+      "title": "Swapped",
+      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "rating": 9.0,
+      "release_date": "2026-05-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1007757",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1684226,
       "title": "Bride of the Year",
       "overview": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex.",
-      "rating": null,
+      "rating": 6.5,
       "release_date": "2026-05-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1684226",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1330021,
+      "title": "Remarkably Bright Creatures",
+      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "rating": 8.5,
+      "release_date": "2026-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
