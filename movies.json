@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T15:32:58.178242Z",
+  "generated_at": "2026-05-19T15:22:27.350206Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1304313,
       "title": "Lee Cronin's The Mummy",
       "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-      "rating": 6.7,
+      "rating": 7.2,
       "release_date": "2026-04-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1304313",
@@ -17,28 +17,27 @@
       ]
     },
     {
-      "id": 1439930,
-      "title": "The Punisher: One Last Kill",
-      "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
-      "rating": 8.6,
-      "release_date": "2026-05-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1439930",
+      "id": 1242332,
+      "title": "Normal",
+      "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+      "rating": 7.0,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
       "providers": [
-        "Disney Plus"
+        "Amazon Video"
       ]
     },
     {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.6,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "id": 1102883,
+      "title": "Mother Mary",
+      "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "rating": 5.4,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1102883",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store"
+        "Amazon Video"
       ]
     },
     {
@@ -55,16 +54,43 @@
       ]
     },
     {
-      "id": 1327819,
-      "title": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "rating": 8.1,
-      "release_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.6,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1439930,
+      "title": "The Punisher: One Last Kill",
+      "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "rating": 8.6,
+      "release_date": "2026-05-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1439930",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.5,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -82,18 +108,6 @@
       ]
     },
     {
-      "id": 1198994,
-      "title": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "rating": 7.0,
-      "release_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1198994",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
       "id": 1007757,
       "title": "Swapped",
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
@@ -107,26 +121,13 @@
       ]
     },
     {
-      "id": 1684226,
-      "title": "Bride of the Year",
-      "overview": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex.",
-      "rating": 6.5,
-      "release_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1684226",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1330021,
-      "title": "Remarkably Bright Creatures",
-      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-      "rating": 8.5,
-      "release_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1330021",
+      "id": 1318447,
+      "title": "Apex",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "rating": 6.7,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
