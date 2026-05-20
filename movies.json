@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T15:22:27.350206Z",
+  "generated_at": "2026-05-20T15:20:27.395167Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,49 +8,53 @@
       "id": 1304313,
       "title": "Lee Cronin's The Mummy",
       "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-      "rating": 7.2,
+      "rating": 7.7,
       "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1304313",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1242332,
       "title": "Normal",
       "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "rating": 7.0,
+      "rating": 6.6,
       "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1242332",
       "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1102883,
-      "title": "Mother Mary",
-      "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-      "rating": 5.4,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1102883",
-      "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1226863,
       "title": "The Super Mario Galaxy Movie",
       "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 6.7,
+      "rating": 7.2,
       "release_date": "2026-04-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1226863",
       "providers": [
+        "Amazon Video",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1102883,
+      "title": "Mother Mary",
+      "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "rating": 5.8,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1102883",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -70,12 +74,25 @@
       "id": 1439930,
       "title": "The Punisher: One Last Kill",
       "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
-      "rating": 8.6,
+      "rating": 8.5,
       "release_date": "2026-05-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1439930",
       "providers": [
         "Disney Plus"
+      ]
+    },
+    {
+      "id": 1318447,
+      "title": "Apex",
+      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "rating": 6.7,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -95,19 +112,6 @@
       ]
     },
     {
-      "id": 1628367,
-      "title": "Kartavya",
-      "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-      "rating": 5.3,
-      "release_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1628367",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1007757,
       "title": "Swapped",
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
@@ -121,13 +125,13 @@
       ]
     },
     {
-      "id": 1318447,
-      "title": "Apex",
-      "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-      "rating": 6.7,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318447",
+      "id": 1684244,
+      "title": "Untold UK: Liverpool's​ Miracle​ of​ lstanbul",
+      "overview": "At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.",
+      "rating": null,
+      "release_date": "2026-05-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1684244",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
