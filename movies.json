@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T15:27:16.972866Z",
+  "generated_at": "2026-05-22T14:39:45.744005Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1380291,
       "title": "Tom Clancy's Jack Ryan: Ghost War",
       "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-      "rating": 7.2,
+      "rating": 7.3,
       "release_date": "2026-05-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1380291",
@@ -21,12 +21,13 @@
       "id": 1304313,
       "title": "Lee Cronin's The Mummy",
       "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-      "rating": 7.8,
+      "rating": 7.9,
       "release_date": "2026-04-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1304313",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -34,41 +35,15 @@
       "id": 1226863,
       "title": "The Super Mario Galaxy Movie",
       "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 7.4,
+      "rating": 7.6,
       "release_date": "2026-04-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1226863",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1102883,
-      "title": "Mother Mary",
-      "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-      "rating": 6.0,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1102883",
-      "providers": [
-        "Amazon Video",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1242332,
-      "title": "Normal",
-      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "rating": 6.6,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -83,6 +58,34 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1242332,
+      "title": "Normal",
+      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "rating": 6.6,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1102883,
+      "title": "Mother Mary",
+      "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+      "rating": 5.9,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1102883",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -114,16 +117,28 @@
       ]
     },
     {
-      "id": 1007757,
-      "title": "Swapped",
-      "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-      "rating": 9.0,
-      "release_date": "2026-05-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1007757",
+      "id": 1431071,
+      "title": "System",
+      "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
+      "rating": null,
+      "release_date": "2026-05-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1431071",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1198984,
+      "title": "We Bury the Dead",
+      "overview": "After a catastrophic military disaster, the dead don't just rise - they hunt. Ava searches for her missing husband, but what she finds is far more terrifying.",
+      "rating": 5.9,
+      "release_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1198984",
+      "providers": [
+        "Hulu"
       ]
     }
   ]
