@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T13:25:30.546031Z",
+  "generated_at": "2026-05-24T13:26:47.640241Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1368881,
       "title": "Ladies First",
       "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-      "rating": 5.3,
+      "rating": 5.4,
       "release_date": "2026-05-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1368881",
@@ -36,7 +36,7 @@
       "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
       "rating": 8.0,
       "release_date": "2026-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1304313",
       "providers": [
         "Amazon Video",
@@ -48,7 +48,7 @@
       "id": 1226863,
       "title": "The Super Mario Galaxy Movie",
       "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 7.7,
+      "rating": 7.8,
       "release_date": "2026-04-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1226863",
@@ -130,16 +130,17 @@
       ]
     },
     {
-      "id": 1431071,
-      "title": "System",
-      "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
-      "rating": null,
-      "release_date": "2026-05-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wznZGK0WTgbIJWuZVdWG3oPECL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1431071",
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 8.1,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
