@@ -1,63 +1,19 @@
 {
-  "generated_at": "2026-05-28T15:55:38.209140Z",
+  "generated_at": "2026-05-29T15:33:03.666181Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1242265,
-      "title": "Fuze",
-      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-      "rating": 6.6,
-      "release_date": "2026-03-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
+      "id": 1662414,
+      "title": "Propeller One-Way Night Coach",
+      "overview": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
+      "rating": 8.0,
+      "release_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7Z4fXmvg665BdmiC2oqAmCbkDo7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1662414",
       "providers": [
-        "Amazon Video",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1390300,
-      "title": "Over Your Dead Body",
-      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "rating": 7.4,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qKEvzsSuxSXCya7aFQOeCBR9wmJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1390300",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 898704,
-      "title": "Desert Warrior",
-      "overview": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-      "rating": 6.7,
-      "release_date": "2026-04-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/898704",
-      "providers": [
-        "Amazon Video",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 539745,
-      "title": "Animal Farm",
-      "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-      "rating": 4.6,
-      "release_date": "2026-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/539745",
-      "providers": [
-        "Angel Studios"
+        "Apple TV"
       ]
     },
     {
@@ -71,6 +27,38 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store"
+      ]
+    },
+    {
+      "id": 1242265,
+      "title": "Fuze",
+      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "rating": 6.5,
+      "release_date": "2026-03-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1390300,
+      "title": "Over Your Dead Body",
+      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "rating": 7.2,
+      "release_date": "2026-04-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1390300",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -88,32 +76,15 @@
       ]
     },
     {
-      "id": 1226863,
-      "title": "The Super Mario Galaxy Movie",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 8.0,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "id": 539745,
+      "title": "Animal Farm",
+      "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+      "rating": 5.6,
+      "release_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/539745",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1368881,
-      "title": "Ladies First",
-      "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-      "rating": 5.8,
-      "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368881",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Angel Studios"
       ]
     },
     {
@@ -143,6 +114,35 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "rating": 8.0,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1368881,
+      "title": "Ladies First",
+      "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+      "rating": 5.9,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368881",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
