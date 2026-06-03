@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-06-02T16:25:06.558422Z",
+  "generated_at": "2026-06-03T16:49:21.144832Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1430077,
-      "title": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "rating": 7.1,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
     {
       "id": 1122573,
       "title": "In the Grey",
@@ -26,6 +14,47 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1122573",
       "providers": [
         "Amazon Video"
+      ]
+    },
+    {
+      "id": 1430077,
+      "title": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "rating": 7.1,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1380316,
+      "title": "Is God Is",
+      "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+      "rating": 5.7,
+      "release_date": "2026-05-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1380316",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1327819,
+      "title": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "rating": 8.2,
+      "release_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1327819",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -44,7 +73,7 @@
       "id": 687163,
       "title": "Project Hail Mary",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.6,
+      "rating": 8.7,
       "release_date": "2026-03-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/687163",
@@ -56,64 +85,48 @@
       ]
     },
     {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "rating": 8.1,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "rating": 8.1,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1304313",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1232667,
       "title": "Miss You, Love You",
       "overview": "A blunt, grieving widow is forced to plan her husband’s funeral with a total stranger: her estranged gay son’s gay assistant. As they fumble through grief and their strange, darkly funny circumstances, buried secrets and long-held resentments surface, but their partnership becomes an unlikely conduit for connection, laughter, and healing for this mother and her unexpected surrogate son.",
-      "rating": 8.0,
+      "rating": 7.2,
       "release_date": "2026-05-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1232667",
       "providers": [
         "HBO Max Amazon Channel",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 1242265,
-      "title": "Fuze",
-      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-      "rating": 6.5,
-      "release_date": "2026-03-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1390300,
-      "title": "Over Your Dead Body",
-      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "rating": 6.8,
-      "release_date": "2026-04-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qKEvzsSuxSXCya7aFQOeCBR9wmJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1390300",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.5,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
