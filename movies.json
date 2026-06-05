@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:15:39.084478Z",
+  "generated_at": "2026-06-05T14:51:50.546887Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,26 +8,42 @@
       "id": 1122573,
       "title": "In the Grey",
       "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "rating": 6.6,
+      "rating": 6.7,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1122573",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1628448,
+      "title": "Maa Behen",
+      "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+      "rating": null,
+      "release_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1628448",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 1430077,
       "title": "Hokum",
       "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-04-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1430077",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -63,85 +79,50 @@
       ]
     },
     {
+      "id": 1288341,
+      "title": "Seven Snipers",
+      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "rating": 4.7,
+      "release_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288341",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 936075,
+      "title": "Michael",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "rating": 7.6,
+      "release_date": "2026-04-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/936075",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1693002,
+      "title": "The Murder of Rachel Nickell",
+      "overview": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
+      "rating": null,
+      "release_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1693002",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1380316,
       "title": "Is God Is",
       "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "rating": 5.9,
+      "rating": 5.6,
       "release_date": "2026-05-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1380316",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1116201,
-      "title": "Iron Lung",
-      "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
-      "rating": 7.2,
-      "release_date": "2026-01-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1116201",
-      "providers": [
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "rating": null,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3WSxhPjc1piCr6ezMhGv9g2EOGA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "rating": 7.5,
-      "release_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/83533",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1242265,
-      "title": "Fuze",
-      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-      "rating": 6.4,
-      "release_date": "2026-03-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1226863,
-      "title": "The Super Mario Galaxy Movie",
-      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-      "rating": 8.1,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
