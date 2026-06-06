@@ -1,14 +1,39 @@
 {
-  "generated_at": "2026-06-05T14:51:50.546887Z",
+  "generated_at": "2026-06-06T13:43:41.804495Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1274706,
+      "title": "The Marked Woman",
+      "overview": "When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.",
+      "rating": 4.0,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1274706",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1288341,
+      "title": "Seven Snipers",
+      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+      "rating": 5.4,
+      "release_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288341",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1122573,
       "title": "In the Grey",
       "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "rating": 6.7,
+      "rating": 6.6,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1122573",
@@ -18,19 +43,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1628448,
-      "title": "Maa Behen",
-      "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
-      "rating": null,
-      "release_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1628448",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -45,6 +57,18 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1285959,
+      "title": "The Passenger",
+      "overview": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
+      "rating": 5.0,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/heFjHLMVmYZWC4uhvPNI0idckwU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1285959",
+      "providers": [
+        "Google Play Movies"
       ]
     },
     {
@@ -79,53 +103,39 @@
       ]
     },
     {
-      "id": 1288341,
-      "title": "Seven Snipers",
-      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "rating": 4.7,
-      "release_date": "2026-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288341",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 936075,
-      "title": "Michael",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rating": 7.6,
-      "release_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/936075",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1693002,
-      "title": "The Murder of Rachel Nickell",
-      "overview": "A young mother is killed in broad daylight on London's Wimbledon Common — in front of her toddler. This documentary examines the yearslong murder case.",
+      "id": 1628448,
+      "title": "Maa Behen",
+      "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
       "rating": null,
       "release_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1693002",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rfooTavEjaWh6krAcPpHp1CPj7E.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1628448",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 1380316,
-      "title": "Is God Is",
-      "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "rating": 5.6,
-      "release_date": "2026-05-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1380316",
+      "id": 1083884,
+      "title": "Signal One",
+      "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
+      "rating": 6.6,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dINJlQVlDCpsEVqhjFyOjpymxsg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083884",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1339210,
+      "title": "Affection",
+      "overview": "Afflicted by a mysterious condition that resets her memory, Ellie becomes trapped in a cyclical nightmare with a man who claims to be her husband. She soon must uncover the horrifying truth of her existence—before she forgets it all again.",
+      "rating": 6.4,
+      "release_date": "2026-05-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3vCdqenXoOdNFHgr16VOJwBCJwS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339210",
+      "providers": [
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
