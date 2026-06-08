@@ -1,14 +1,38 @@
 {
-  "generated_at": "2026-06-07T13:52:49.230244Z",
+  "generated_at": "2026-06-08T15:53:06.154528Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "rating": 6.7,
+      "release_date": "2026-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/931285",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 936075,
+      "title": "Michael",
+      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "rating": 7.6,
+      "release_date": "2026-04-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/936075",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1358005,
       "title": "Office Romance",
       "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-      "rating": 6.4,
+      "rating": 6.7,
       "release_date": "2026-06-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1358005",
@@ -18,30 +42,31 @@
       ]
     },
     {
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.7,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
       "id": 1274706,
       "title": "The Marked Woman",
       "overview": "When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.",
-      "rating": 4.5,
+      "rating": 4.8,
       "release_date": "2026-06-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1274706",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1430077,
-      "title": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "rating": 6.9,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     },
     {
@@ -64,43 +89,16 @@
       "id": 1288341,
       "title": "Seven Snipers",
       "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "rating": 6.1,
+      "rating": 6.0,
       "release_date": "2026-04-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1288341",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1530510,
-      "title": "Mexico 86",
-      "overview": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way through FIFA to beat the United States, but in a country of power games, every victory has a price.",
-      "rating": 6.6,
-      "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1530510",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -112,6 +110,18 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1327819",
       "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 1226863,
+      "title": "The Super Mario Galaxy Movie",
+      "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "rating": 8.2,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226863",
+      "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
@@ -120,27 +130,17 @@
       ]
     },
     {
-      "id": 1285959,
-      "title": "The Passenger",
-      "overview": "Hassan, a Somali-American airport shuttle driver in Minneapolis, is struggling to make ends meet. When Lloyd, a stranded twenty-something at the airport, offers to pay Hassan to take him overland to Chicago, it seems worth the risk. But as the realization grows that his passenger is not what he seems, Hassan finds himself trapped in a terrifying ride that he can’t escape, knowing that saving himself might put countless others in danger.",
-      "rating": 5.9,
-      "release_date": "2026-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/heFjHLMVmYZWC4uhvPNI0idckwU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1285959",
+      "id": 1430077,
+      "title": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "rating": 6.8,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
       "providers": [
-        "Google Play Movies"
-      ]
-    },
-    {
-      "id": 936075,
-      "title": "Michael",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rating": 7.6,
-      "release_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/936075",
-      "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
