@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:35:02.127729Z",
+  "generated_at": "2026-06-11T16:01:42.521529Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 936075,
       "title": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rating": 8.4,
+      "rating": 8.5,
       "release_date": "2026-04-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/936075",
@@ -18,23 +18,24 @@
       ]
     },
     {
-      "id": 931285,
-      "title": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "rating": 7.9,
-      "release_date": "2026-05-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/931285",
+      "id": 1560681,
+      "title": "Colors of Evil: Black",
+      "overview": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too late.",
+      "rating": 6.9,
+      "release_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wIubCZKpnTiQmlC5DehgU1LNFip.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1560681",
       "providers": [
-        "Amazon Video"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 1390300,
       "title": "Over Your Dead Body",
       "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "rating": 6.8,
-      "release_date": "2026-04-24",
+      "rating": 6.9,
+      "release_date": "2026-03-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1390300",
       "providers": [
@@ -46,26 +47,13 @@
       ]
     },
     {
-      "id": 1358005,
-      "title": "Office Romance",
-      "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-      "rating": 6.6,
-      "release_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1358005",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1122573,
-      "title": "In the Grey",
-      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-      "rating": 6.6,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1122573",
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "rating": 7.9,
+      "release_date": "2026-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/931285",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -91,6 +79,19 @@
       ]
     },
     {
+      "id": 1358005,
+      "title": "Office Romance",
+      "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
+      "rating": 6.6,
+      "release_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1358005",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 687163,
       "title": "Project Hail Mary",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
@@ -106,13 +107,13 @@
       ]
     },
     {
-      "id": 1288341,
-      "title": "Seven Snipers",
-      "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
-      "rating": 5.9,
-      "release_date": "2026-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288341",
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.6,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -122,15 +123,19 @@
       ]
     },
     {
-      "id": 1409853,
-      "title": "Neglected",
-      "overview": "Detective Shaw is about to retire when he finds out on his last day of work that a serial killer has buried his son alive. He then races against the clock to solve three murders and find his son’s location before he runs out of air.",
-      "rating": 6.0,
-      "release_date": "2026-05-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1409853",
+      "id": 1122573,
+      "title": "In the Grey",
+      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "rating": 6.6,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1122573",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
