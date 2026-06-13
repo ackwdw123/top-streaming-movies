@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:14:46.937484Z",
+  "generated_at": "2026-06-13T14:00:16.755673Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -14,7 +14,8 @@
       "tmdb_url": "https://www.themoviedb.org/movie/936075",
       "providers": [
         "Amazon Video",
-        "Apple TV Store"
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -34,19 +35,16 @@
       ]
     },
     {
-      "id": 1390300,
-      "title": "Over Your Dead Body",
-      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-      "rating": 6.8,
-      "release_date": "2026-03-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1390300",
+      "id": 1699155,
+      "title": "Maternal Instinct",
+      "overview": "When a Texas state trooper pulled over a woman driving erratically on the highway in 2020, she claimed she had just given birth — but her story didn’t add up.",
+      "rating": 6.3,
+      "release_date": "2026-06-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1699155",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -60,6 +58,52 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1390300,
+      "title": "Over Your Dead Body",
+      "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+      "rating": 6.7,
+      "release_date": "2026-03-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1390300",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1325614,
+      "title": "Badland Rising",
+      "overview": "An ordinary bloke embarks on a 19-hour drive home, unaware of being pursued by two unhinged criminals. Once he discovers their motive, his journey turns into a brutal fight for survival.",
+      "rating": 5.0,
+      "release_date": "2026-06-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u7rRl06V3320RSeBcircpaeePnr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1325614",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.6,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -91,6 +135,19 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube"
+      ]
+    },
+    {
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "rating": 7.1,
+      "release_date": "2026-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1292695",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     }
   ]
