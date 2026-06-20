@@ -1,9 +1,35 @@
 {
-  "generated_at": "2026-06-19T15:17:51.165262Z",
+  "generated_at": "2026-06-20T14:04:21.150285Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1451344,
+      "title": "Husbands in Action",
+      "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+      "rating": 6.4,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1451344",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 614945,
+      "title": "Voicemails for Isabelle",
+      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "rating": 7.1,
+      "release_date": "2026-06-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/614945",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 1477317,
       "title": "Your Fault: London",
@@ -34,18 +60,6 @@
       ]
     },
     {
-      "id": 1275779,
-      "title": "Disclosure Day",
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-      "rating": 6.7,
-      "release_date": "2026-06-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1275779",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 936075,
       "title": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
@@ -63,7 +77,7 @@
       "id": 1127384,
       "title": "Deep Water",
       "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
-      "rating": 6.4,
+      "rating": 6.3,
       "release_date": "2026-04-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1127384",
@@ -71,6 +85,18 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
+      "rating": null,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "providers": [
+        "Amazon Video"
       ]
     },
     {
@@ -90,26 +116,16 @@
       ]
     },
     {
-      "id": 1558796,
-      "title": "Never Change!",
-      "overview": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30's, they're being forced to return home and finish high school once and for all.",
-      "rating": 6.5,
-      "release_date": "2026-06-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1558796",
+      "id": 1430077,
+      "title": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "rating": 6.7,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
       "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1280738,
-      "title": "The Furious",
-      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "rating": 8.0,
-      "release_date": "2026-06-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1280738",
-      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -122,24 +138,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/687163",
       "providers": [
+        "fuboTV",
         "MGM+ Amazon Channel",
         "MGM Plus Roku Premium Channel",
         "MGM Plus",
         "Philo"
-      ]
-    },
-    {
-      "id": 1430077,
-      "title": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "rating": 6.7,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1430077",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     }
   ]
