@@ -1,30 +1,65 @@
 {
-  "generated_at": "2026-06-22T16:58:11.465788Z",
+  "generated_at": "2026-06-23T14:48:55.070951Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 614945,
-      "title": "Voicemails for Isabelle",
-      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "rating": 7.7,
-      "release_date": "2026-06-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/614945",
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "rating": 7.5,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "fuboTV"
       ]
     },
     {
-      "id": 1451344,
-      "title": "Husbands in Action",
-      "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
-      "rating": 6.7,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1451344",
+      "id": 1340206,
+      "title": "Tuner",
+      "overview": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+      "rating": 7.0,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1340206",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1227877,
+      "title": "I Love Boosters",
+      "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+      "rating": 5.6,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1227877",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1284016,
+      "title": "Power Ballad",
+      "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "rating": 7.0,
+      "release_date": "2026-05-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284016",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 614945,
+      "title": "Voicemails for Isabelle",
+      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "rating": 8.0,
+      "release_date": "2026-06-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/614945",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -36,11 +71,52 @@
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "rating": 8.7,
       "release_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zZtagf8mE4mdUqpWskVn23HaoiG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/936075",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1329471,
+      "title": "Carolina Caroline",
+      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+      "rating": 6.7,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1451344,
+      "title": "Husbands in Action",
+      "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+      "rating": 7.5,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1451344",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
+      "rating": 7.3,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -57,80 +133,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 931285,
-      "title": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "rating": 8.0,
-      "release_date": "2026-05-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/931285",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Philo"
-      ]
-    },
-    {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
-      "rating": 7.1,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1564614,
-      "title": "Leviticus",
-      "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
-      "rating": 6.8,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1564614",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1127384,
-      "title": "Deep Water",
-      "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
-      "rating": 6.2,
-      "release_date": "2026-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1127384",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     }
