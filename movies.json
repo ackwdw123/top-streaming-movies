@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:48:55.070951Z",
+  "generated_at": "2026-06-24T14:30:19.867721Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1084244,
       "title": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2026-06-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1084244",
@@ -19,13 +19,15 @@
     {
       "id": 1340206,
       "title": "Tuner",
-      "overview": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "rating": 7.0,
       "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1340206",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -37,17 +39,34 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1227877",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
       "id": 1284016,
       "title": "Power Ballad",
       "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "rating": 7.0,
+      "rating": 7.4,
       "release_date": "2026-05-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1284016",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1329471,
+      "title": "Carolina Caroline",
+      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+      "rating": 7.3,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fFEN73rlgFELGT8aHgsYiH8kHyy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
       "providers": [
         "Amazon Video"
       ]
@@ -56,9 +75,9 @@
       "id": 614945,
       "title": "Voicemails for Isabelle",
       "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "rating": 8.0,
+      "rating": 8.1,
       "release_date": "2026-06-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/614945",
       "providers": [
         "Netflix",
@@ -80,38 +99,13 @@
       ]
     },
     {
-      "id": 1329471,
-      "title": "Carolina Caroline",
-      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-      "rating": 6.7,
-      "release_date": "2026-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1451344,
-      "title": "Husbands in Action",
-      "overview": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
-      "rating": 7.5,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1451344",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
-      "rating": 7.3,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "rating": 7.6,
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -121,13 +115,13 @@
       ]
     },
     {
-      "id": 1318413,
-      "title": "Pressure",
-      "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
-      "rating": 7.6,
-      "release_date": "2026-05-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318413",
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
+      "rating": 7.0,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
