@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-06-24T14:30:19.867721Z",
+  "generated_at": "2026-06-25T14:33:01.577370Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 7.4,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "id": 1301421,
+      "title": "The Sheep Detectives",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "rating": 7.5,
+      "release_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1301421",
       "providers": [
-        "fuboTV"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1020047,
+      "title": "In the Hand of Dante",
+      "overview": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
+      "rating": 3.3,
+      "release_date": "2026-06-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1020047",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 1340206,
       "title": "Tuner",
       "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2026-05-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1340206",
@@ -31,18 +45,15 @@
       ]
     },
     {
-      "id": 1227877,
-      "title": "I Love Boosters",
-      "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
-      "rating": 5.6,
-      "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1227877",
+      "id": 1382832,
+      "title": "HUNGRY",
+      "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+      "rating": 5.9,
+      "release_date": "2026-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1382832",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
+        "Amazon Video"
       ]
     },
     {
@@ -55,33 +66,26 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1284016",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 1329471,
-      "title": "Carolina Caroline",
-      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-      "rating": 7.3,
-      "release_date": "2026-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fFEN73rlgFELGT8aHgsYiH8kHyy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+      "rating": 7.1,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
       "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 614945,
-      "title": "Voicemails for Isabelle",
-      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "rating": 8.1,
-      "release_date": "2026-06-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/614945",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -115,19 +119,30 @@
       ]
     },
     {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both the criminals and the corrupt officials. As his vigilantism increases, so does his public profile, winning public support as a hero figure, as well as the attention of Henry, an Interpol chief, who views him as a threat to society.",
-      "rating": 7.0,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "id": 1227877,
+      "title": "I Love Boosters",
+      "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+      "rating": 5.8,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1227877",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1329471,
+      "title": "Carolina Caroline",
+      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+      "rating": 7.7,
+      "release_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9waKPyT5JWv9EWTf79j25yT6Bu4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
+      "providers": [
+        "Amazon Video"
       ]
     }
   ]
