@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:33:01.577370Z",
+  "generated_at": "2026-06-26T14:24:53.668792Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -18,10 +18,26 @@
       ]
     },
     {
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+      "rating": 6.9,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1020047,
       "title": "In the Hand of Dante",
       "overview": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
-      "rating": 3.3,
+      "rating": 4.3,
       "release_date": "2026-06-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1020047",
@@ -34,7 +50,7 @@
       "id": 1340206,
       "title": "Tuner",
       "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2026-05-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1340206",
@@ -45,25 +61,13 @@
       ]
     },
     {
-      "id": 1382832,
-      "title": "HUNGRY",
-      "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
-      "rating": 5.9,
-      "release_date": "2026-06-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1382832",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1284016,
-      "title": "Power Ballad",
-      "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "rating": 7.4,
-      "release_date": "2026-05-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284016",
+      "id": 1398050,
+      "title": "Driver's Ed",
+      "overview": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
+      "rating": 6.9,
+      "release_date": "2026-05-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1398050",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -73,19 +77,16 @@
       ]
     },
     {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-      "rating": 7.1,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "id": 1515729,
+      "title": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "rating": 7.2,
+      "release_date": "2026-05-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1515729",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -111,38 +112,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/83533",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1227877,
-      "title": "I Love Boosters",
-      "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
-      "rating": 5.8,
-      "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1227877",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
-      "id": 1329471,
-      "title": "Carolina Caroline",
-      "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
-      "rating": 7.7,
-      "release_date": "2026-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9waKPyT5JWv9EWTf79j25yT6Bu4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1329471",
-      "providers": [
-        "Amazon Video"
+        "Disney Plus"
       ]
     }
   ]
