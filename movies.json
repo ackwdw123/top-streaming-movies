@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:46:25.511675Z",
+  "generated_at": "2026-06-29T15:47:16.282044Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "id": 1413976,
+      "title": "Citizen Vigilante",
+      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+      "rating": 7.0,
+      "release_date": "2026-06-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1301421,
       "title": "The Sheep Detectives",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
@@ -31,35 +47,6 @@
       ]
     },
     {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-      "rating": 7.1,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1020047,
-      "title": "In the Hand of Dante",
-      "overview": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
-      "rating": 5.3,
-      "release_date": "2026-06-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1020047",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 936075,
       "title": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
@@ -70,22 +57,6 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1398050,
-      "title": "Driver's Ed",
-      "overview": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
-      "rating": 6.5,
-      "release_date": "2026-05-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1398050",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -104,48 +75,47 @@
       ]
     },
     {
-      "id": 1318413,
-      "title": "Pressure",
-      "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.7,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Philo"
+      ]
+    },
+    {
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
       "rating": 7.6,
-      "release_date": "2026-05-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318413",
+      "release_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/83533",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 1398050,
+      "title": "Driver's Ed",
+      "overview": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman girlfriend and win her back.",
+      "rating": 6.6,
+      "release_date": "2026-05-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1398050",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 931285,
-      "title": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "rating": 8.0,
-      "release_date": "2026-05-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/931285",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 880067,
-      "title": "Strung",
-      "overview": "A talented violinist whose prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
-      "rating": 8.2,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/880067",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
       ]
     }
   ]
