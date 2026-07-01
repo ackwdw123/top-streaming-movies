@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-06-30T14:19:14.726470Z",
+  "generated_at": "2026-07-01T14:35:45.766567Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1314481,
+      "title": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "rating": 6.8,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
+      "providers": [
+        "Amazon Video",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1279493,
+      "title": "The Get Out",
+      "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "rating": 7.6,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1279493",
+      "providers": [
+        "Amazon Video",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1368337,
+      "title": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "rating": null,
+      "release_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1413976,
       "title": "Citizen Vigilante",
       "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2026-06-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1413976",
@@ -18,19 +58,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1397385,
-      "title": "Little Brother",
-      "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
-      "rating": 6.3,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1397385",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -47,33 +74,16 @@
       ]
     },
     {
-      "id": 1340206,
-      "title": "Tuner",
-      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "rating": 7.2,
-      "release_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1340206",
+      "id": 1397385,
+      "title": "Little Brother",
+      "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+      "rating": 6.2,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1397385",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Philo"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -91,16 +101,17 @@
       ]
     },
     {
-      "id": 614945,
-      "title": "Voicemails for Isabelle",
-      "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-      "rating": 8.4,
-      "release_date": "2026-06-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/614945",
+      "id": 1340206,
+      "title": "Tuner",
+      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "rating": 7.2,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1340206",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
