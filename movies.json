@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:33:17.231417Z",
+  "generated_at": "2026-07-07T14:33:34.571352Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
+      "rating": 8.3,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1339713",
@@ -82,6 +82,22 @@
       ]
     },
     {
+      "id": 1705729,
+      "title": "Man of War",
+      "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+      "rating": 6.1,
+      "release_date": "2026-07-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1705729",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1301421,
       "title": "The Sheep Detectives",
       "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
@@ -95,29 +111,13 @@
       ]
     },
     {
-      "id": 1705729,
-      "title": "Man of War",
-      "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-      "rating": 6.7,
-      "release_date": "2026-07-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1705729",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1413976,
-      "title": "Citizen Vigilante",
-      "overview": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
-      "rating": 6.6,
-      "release_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1413976",
+      "id": 1318413,
+      "title": "Pressure",
+      "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "rating": 7.5,
+      "release_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318413",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
