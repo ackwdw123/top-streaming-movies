@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:18:54.346508Z",
+  "generated_at": "2026-07-12T13:19:07.333297Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,11 +21,27 @@
       ]
     },
     {
+      "id": 1368314,
+      "title": "Passenger",
+      "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+      "rating": 6.9,
+      "release_date": "2026-05-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1368314",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1280738,
       "title": "The Furious",
       "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
       "rating": 7.5,
-      "release_date": "2025-09-07",
+      "release_date": "2026-06-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1280738",
       "providers": [
@@ -36,43 +52,16 @@
       ]
     },
     {
-      "id": 1710008,
-      "title": "Nothing to Lose",
-      "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
-      "rating": 5.2,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1710008",
+      "id": 1202033,
+      "title": "Enola Holmes 3",
+      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "rating": 7.0,
+      "release_date": "2026-06-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1202033",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1368314,
-      "title": "Passenger",
-      "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-      "rating": 6.8,
-      "release_date": "2026-05-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368314",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1381202,
-      "title": "The Outer Threat",
-      "overview": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
-      "rating": null,
-      "release_date": "2026-07-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fOkeNglWmj5ubNwhpiXBPEep2QW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1381202",
-      "providers": [
-        "Amazon Video"
       ]
     },
     {
@@ -94,6 +83,56 @@
       ]
     },
     {
+      "id": 1484913,
+      "title": "Ikka",
+      "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+      "rating": 5.4,
+      "release_date": "2026-07-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1484913",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1381202,
+      "title": "The Outer Threat",
+      "overview": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
+      "rating": 4.0,
+      "release_date": "2026-07-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1381202",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1595852,
+      "title": "Boulevard",
+      "overview": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay away. In their 'boulevard,' they find a raw, liberating love. But as his past threatens to destroy them both, Hasley faces a heartbreaking choice: can you save someone who isn't ready to be rescued?",
+      "rating": 8.1,
+      "release_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1595852",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1304313,
+      "title": "Lee Cronin's The Mummy",
+      "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "rating": 8.0,
+      "release_date": "2026-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1304313",
+      "providers": [
+        "HBO Max"
+      ]
+    },
+    {
       "id": 936075,
       "title": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
@@ -104,35 +143,6 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1202033,
-      "title": "Enola Holmes 3",
-      "overview": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "rating": 7.0,
-      "release_date": "2026-06-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1202033",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1314481,
-      "title": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rating": 7.1,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     }
