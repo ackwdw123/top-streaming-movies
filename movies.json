@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T13:49:42.689109Z",
+  "generated_at": "2026-07-17T13:28:09.826665Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -35,23 +35,10 @@
       ]
     },
     {
-      "id": 1440050,
-      "title": "The Breadwinner",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "rating": 7.3,
-      "release_date": "2026-05-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1440050",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
       "id": 1280738,
       "title": "The Furious",
       "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2026-06-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1280738",
@@ -64,15 +51,49 @@
       ]
     },
     {
-      "id": 1541560,
-      "title": "Stop! That! Train!",
-      "overview": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
-      "rating": 4.8,
-      "release_date": "2026-06-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1541560",
+      "id": 1440050,
+      "title": "The Breadwinner",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "rating": 7.3,
+      "release_date": "2026-05-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1440050",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1242332,
+      "title": "Normal",
+      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "rating": 7.1,
+      "release_date": "2026-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1242265,
+      "title": "Fuze",
+      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+      "rating": 6.4,
+      "release_date": "2026-03-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -91,63 +112,6 @@
         "MGM Plus Roku Premium Channel",
         "MGM Plus",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1242332,
-      "title": "Normal",
-      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "rating": 7.1,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1380316,
-      "title": "Is God Is",
-      "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
-      "rating": 5.8,
-      "release_date": "2026-05-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1380316",
-      "providers": [
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus"
-      ]
-    },
-    {
-      "id": 936075,
-      "title": "Michael",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rating": 8.7,
-      "release_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/936075",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1171094,
-      "title": "Ek Din",
-      "overview": "Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "rating": null,
-      "release_date": "2026-05-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kZn71TZDhV5c58cmWmOLyZGQ6U9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1171094",
-      "providers": [
-        "Amazon Video"
       ]
     }
   ]
