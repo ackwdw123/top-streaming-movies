@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:28:09.826665Z",
+  "generated_at": "2026-07-18T13:14:41.264012Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -35,6 +35,19 @@
       ]
     },
     {
+      "id": 1668364,
+      "title": "Desire",
+      "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+      "rating": 6.1,
+      "release_date": "2026-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1668364",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1280738,
       "title": "The Furious",
       "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
@@ -51,17 +64,16 @@
       ]
     },
     {
-      "id": 1440050,
-      "title": "The Breadwinner",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "rating": 7.3,
-      "release_date": "2026-05-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1440050",
+      "id": 1616674,
+      "title": "Me Before Me",
+      "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
+      "rating": 4.3,
+      "release_date": "2026-07-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1616674",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -81,37 +93,17 @@
       ]
     },
     {
-      "id": 1242265,
-      "title": "Fuze",
-      "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-      "rating": 6.4,
-      "release_date": "2026-03-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242265",
+      "id": 1440050,
+      "title": "The Breadwinner",
+      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+      "rating": 7.0,
+      "release_date": "2026-05-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1440050",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
