@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:14:41.264012Z",
+  "generated_at": "2026-07-19T13:17:09.129515Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -22,26 +22,62 @@
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
+      "rating": 8.3,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1339713",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1318621,
+      "title": "Descendants: Wicked Wonderland",
+      "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
+      "rating": 7.7,
+      "release_date": "2026-07-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318621",
+      "providers": [
+        "Disney Plus",
+        "fuboTV"
       ]
     },
     {
       "id": 1668364,
       "title": "Desire",
       "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
-      "rating": 6.1,
+      "rating": 6.8,
       "release_date": "2026-05-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1668364",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1656220,
+      "title": "23 000 Lives",
+      "overview": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexperienced but driven by passion and courage, they launch a crowdfunding campaign to buy an old ship. Venturing into the Mediterranean, they embark on a mission to save thousands of people. But their efforts soon put their understanding of law and justice to the test.",
+      "rating": 4.7,
+      "release_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1656220",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1468683,
+      "title": "Heartstopper Forever",
+      "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+      "rating": 6.7,
+      "release_date": "2026-07-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1468683",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -64,26 +100,13 @@
       ]
     },
     {
-      "id": 1616674,
-      "title": "Me Before Me",
-      "overview": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth — not trophies — might finally set him free.",
-      "rating": 4.3,
-      "release_date": "2026-07-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1616674",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1242332,
-      "title": "Normal",
-      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "id": 1314481,
+      "title": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "rating": 7.1,
-      "release_date": "2026-04-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1242332",
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -93,17 +116,37 @@
       ]
     },
     {
-      "id": 1440050,
-      "title": "The Breadwinner",
-      "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
-      "rating": 7.0,
-      "release_date": "2026-05-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1440050",
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "rating": 8.0,
+      "release_date": "2026-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/931285",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.7,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "providers": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
