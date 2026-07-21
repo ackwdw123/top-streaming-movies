@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-07-20T14:05:05.414236Z",
+  "generated_at": "2026-07-21T13:49:35.471961Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2026-05-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1083381",
@@ -19,23 +32,10 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.3,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
       "id": 1318621,
       "title": "Descendants: Wicked Wonderland",
       "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2026-07-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1318621",
@@ -58,19 +58,6 @@
       ]
     },
     {
-      "id": 1468683,
-      "title": "Heartstopper Forever",
-      "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-      "rating": 6.8,
-      "release_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1468683",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1314481,
       "title": "The Devil Wears Prada 2",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
@@ -87,31 +74,26 @@
       ]
     },
     {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "id": 1430698,
+      "title": "The Bay",
+      "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+      "rating": 6.0,
+      "release_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1430698",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store"
       ]
     },
     {
-      "id": 1656220,
-      "title": "23 000 Lives",
-      "overview": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexperienced but driven by passion and courage, they launch a crowdfunding campaign to buy an old ship. Venturing into the Mediterranean, they embark on a mission to save thousands of people. But their efforts soon put their understanding of law and justice to the test.",
-      "rating": 5.3,
-      "release_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1656220",
+      "id": 1468683,
+      "title": "Heartstopper Forever",
+      "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
+      "rating": 6.9,
+      "release_date": "2026-07-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1468683",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
