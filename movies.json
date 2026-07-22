@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-21T13:49:35.471961Z",
+  "generated_at": "2026-07-22T13:53:10.492519Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1273221,
+      "title": "Scary Movie",
+      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "rating": 6.4,
+      "release_date": "2026-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "rating": 6.9,
+      "release_date": "2026-05-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1339713,
       "title": "Obsession",
@@ -45,61 +77,6 @@
       ]
     },
     {
-      "id": 1668364,
-      "title": "Desire",
-      "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
-      "rating": 6.8,
-      "release_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1668364",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1314481,
-      "title": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rating": 7.1,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1430698,
-      "title": "The Bay",
-      "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
-      "rating": 6.0,
-      "release_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1430698",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1468683,
-      "title": "Heartstopper Forever",
-      "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-      "rating": 6.9,
-      "release_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1468683",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1280738,
       "title": "The Furious",
       "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
@@ -129,6 +106,35 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1314481,
+      "title": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "rating": 7.1,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1668364,
+      "title": "Desire",
+      "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+      "rating": 6.8,
+      "release_date": "2026-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1668364",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
