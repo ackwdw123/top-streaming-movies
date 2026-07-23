@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-07-22T13:53:10.492519Z",
+  "generated_at": "2026-07-23T13:59:02.276243Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1273221,
-      "title": "Scary Movie",
-      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "rating": 6.4,
+      "id": 454639,
+      "title": "Masters of the Universe",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "rating": 7.3,
       "release_date": "2026-06-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/454639",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1275779,
+      "title": "Disclosure Day",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rating": 7.1,
+      "release_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1275779",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -21,13 +34,26 @@
       ]
     },
     {
-      "id": 1228710,
-      "title": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "rating": 6.9,
-      "release_date": "2026-05-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+      "id": 1487861,
+      "title": "Elize: Shadows of a Woman",
+      "overview": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+      "rating": 5.9,
+      "release_date": "2026-07-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1487861",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1273221,
+      "title": "Scary Movie",
+      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "rating": 6.5,
+      "release_date": "2026-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -50,6 +76,22 @@
       ]
     },
     {
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "rating": 7.0,
+      "release_date": "2026-05-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
@@ -64,16 +106,19 @@
       ]
     },
     {
-      "id": 1318621,
-      "title": "Descendants: Wicked Wonderland",
-      "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
-      "rating": 7.7,
-      "release_date": "2026-07-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1318621",
+      "id": 1318413,
+      "title": "Pressure",
+      "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "rating": 7.5,
+      "release_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318413",
       "providers": [
-        "Disney Plus",
-        "fuboTV"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -106,35 +151,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1314481,
-      "title": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rating": 7.1,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1668364,
-      "title": "Desire",
-      "overview": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
-      "rating": 6.8,
-      "release_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1668364",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
