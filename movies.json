@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-07-25T13:25:37.286373Z",
+  "generated_at": "2026-07-26T13:21:40.130205Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture.",
+      "rating": 9.4,
+      "release_date": "2026-07-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/980431",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 949838,
+      "title": "72 HOURS",
+      "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
+      "rating": 6.2,
+      "release_date": "2026-07-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/949838",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1275779,
       "title": "Disclosure Day",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rating": 7.2,
+      "rating": 7.3,
       "release_date": "2026-06-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1275779",
@@ -21,35 +49,10 @@
       ]
     },
     {
-      "id": 1361774,
-      "title": "The Dink",
-      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-      "rating": 6.3,
-      "release_date": "2026-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1361774",
-      "providers": [
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 949838,
-      "title": "72 HOURS",
-      "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
-      "rating": 5.5,
-      "release_date": "2026-07-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/949838",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 454639,
       "title": "Masters of the Universe",
       "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "rating": 7.4,
+      "rating": 7.3,
       "release_date": "2026-06-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/454639",
@@ -72,16 +75,18 @@
       ]
     },
     {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "id": 1273221,
+      "title": "Scary Movie",
+      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "rating": 6.5,
+      "release_date": "2026-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -102,42 +107,40 @@
       ]
     },
     {
-      "id": 1273221,
-      "title": "Scary Movie",
-      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-      "rating": 6.5,
-      "release_date": "2026-06-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
+      "id": 1361774,
+      "title": "The Dink",
+      "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+      "rating": 6.3,
+      "release_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1361774",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1630409,
-      "title": "The Debt Collector",
-      "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
-      "rating": 7.0,
-      "release_date": "2026-07-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1630409",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1620682,
-      "title": "Love in Slow Motion",
-      "overview": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels — because who knew true love could be hiding in the friend zone?",
-      "rating": 4.4,
-      "release_date": "2026-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1620682",
+      "id": 1659155,
+      "title": "The Truthers",
+      "overview": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+      "rating": 5.6,
+      "release_date": "2026-07-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1659155",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
