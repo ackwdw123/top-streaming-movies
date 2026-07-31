@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-07-30T14:00:54.272936Z",
+  "generated_at": "2026-07-31T14:05:43.108271Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1481343,
+      "title": "The Devil's Mouth",
+      "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+      "rating": 6.9,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1481343",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 1081003,
       "title": "Supergirl",
@@ -14,6 +27,7 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1081003",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube"
       ]
@@ -22,71 +36,13 @@
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.3,
+      "rating": 8.2,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1339713",
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1314481,
-      "title": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "rating": 7.2,
-      "release_date": "2026-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rating": 9.4,
-      "release_date": "2026-07-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/980431",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 1311031,
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "rating": 8.3,
-      "release_date": "2025-07-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1311031",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     },
     {
@@ -106,35 +62,45 @@
       ]
     },
     {
-      "id": 1564614,
-      "title": "Leviticus",
-      "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
-      "rating": 6.4,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1564614",
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "Amazon Video",
-        "Google Play Movies",
-        "YouTube"
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "rating": 9.4,
+      "release_date": "2026-07-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/980431",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Amazon Prime Video with Ads"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 1314481,
+      "title": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "rating": 7.1,
+      "release_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1314481",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -148,6 +114,37 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1564614,
+      "title": "Leviticus",
+      "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
+      "rating": 6.4,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1564614",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
+      ]
+    },
+    {
+      "id": 1122573,
+      "title": "In the Grey",
+      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "rating": 7.6,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1122573",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
