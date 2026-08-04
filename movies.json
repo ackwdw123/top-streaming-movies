@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:38:19.511231Z",
+  "generated_at": "2026-08-04T14:10:37.019834Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.3,
+      "rating": 8.2,
       "release_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1339713",
@@ -37,14 +37,16 @@
       "id": 1307118,
       "title": "Soulm8te",
       "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2026-07-31",
       "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1307118",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
-        "YouTube"
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -64,6 +66,35 @@
       ]
     },
     {
+      "id": 1284465,
+      "title": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "rating": 6.5,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284465",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1481343,
+      "title": "The Devil's Mouth",
+      "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+      "rating": 6.6,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1481343",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
@@ -75,19 +106,6 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1481343,
-      "title": "The Devil's Mouth",
-      "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-      "rating": 6.7,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1481343",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -119,31 +137,13 @@
       ]
     },
     {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.7,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1564614,
-      "title": "Leviticus",
-      "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
-      "rating": 6.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1564614",
+      "id": 1273221,
+      "title": "Scary Movie",
+      "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "rating": 6.5,
+      "release_date": "2026-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1273221",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
