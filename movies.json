@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-08-09T12:49:40.778908Z",
+  "generated_at": "2026-08-10T13:06:36.577545Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1284041,
-      "title": "The Last House",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rating": 6.6,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284041",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
@@ -27,6 +14,19 @@
       "tmdb_url": "https://www.themoviedb.org/movie/969681",
       "providers": [
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1284041,
+      "title": "The Last House",
+      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "rating": 6.7,
+      "release_date": "2026-08-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284041",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -43,19 +43,16 @@
       ]
     },
     {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rating": 7.9,
-      "release_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
+      "id": 1679730,
+      "title": "THE RIBBON HERO",
+      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+      "rating": 6.6,
+      "release_date": "2026-08-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1679730",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -75,29 +72,18 @@
       ]
     },
     {
-      "id": 1263532,
-      "title": "Beast Race",
-      "overview": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
-      "rating": 5.8,
-      "release_date": "2026-03-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1263532",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "rating": 7.9,
+      "release_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -120,6 +106,33 @@
       ]
     },
     {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1263532,
+      "title": "Beast Race",
+      "overview": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
+      "rating": 6.4,
+      "release_date": "2026-03-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1263532",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1275779,
       "title": "Disclosure Day",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
@@ -132,20 +145,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 936075,
-      "title": "Michael",
-      "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "rating": 8.7,
-      "release_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/936075",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     }
