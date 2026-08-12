@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-11T13:03:59.221118Z",
+  "generated_at": "2026-08-12T13:08:10.263972Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1308767,
+      "title": "Young Washington",
+      "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "rating": 7.9,
+      "release_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1308767",
+      "providers": [
+        "Angel Studios"
+      ]
+    },
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
@@ -30,38 +42,6 @@
       ]
     },
     {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rating": 7.9,
-      "release_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1081003,
-      "title": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rating": 6.8,
-      "release_date": "2026-06-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -72,6 +52,22 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1081003,
+      "title": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "rating": 6.7,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -93,13 +89,13 @@
       ]
     },
     {
-      "id": 1275779,
-      "title": "Disclosure Day",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rating": 7.4,
-      "release_date": "2026-06-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1275779",
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "rating": 7.9,
+      "release_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -109,14 +105,31 @@
       ]
     },
     {
-      "id": 1308767,
-      "title": "Young Washington",
-      "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-      "rating": 8.2,
-      "release_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1308767",
+      "id": 980431,
+      "title": "Avatar Aang: The Last Airbender",
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+      "rating": 9.3,
+      "release_date": "2026-07-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/980431",
       "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -124,26 +137,13 @@
       "id": 1679730,
       "title": "THE RIBBON HERO",
       "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "rating": 6.5,
+      "rating": 7.1,
       "release_date": "2026-08-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1679730",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 454639,
-      "title": "Masters of the Universe",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "rating": 7.2,
-      "release_date": "2026-06-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/454639",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
