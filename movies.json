@@ -1,44 +1,58 @@
 {
-  "generated_at": "2026-08-12T13:08:10.263972Z",
+  "generated_at": "2026-08-13T13:09:18.748802Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1308767,
-      "title": "Young Washington",
-      "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-      "rating": 7.9,
-      "release_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1308767",
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "rating": 7.2,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1315772",
       "providers": [
-        "Angel Studios"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 7.9,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "id": 950028,
+      "title": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "rating": 7.4,
+      "release_date": "2026-06-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/950028",
       "providers": [
-        "Fandango At Home"
+        "Amazon Video"
       ]
     },
     {
       "id": 1284041,
       "title": "The Last House",
       "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rating": 6.8,
+      "rating": 6.9,
       "release_date": "2026-08-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1284041",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1308767,
+      "title": "Young Washington",
+      "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "rating": 7.8,
+      "release_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1308767",
+      "providers": [
+        "Angel Studios"
       ]
     },
     {
@@ -52,22 +66,6 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1081003,
-      "title": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rating": 6.7,
-      "release_date": "2026-06-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     },
     {
@@ -89,6 +87,38 @@
       ]
     },
     {
+      "id": 1081003,
+      "title": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "rating": 6.7,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1280738,
+      "title": "The Furious",
+      "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+      "rating": 7.8,
+      "release_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1280738",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1212763,
       "title": "Evil Dead Burn",
       "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
@@ -105,45 +135,17 @@
       ]
     },
     {
-      "id": 980431,
-      "title": "Avatar Aang: The Last Airbender",
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-      "rating": 9.3,
-      "release_date": "2026-07-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/980431",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "id": 1612018,
+      "title": "Jackass: Best and Last",
+      "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+      "rating": 7.6,
+      "release_date": "2026-06-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1612018",
       "providers": [
         "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1679730,
-      "title": "THE RIBBON HERO",
-      "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-      "rating": 7.1,
-      "release_date": "2026-08-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1679730",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Google Play Movies",
+        "YouTube"
       ]
     }
   ]
