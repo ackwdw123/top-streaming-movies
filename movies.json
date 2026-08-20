@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:45:01.373443Z",
+  "generated_at": "2026-08-20T12:48:48.102557Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,23 +8,42 @@
       "id": 1084244,
       "title": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 7.8,
+      "rating": 7.9,
       "release_date": "2026-06-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1084244",
       "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1101383,
-      "title": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "rating": 6.6,
-      "release_date": "2026-08-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "id": 1688804,
+      "title": "Freefall: A Reckoning for Boeing",
+      "overview": "Following the highly publicized death of Boeing whistleblower John Barnett, the investigation continues into the once-iconic aviation giant, uncovering startling new revelations and insider accounts in the wake of a deepening corporate crisis..",
+      "rating": 6.4,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1688804",
       "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -58,32 +77,19 @@
       ]
     },
     {
-      "id": 1081003,
-      "title": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rating": 6.7,
-      "release_date": "2026-06-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
+      "id": 1275779,
+      "title": "Disclosure Day",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "rating": 7.5,
+      "release_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1275779",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1504358,
-      "title": "Don't Say Good Luck",
-      "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
-      "rating": 7.1,
-      "release_date": "2026-08-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1504358",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -97,6 +103,38 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1280738,
+      "title": "The Furious",
+      "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+      "rating": 8.1,
+      "release_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1280738",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "rating": 7.5,
+      "release_date": "2026-05-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -116,35 +154,6 @@
         "MGM Plus Roku Premium Channel",
         "MGM Plus",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1275779,
-      "title": "Disclosure Day",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "rating": 7.5,
-      "release_date": "2026-06-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1275779",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1284041,
-      "title": "The Last House",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rating": 6.9,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284041",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
