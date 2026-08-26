@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-25T12:45:59.792919Z",
+  "generated_at": "2026-08-26T12:50:57.477453Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 87513,
+      "title": "Motor City",
+      "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
+      "rating": 7.1,
+      "release_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/87513",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1560520,
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+      "rating": 8.4,
+      "release_date": "2026-06-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1560520",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1212763,
       "title": "Evil Dead Burn",
@@ -24,12 +54,25 @@
       "id": 1288445,
       "title": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-08-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1288445",
       "providers": [
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -49,29 +92,28 @@
       ]
     },
     {
+      "id": 1439808,
+      "title": "Hadestown: The Musical",
+      "overview": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orpheus, a struggling musician, ventures down below to bring her back. (Filmed live at the Lyric Theatre, London, featuring the core five original Broadway cast members.)",
+      "rating": 8.9,
+      "release_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1439808",
+      "providers": [
+        "Plex"
+      ]
+    },
+    {
       "id": 1621552,
       "title": "Facing El Chapo",
       "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-      "rating": 8.0,
+      "rating": 8.5,
       "release_date": "2026-08-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1621552",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
       ]
     },
     {
@@ -87,64 +129,19 @@
       ]
     },
     {
-      "id": 1315772,
-      "title": "Minions & Monsters",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "rating": 7.6,
-      "release_date": "2026-06-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1315772",
+      "id": 1381202,
+      "title": "The Outer Threat",
+      "overview": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
+      "rating": 5.6,
+      "release_date": "2026-07-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1381202",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1284041,
-      "title": "The Last House",
-      "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-      "rating": 6.9,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284041",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 687163,
-      "title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "rating": 8.6,
-      "release_date": "2026-03-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/687163",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
