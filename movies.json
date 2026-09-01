@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-31T18:50:50.498238Z",
+  "generated_at": "2026-09-01T16:09:17.425191Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "rating": 7.9,
+      "release_date": "2026-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 860508,
       "title": "The Whisper Man",
@@ -15,18 +27,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.9,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
-      "providers": [
-        "Fandango At Home"
       ]
     },
     {
@@ -43,17 +43,32 @@
       ]
     },
     {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "rating": 7.6,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1315772",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "rating": 6.7,
+      "release_date": "2026-08-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1516698",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -67,19 +82,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "rating": 6.9,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1516698",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -99,43 +101,13 @@
       ]
     },
     {
-      "id": 1212763,
-      "title": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "rating": 7.8,
-      "release_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 950028,
-      "title": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "rating": 7.3,
-      "release_date": "2026-06-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/950028",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 87513,
-      "title": "Motor City",
-      "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
-      "rating": 6.4,
-      "release_date": "2026-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/87513",
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
