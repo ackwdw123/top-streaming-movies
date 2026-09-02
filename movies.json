@@ -1,32 +1,35 @@
 {
-  "generated_at": "2026-09-01T16:09:17.425191Z",
+  "generated_at": "2026-09-02T16:03:35.186194Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.9,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+      "id": 1288059,
+      "title": "I Want Your Sex",
+      "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "rating": 6.2,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288059",
       "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 860508,
-      "title": "The Whisper Man",
-      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "rating": 6.3,
-      "release_date": "2026-08-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/860508",
+      "id": 192139,
+      "title": "The Brink of War",
+      "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+      "rating": 7.5,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/192139",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Angel Studios"
       ]
     },
     {
@@ -40,6 +43,45 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "rating": 7.8,
+      "release_date": "2026-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 860508,
+      "title": "The Whisper Man",
+      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "rating": 6.4,
+      "release_date": "2026-08-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/860508",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1226699,
+      "title": "The Wrong Girls",
+      "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+      "rating": 6.0,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1226699",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -59,10 +101,24 @@
       ]
     },
     {
+      "id": 1742458,
+      "title": "Confinement",
+      "overview": "Pregnant and recently widowed, Stella is taken in by her late husband’s estranged family. But beneath their generosity lies something deeply unsettling, leaving Stella fighting for her life as their obsession with her unborn child turns deadly.",
+      "rating": 7.3,
+      "release_date": "2026-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1742458",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1516698,
       "title": "The Last Sunrise",
       "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "rating": 6.7,
+      "rating": 6.6,
       "release_date": "2026-08-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1516698",
@@ -72,45 +128,18 @@
       ]
     },
     {
-      "id": 1631807,
-      "title": "The Secret Woman",
-      "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
-      "rating": 6.4,
-      "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1631807",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "id": 1228710,
+      "title": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "rating": 7.5,
+      "release_date": "2026-05-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     }
