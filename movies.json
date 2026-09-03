@@ -1,35 +1,20 @@
 {
-  "generated_at": "2026-09-02T16:03:35.186194Z",
+  "generated_at": "2026-09-03T15:53:10.407903Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1288059,
-      "title": "I Want Your Sex",
-      "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-      "rating": 6.2,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288059",
+      "id": 1386315,
+      "title": "The Runner",
+      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "rating": 5.9,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1386315",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 192139,
-      "title": "The Brink of War",
-      "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-      "rating": 7.5,
-      "release_date": "2026-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/192139",
-      "providers": [
-        "Angel Studios"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -46,22 +31,10 @@
       ]
     },
     {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.8,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 860508,
       "title": "The Whisper Man",
       "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "rating": 6.4,
+      "rating": 6.6,
       "release_date": "2026-08-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/860508",
@@ -71,16 +44,58 @@
       ]
     },
     {
-      "id": 1226699,
-      "title": "The Wrong Girls",
-      "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-      "rating": 6.0,
-      "release_date": "2026-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1226699",
+      "id": 1480574,
+      "title": "Just Play Dead",
+      "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+      "rating": 7.0,
+      "release_date": "2026-08-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1480574",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 192139,
+      "title": "The Brink of War",
+      "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+      "rating": 7.6,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/192139",
+      "providers": [
+        "Angel Studios"
+      ]
+    },
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "rating": 6.0,
+      "release_date": "2026-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1288059,
+      "title": "I Want Your Sex",
+      "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "rating": 6.3,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288059",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -98,33 +113,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1742458,
-      "title": "Confinement",
-      "overview": "Pregnant and recently widowed, Stella is taken in by her late husband’s estranged family. But beneath their generosity lies something deeply unsettling, leaving Stella fighting for her life as their obsession with her unborn child turns deadly.",
-      "rating": 7.3,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1742458",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "rating": 6.6,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1516698",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
