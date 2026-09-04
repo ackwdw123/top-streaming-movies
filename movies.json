@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:53:10.407903Z",
+  "generated_at": "2026-09-04T15:51:18.758291Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,13 +8,29 @@
       "id": 1386315,
       "title": "The Runner",
       "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "rating": 5.9,
+      "rating": 6.2,
       "release_date": "2026-09-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1386315",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1506560,
+      "title": "Clash of the Thundermans",
+      "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+      "rating": 7.0,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1506560",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Philo",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -44,53 +60,25 @@
       ]
     },
     {
+      "id": 1731694,
+      "title": "LEGO Star Wars: The Mandalorian",
+      "overview": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adventures, a pirate threat looms.",
+      "rating": 7.5,
+      "release_date": "2026-09-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1731694",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 1480574,
       "title": "Just Play Dead",
       "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-      "rating": 7.0,
+      "rating": 6.7,
       "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1480574",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 192139,
-      "title": "The Brink of War",
-      "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
-      "rating": 7.6,
-      "release_date": "2026-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/192139",
-      "providers": [
-        "Angel Studios"
-      ]
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 6.0,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p73G56bJGPa5y52cyqWscHR6NnN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1288059,
-      "title": "I Want Your Sex",
-      "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-      "rating": 6.3,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288059",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -116,18 +104,44 @@
       ]
     },
     {
-      "id": 1228710,
-      "title": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "rating": 7.5,
-      "release_date": "2026-05-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1228710",
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "rating": 6.0,
+      "release_date": "2026-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1081003,
+      "title": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "rating": 6.7,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     }
