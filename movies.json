@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:41:45.350827Z",
+  "generated_at": "2026-09-06T15:00:35.539254Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,19 +8,20 @@
       "id": 1137844,
       "title": "Mayday",
       "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "rating": 6.9,
-      "release_date": "2026-09-02",
+      "rating": 7.8,
+      "release_date": "2026-09-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1137844",
       "providers": [
-        "Apple TV"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
       "id": 1386315,
       "title": "The Runner",
       "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "rating": 6.3,
+      "rating": 6.6,
       "release_date": "2026-09-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1386315",
@@ -46,23 +47,10 @@
       "id": 860508,
       "title": "The Whisper Man",
       "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "rating": 6.7,
+      "rating": 6.8,
       "release_date": "2026-08-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/860508",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1355228,
-      "title": "Gandhari",
-      "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
-      "rating": 4.6,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1355228",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -83,22 +71,6 @@
       ]
     },
     {
-      "id": 1506560,
-      "title": "Clash of the Thundermans",
-      "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
-      "rating": 6.9,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1506560",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Philo",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
       "id": 1084244,
       "title": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
@@ -115,15 +87,21 @@
       ]
     },
     {
-      "id": 1479832,
-      "title": "DC",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "rating": 7.8,
-      "release_date": "2026-08-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1479832",
+      "id": 687163,
+      "title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "rating": 8.6,
+      "release_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/687163",
       "providers": [
-        "Sun Nxt"
+        "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -139,6 +117,34 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1315772,
+      "title": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "rating": 7.6,
+      "release_date": "2026-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1315772",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1284046,
+      "title": "Onslaught",
+      "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+      "rating": 7.5,
+      "release_date": "2026-09-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284046",
+      "providers": [
         "Fandango At Home"
       ]
     }
