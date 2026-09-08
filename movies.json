@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-09-07T17:21:26.117236Z",
+  "generated_at": "2026-09-08T16:06:00.614631Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1108427,
-      "title": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 6.2,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1137844,
       "title": "Mayday",
       "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "rating": 7.9,
+      "rating": 8.0,
       "release_date": "2026-09-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1137844",
@@ -56,6 +44,23 @@
       ]
     },
     {
+      "id": 1506560,
+      "title": "Clash of the Thundermans",
+      "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
+      "rating": 7.0,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1506560",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Philo",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
@@ -70,13 +75,13 @@
       ]
     },
     {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "id": 1480574,
+      "title": "Just Play Dead",
+      "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
+      "rating": 6.6,
+      "release_date": "2026-08-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1480574",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -96,50 +101,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1081003,
-      "title": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "rating": 6.7,
-      "release_date": "2026-06-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1081003",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 6.8,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1480574,
-      "title": "Just Play Dead",
-      "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-      "rating": 6.6,
-      "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1480574",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
