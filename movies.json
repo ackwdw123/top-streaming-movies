@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-08T16:06:00.614631Z",
+  "generated_at": "2026-09-09T16:00:53.491451Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "rating": 6.7,
+      "release_date": "2026-07-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1433367,
+      "title": "One Night Only",
+      "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+      "rating": 6.9,
+      "release_date": "2026-07-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1433367",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1137844,
       "title": "Mayday",
@@ -44,63 +74,16 @@
       ]
     },
     {
-      "id": 1506560,
-      "title": "Clash of the Thundermans",
-      "overview": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
-      "rating": 7.0,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1506560",
+      "id": 1325734,
+      "title": "The Drama",
+      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "rating": 6.9,
+      "release_date": "2026-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1325734",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Philo",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.1,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1480574,
-      "title": "Just Play Dead",
-      "overview": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all. Both race to outmanoeuvre each other in a deadly battle of wits.",
-      "rating": 6.6,
-      "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1480574",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 860508,
-      "title": "The Whisper Man",
-      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "rating": 6.8,
-      "release_date": "2026-08-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/860508",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     }
   ]
