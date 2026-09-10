@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:00:53.491451Z",
+  "generated_at": "2026-09-10T15:55:29.948599Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1108427,
       "title": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 6.7,
+      "rating": 6.9,
       "release_date": "2026-07-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1108427",
@@ -19,10 +19,36 @@
       ]
     },
     {
+      "id": 1440098,
+      "title": "Drawn Together",
+      "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+      "rating": 6.9,
+      "release_date": "2026-09-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1440098",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1137844,
+      "title": "Mayday",
+      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+      "rating": 7.9,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1137844",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 1433367,
       "title": "One Night Only",
       "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2026-07-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1433367",
@@ -35,16 +61,17 @@
       ]
     },
     {
-      "id": 1137844,
-      "title": "Mayday",
-      "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-      "rating": 8.0,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1137844",
+      "id": 1288445,
+      "title": "Mutiny",
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "rating": 6.4,
+      "release_date": "2026-08-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288445",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -61,6 +88,22 @@
       ]
     },
     {
+      "id": 813418,
+      "title": "Hot Spot",
+      "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+      "rating": 4.8,
+      "release_date": "2026-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sJEhuRJmGGuhzSHAHjgWiZGPIv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/813418",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -74,16 +117,19 @@
       ]
     },
     {
-      "id": 1325734,
-      "title": "The Drama",
-      "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "rating": 6.9,
-      "release_date": "2026-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1325734",
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "rating": 8.3,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
       "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
