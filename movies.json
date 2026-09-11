@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:55:29.948599Z",
+  "generated_at": "2026-09-11T15:57:52.441436Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -22,7 +22,7 @@
       "id": 1440098,
       "title": "Drawn Together",
       "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-      "rating": 6.9,
+      "rating": 6.7,
       "release_date": "2026-09-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1440098",
@@ -49,7 +49,7 @@
       "title": "One Night Only",
       "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
       "rating": 6.8,
-      "release_date": "2026-07-28",
+      "release_date": "2026-08-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1433367",
       "providers": [
@@ -58,6 +58,32 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1522689,
+      "title": "Why Did I Get Married Again?",
+      "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+      "rating": 6.6,
+      "release_date": "2026-09-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1522689",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -75,25 +101,12 @@
       ]
     },
     {
-      "id": 1386315,
-      "title": "The Runner",
-      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "rating": 6.7,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1386315",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 813418,
       "title": "Hot Spot",
       "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
-      "rating": 4.8,
+      "rating": 4.7,
       "release_date": "2026-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sJEhuRJmGGuhzSHAHjgWiZGPIv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/813418",
       "providers": [
         "Amazon Video",
@@ -104,32 +117,16 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "id": 1386315,
+      "title": "The Runner",
+      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+      "rating": 6.7,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1386315",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
