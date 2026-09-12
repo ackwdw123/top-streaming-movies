@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:57:52.441436Z",
+  "generated_at": "2026-09-12T15:06:15.332748Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1108427,
       "title": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 6.9,
+      "rating": 7.0,
       "release_date": "2026-07-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1108427",
@@ -16,19 +16,6 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1440098,
-      "title": "Drawn Together",
-      "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-      "rating": 6.7,
-      "release_date": "2026-09-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1440098",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -45,10 +32,36 @@
       ]
     },
     {
+      "id": 1365884,
+      "title": "Call My Agent! The Movie",
+      "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+      "rating": 6.0,
+      "release_date": "2026-08-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1365884",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1440098,
+      "title": "Drawn Together",
+      "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
+      "rating": 6.6,
+      "release_date": "2026-09-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1440098",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1433367,
       "title": "One Night Only",
       "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-      "rating": 6.8,
+      "rating": 6.7,
       "release_date": "2026-08-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1433367",
@@ -58,19 +71,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1522689,
-      "title": "Why Did I Get Married Again?",
-      "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-      "rating": 6.6,
-      "release_date": "2026-09-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1522689",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -101,22 +101,6 @@
       ]
     },
     {
-      "id": 813418,
-      "title": "Hot Spot",
-      "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
-      "rating": 4.7,
-      "release_date": "2026-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/813418",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1386315,
       "title": "The Runner",
       "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
@@ -127,6 +111,32 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1522689,
+      "title": "Why Did I Get Married Again?",
+      "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+      "rating": 6.9,
+      "release_date": "2026-09-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1522689",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1408162,
+      "title": "Vishwanath & Sons",
+      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+      "rating": 7.3,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1408162",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
