@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:06:15.332748Z",
+  "generated_at": "2026-09-13T15:42:35.179142Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1108427,
       "title": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 7.0,
+      "rating": 7.1,
       "release_date": "2026-07-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1108427",
@@ -32,13 +32,26 @@
       ]
     },
     {
-      "id": 1365884,
-      "title": "Call My Agent! The Movie",
-      "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
-      "rating": 6.0,
-      "release_date": "2026-08-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1365884",
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1558568,
+      "title": "Go Team!",
+      "overview": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse — then they learn about the layoffs.",
+      "rating": 6.5,
+      "release_date": "2026-09-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1558568",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -48,7 +61,7 @@
       "id": 1440098,
       "title": "Drawn Together",
       "overview": "Marfil Cortés, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Despite initial clashes, they form an irremediable attraction, navigating a world where no one is who they say they are.",
-      "rating": 6.6,
+      "rating": 6.4,
       "release_date": "2026-09-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1440098",
@@ -74,19 +87,6 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
       "id": 1288445,
       "title": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
@@ -94,6 +94,33 @@
       "release_date": "2026-08-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1288445",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1365884,
+      "title": "Call My Agent! The Movie",
+      "overview": "Five years after ASK Agency closed, debut director Andréa loses her lead actor just days before filming and reunited with her old team — for better or worse.",
+      "rating": 6.0,
+      "release_date": "2026-08-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1365884",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.1,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -111,32 +138,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1522689,
-      "title": "Why Did I Get Married Again?",
-      "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
-      "rating": 6.9,
-      "release_date": "2026-09-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1522689",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1408162,
-      "title": "Vishwanath & Sons",
-      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "rating": 7.3,
-      "release_date": "2026-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1408162",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
