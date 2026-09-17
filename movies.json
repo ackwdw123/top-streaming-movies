@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-09-16T16:15:22.098243Z",
+  "generated_at": "2026-09-17T16:22:01.689197Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "rating": 6.9,
+      "release_date": "2026-08-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1124142,
+      "title": "The Rivals of Amziah King",
+      "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "rating": 6.8,
+      "release_date": "2026-08-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1124142",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1108427,
       "title": "Moana",
@@ -19,13 +47,27 @@
       ]
     },
     {
-      "id": 1432474,
-      "title": "Nimrods",
-      "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-      "rating": 7.1,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1432474",
+      "id": 1329016,
+      "title": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "rating": 7.6,
+      "release_date": "2026-08-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1329016",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1318467,
+      "title": "The Last Kiss",
+      "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+      "rating": 6.3,
+      "release_date": "2026-09-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1318467",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -59,6 +101,20 @@
       ]
     },
     {
+      "id": 1432474,
+      "title": "Nimrods",
+      "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+      "rating": 7.1,
+      "release_date": "2026-08-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1432474",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
@@ -73,45 +129,19 @@
       ]
     },
     {
-      "id": 1440098,
-      "title": "Drawn Together",
-      "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
-      "rating": 6.7,
-      "release_date": "2026-09-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1440098",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1433367,
-      "title": "One Night Only",
-      "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-      "rating": 6.6,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1433367",
+      "id": 1212763,
+      "title": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "rating": 7.7,
+      "release_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1212763",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1386315,
-      "title": "The Runner",
-      "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
-      "rating": 6.8,
-      "release_date": "2026-09-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1386315",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
