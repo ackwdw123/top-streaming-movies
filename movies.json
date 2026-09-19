@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:56:13.194811Z",
+  "generated_at": "2026-09-19T15:27:55.836049Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -16,14 +16,70 @@
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1514863,
+      "title": "Best of the Best",
+      "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+      "rating": 8.7,
+      "release_date": "2026-09-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1514863",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "rating": 7.3,
+      "release_date": "2026-07-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1279493,
+      "title": "The Get Out",
+      "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+      "rating": 6.0,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1279493",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
       "id": 1124142,
       "title": "The Rivals of Amziah King",
       "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "rating": 6.8,
+      "rating": 6.7,
       "release_date": "2026-08-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1124142",
@@ -50,56 +106,13 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1108427,
-      "title": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 7.3,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.4,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1284465,
-      "title": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "rating": 6.2,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284465",
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.0,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
