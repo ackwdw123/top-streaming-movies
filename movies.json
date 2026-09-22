@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-09-21T17:55:43.298513Z",
+  "generated_at": "2026-09-22T16:23:36.567156Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 675871,
+      "title": "Super Troopers 3",
+      "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
+      "rating": 6.5,
+      "release_date": "2026-08-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/675871",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1101383,
       "title": "The End of Oak Street",
@@ -21,25 +33,12 @@
       ]
     },
     {
-      "id": 1514863,
-      "title": "Best of the Best",
-      "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
-      "rating": 4.3,
-      "release_date": "2026-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1514863",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1240889,
       "title": "Teenage Sex and Death at Camp Miasma",
       "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-      "rating": 6.4,
+      "rating": 6.5,
       "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1240889",
       "providers": [
         "Amazon Video",
@@ -48,29 +47,16 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1641629,
-      "title": "You+Me - Against the World",
-      "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
-      "rating": 5.8,
+      "id": 1514863,
+      "title": "Best of the Best",
+      "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
+      "rating": 4.7,
       "release_date": "2026-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1641629",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1514863",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -104,34 +90,16 @@
       ]
     },
     {
-      "id": 1279493,
-      "title": "The Get Out",
-      "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-      "rating": 6.0,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1279493",
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.4,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     }
   ]
