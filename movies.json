@@ -1,29 +1,42 @@
 {
-  "generated_at": "2026-09-22T16:23:36.567156Z",
+  "generated_at": "2026-09-23T16:13:51.900306Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 675871,
-      "title": "Super Troopers 3",
-      "overview": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, all while trying to bring down a pernicious new drug ring.",
-      "rating": 6.5,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/675871",
+      "id": 1607127,
+      "title": "One Last Shot",
+      "overview": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
+      "rating": 8.1,
+      "release_date": "2026-09-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1607127",
       "providers": [
+        "Amazon Video",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1101383,
-      "title": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "rating": 7.0,
-      "release_date": "2026-08-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "id": 445466,
+      "title": "Idiots",
+      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+      "rating": 7.2,
+      "release_date": "2026-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/445466",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "rating": 8.4,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -33,30 +46,31 @@
       ]
     },
     {
-      "id": 1240889,
-      "title": "Teenage Sex and Death at Camp Miasma",
-      "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-      "rating": 6.5,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1240889",
+      "id": 1477712,
+      "title": "Ice Cream Man",
+      "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+      "rating": 4.6,
+      "release_date": "2026-08-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1477712",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Plex"
       ]
     },
     {
-      "id": 1514863,
-      "title": "Best of the Best",
-      "overview": "Two childhood besties join UCLA's competitive Bollywood-fusion dance team, only to find the road to the US championships is fiercer than they imagined.",
-      "rating": 4.7,
-      "release_date": "2026-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1514863",
+      "id": 675871,
+      "title": "Super Troopers 3",
+      "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
+      "rating": 6.9,
+      "release_date": "2026-08-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/675871",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
@@ -76,20 +90,6 @@
       ]
     },
     {
-      "id": 1108427,
-      "title": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 7.4,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -100,6 +100,50 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "rating": 7.0,
+      "release_date": "2026-08-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 843352,
+      "title": "Legend of the White Dragon",
+      "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+      "rating": 7.2,
+      "release_date": "2026-08-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/843352",
+      "providers": [
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1240889,
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "rating": 6.4,
+      "release_date": "2026-08-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1240889",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
