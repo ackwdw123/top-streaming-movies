@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:36:18.788551Z",
+  "generated_at": "2026-09-25T16:41:33.733309Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,9 +8,9 @@
       "id": 1032863,
       "title": "The Love Hypothesis",
       "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "rating": 8.1,
+      "rating": 8.3,
       "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1032863",
       "providers": [
         "Amazon Prime Video",
@@ -34,81 +34,13 @@
       ]
     },
     {
-      "id": 445466,
-      "title": "Idiots",
-      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "rating": 7.2,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/445466",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
       "id": 1607127,
       "title": "One Last Shot",
       "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2026-09-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1607127",
-      "providers": [
-        "Amazon Video",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 843352,
-      "title": "Legend of the White Dragon",
-      "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-      "rating": 7.4,
-      "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/843352",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1477712,
-      "title": "Ice Cream Man",
-      "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-      "rating": 4.6,
-      "release_date": "2026-08-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1477712",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 675871,
-      "title": "Super Troopers 3",
-      "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
-      "rating": 6.9,
-      "release_date": "2026-08-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/675871",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -134,19 +66,60 @@
       ]
     },
     {
-      "id": 1101383,
-      "title": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "rating": 7.0,
-      "release_date": "2026-08-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "id": 1284465,
+      "title": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "rating": 6.4,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284465",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 445466,
+      "title": "Idiots",
+      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+      "rating": 6.8,
+      "release_date": "2026-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/445466",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
+      "id": 843352,
+      "title": "Legend of the White Dragon",
+      "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+      "rating": 7.3,
+      "release_date": "2026-08-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/843352",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     }
   ]
