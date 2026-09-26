@@ -1,16 +1,29 @@
 {
-  "generated_at": "2026-09-25T16:41:33.733309Z",
+  "generated_at": "2026-09-26T15:54:39.119887Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1492640,
+      "title": "UNABOMBER",
+      "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "rating": 7.1,
+      "release_date": "2026-09-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1492640",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1032863,
       "title": "The Love Hypothesis",
       "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "rating": 8.3,
+      "rating": 8.4,
       "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1032863",
       "providers": [
         "Amazon Prime Video",
@@ -18,89 +31,13 @@
       ]
     },
     {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1607127,
       "title": "One Last Shot",
       "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-      "rating": 7.7,
+      "rating": 7.6,
       "release_date": "2026-09-22",
       "poster_url": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1607127",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1083381,
-      "title": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "rating": 7.0,
-      "release_date": "2026-05-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1284465,
-      "title": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "rating": 6.4,
-      "release_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284465",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 445466,
-      "title": "Idiots",
-      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "rating": 6.8,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/445466",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 843352,
-      "title": "Legend of the White Dragon",
-      "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
-      "rating": 7.3,
-      "release_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/843352",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -120,6 +57,90 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "rating": 8.3,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "rating": 7.7,
+      "release_date": "2026-09-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.0,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "rating": 7.7,
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "rating": 7.0,
+      "release_date": "2026-08-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1284465,
+      "title": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "rating": 6.5,
+      "release_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1284465",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
