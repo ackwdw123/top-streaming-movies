@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:19:01.718394Z",
+  "generated_at": "2026-09-29T17:44:59.062230Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,25 +8,13 @@
       "id": 1492640,
       "title": "UNABOMBER",
       "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "rating": 7.0,
+      "rating": 6.9,
       "release_date": "2026-09-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1492640",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.7,
-      "release_date": "2026-09-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
-      "providers": [
-        "Fandango At Home"
       ]
     },
     {
@@ -43,26 +31,13 @@
       ]
     },
     {
-      "id": 1032863,
-      "title": "The Love Hypothesis",
-      "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "rating": 8.2,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1032863",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "rating": 8.1,
-      "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "rating": 7.7,
+      "release_date": "2026-09-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
       "providers": [
         "Fandango At Home"
       ]
@@ -84,6 +59,43 @@
       ]
     },
     {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "rating": 8.1,
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1032863,
+      "title": "The Love Hypothesis",
+      "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "rating": 8.2,
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1032863",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 445466,
+      "title": "Idiots",
+      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+      "rating": 6.4,
+      "release_date": "2026-08-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/445466",
+      "providers": [
+        "Amazon Video"
+      ]
+    },
+    {
       "id": 1083381,
       "title": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
@@ -93,53 +105,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "HBO Max"
-      ]
-    },
-    {
-      "id": 1101383,
-      "title": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "rating": 7.0,
-      "release_date": "2026-08-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1607127,
-      "title": "One Last Shot",
-      "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-      "rating": 7.6,
-      "release_date": "2026-09-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1607127",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1291366,
-      "title": "The Deputy",
-      "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
-      "rating": 6.9,
-      "release_date": "2026-09-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291366",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "Fandango At Home"
       ]
     }
   ]
