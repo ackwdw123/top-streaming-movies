@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:41:03.854933Z",
+  "generated_at": "2026-10-01T18:06:37.659253Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,12 +8,13 @@
       "id": 977942,
       "title": "The Uprising",
       "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "rating": 7.6,
+      "rating": 8.0,
       "release_date": "2026-09-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/977942",
       "providers": [
         "Amazon Video",
+        "Apple TV Store",
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
@@ -47,19 +48,6 @@
       ]
     },
     {
-      "id": 1322562,
-      "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
-      "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
-      "rating": 8.4,
-      "release_date": "2026-05-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1322562",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -73,62 +61,13 @@
       ]
     },
     {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "rating": 8.0,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.6,
-      "release_date": "2026-09-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1032863,
-      "title": "The Love Hypothesis",
-      "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "rating": 8.1,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1032863",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 445466,
-      "title": "Idiots",
-      "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-      "rating": 6.5,
-      "release_date": "2026-08-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/445466",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "id": 1307118,
+      "title": "Soulm8te",
+      "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rating": 7.4,
+      "release_date": "2026-07-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1307118",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
