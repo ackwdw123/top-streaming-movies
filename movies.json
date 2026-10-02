@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:06:37.659253Z",
+  "generated_at": "2026-10-02T17:32:40.321712Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,6 +21,31 @@
       ]
     },
     {
+      "id": 1307118,
+      "title": "Soulm8te",
+      "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rating": 7.4,
+      "release_date": "2026-07-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1307118",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 1763619,
+      "title": "Crazy Rich, Incredibly Broke",
+      "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+      "rating": null,
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1763619",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1204680,
       "title": "Coyote vs. Acme",
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
@@ -38,7 +63,7 @@
       "id": 1492640,
       "title": "UNABOMBER",
       "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "rating": 6.7,
+      "rating": 6.6,
       "release_date": "2026-09-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1492640",
@@ -61,19 +86,28 @@
       ]
     },
     {
-      "id": 1307118,
-      "title": "Soulm8te",
-      "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rating": 7.4,
-      "release_date": "2026-07-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1307118",
+      "id": 1269325,
+      "title": "Drishyam: The Conclusion",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "rating": 10.0,
+      "release_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1269325",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "rating": 7.0,
+      "release_date": "2026-05-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1083381",
+      "providers": [
+        "HBO Max"
       ]
     }
   ]
