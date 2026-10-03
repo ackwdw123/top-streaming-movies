@@ -1,14 +1,39 @@
 {
-  "generated_at": "2026-10-02T17:32:40.321712Z",
+  "generated_at": "2026-10-03T15:48:33.061686Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1458857,
+      "title": "Doing Life",
+      "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "rating": 5.7,
+      "release_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1458857",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1283515,
+      "title": "Verity",
+      "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+      "rating": 6.6,
+      "release_date": "2026-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 977942,
       "title": "The Uprising",
       "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "rating": 8.0,
+      "rating": 7.9,
       "release_date": "2026-09-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/977942",
@@ -17,45 +42,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1307118,
-      "title": "Soulm8te",
-      "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-      "rating": 7.4,
-      "release_date": "2026-07-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1307118",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 1763619,
-      "title": "Crazy Rich, Incredibly Broke",
-      "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
-      "rating": null,
-      "release_date": "2026-10-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1763619",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.6,
-      "release_date": "2026-08-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -73,6 +59,45 @@
       ]
     },
     {
+      "id": 1269325,
+      "title": "Drishyam: The Conclusion",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "rating": 10.0,
+      "release_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1269325",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "rating": 7.5,
+      "release_date": "2026-08-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1307118,
+      "title": "Soulm8te",
+      "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+      "rating": 7.5,
+      "release_date": "2026-07-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1307118",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -86,16 +111,19 @@
       ]
     },
     {
-      "id": 1269325,
-      "title": "Drishyam: The Conclusion",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "rating": 10.0,
-      "release_date": "2026-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1269325",
+      "id": 1482938,
+      "title": "Union County",
+      "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+      "rating": 6.7,
+      "release_date": "2026-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1482938",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
