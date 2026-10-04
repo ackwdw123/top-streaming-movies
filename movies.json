@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:48:33.061686Z",
+  "generated_at": "2026-10-04T16:31:16.130695Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1458857,
       "title": "Doing Life",
       "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-      "rating": 5.7,
+      "rating": 6.5,
       "release_date": "2026-10-02",
       "poster_url": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1458857",
@@ -46,46 +46,6 @@
       ]
     },
     {
-      "id": 1492640,
-      "title": "UNABOMBER",
-      "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "rating": 6.6,
-      "release_date": "2026-09-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1492640",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1269325,
-      "title": "Drishyam: The Conclusion",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "rating": 10.0,
-      "release_date": "2026-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1269325",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.5,
-      "release_date": "2026-08-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1307118,
       "title": "Soulm8te",
       "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
@@ -111,19 +71,29 @@
       ]
     },
     {
-      "id": 1482938,
-      "title": "Union County",
-      "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
-      "rating": 6.7,
-      "release_date": "2026-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u1QIAmdHspNtlTFSV3BuTms7Ncw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1482938",
+      "id": 1492640,
+      "title": "UNABOMBER",
+      "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "rating": 6.6,
+      "release_date": "2026-09-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1492640",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1269325,
+      "title": "Drishyam: The Conclusion",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "rating": 8.0,
+      "release_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1269325",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -136,6 +106,36 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1083381",
       "providers": [
         "HBO Max"
+      ]
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "rating": 7.5,
+      "release_date": "2026-08-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "rating": 8.3,
+      "release_date": "2026-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
