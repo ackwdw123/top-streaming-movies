@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:21:24.822215Z",
+  "generated_at": "2026-10-06T17:59:48.221941Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,27 +8,11 @@
       "id": 1283515,
       "title": "Verity",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-      "rating": 6.6,
+      "rating": 6.5,
       "release_date": "2026-09-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1283515",
       "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 977942,
-      "title": "The Uprising",
-      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "rating": 7.9,
-      "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/977942",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -46,6 +30,35 @@
       ]
     },
     {
+      "id": 977942,
+      "title": "The Uprising",
+      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "rating": 8.0,
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/977942",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1458857,
+      "title": "Doing Life",
+      "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+      "rating": 7.3,
+      "release_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1458857",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1307118,
       "title": "Soulm8te",
       "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
@@ -55,19 +68,6 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1307118",
       "providers": [
         "Hulu"
-      ]
-    },
-    {
-      "id": 1458857,
-      "title": "Doing Life",
-      "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-      "rating": 7.2,
-      "release_date": "2026-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1458857",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -83,41 +83,13 @@
       ]
     },
     {
-      "id": 1108427,
-      "title": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 7.4,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "rating": 7.5,
-      "release_date": "2026-08-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1204680",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1084244,
-      "title": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "rating": 8.3,
-      "release_date": "2026-06-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "rating": 7.1,
+      "release_date": "2026-08-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
