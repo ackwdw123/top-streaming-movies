@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:30:45.948447Z",
+  "generated_at": "2026-10-08T18:29:44.657040Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,20 +8,21 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.2,
+      "rating": 8.3,
       "release_date": "2026-07-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/969681",
       "providers": [
         "Amazon Video",
-        "Apple TV Store"
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1101412,
       "title": "Fall 2: Deadpoint",
       "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 6.9,
+      "rating": 7.1,
       "release_date": "2026-09-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1101412",
@@ -34,8 +35,8 @@
     {
       "id": 1291595,
       "title": "Insidious: Out of the Further",
-      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "rating": 7.4,
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
+      "rating": 7.5,
       "release_date": "2026-08-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1291595",
@@ -49,7 +50,7 @@
       "id": 1284046,
       "title": "Onslaught",
       "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-      "rating": 5.8,
+      "rating": 5.7,
       "release_date": "2026-09-02",
       "poster_url": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1284046",
@@ -65,9 +66,36 @@
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
       "rating": 6.4,
       "release_date": "2026-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1283515",
       "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1620080,
+      "title": "Less of a Stranger",
+      "overview": "A film inspired by the life of Polish rock legend Jan Borysewicz. A story of music, rebellion, and freedom in a world where dreams often collide with a grim reality.",
+      "rating": null,
+      "release_date": "2026-09-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cXCoJk9AzGzfOSNCRDnLhfhyJHD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1620080",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "rating": 7.4,
+      "release_date": "2026-07-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -88,22 +116,6 @@
       ]
     },
     {
-      "id": 1285895,
-      "title": "Late Fame",
-      "overview": "At the very end of the 1970s, post office worker Ed Saxberger wrote a book of poetry that nobody cared about. After an eager and flattering fan appears on his doorstep, Saxberger is beckoned into a coterie of young admirers who anoint him a rediscovered genius. The group of downtown bohemians is led by their \"tragic heroine,\" Gloria. Intoxicated by the attention, and Gloria's alluring presence, Saxberger gradually reckons with the authenticity of his newfound poetic circle.",
-      "rating": 6.6,
-      "release_date": "2026-08-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1285895",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -114,18 +126,6 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1375441,
-      "title": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-      "rating": 6.8,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1375441",
-      "providers": [
-        "Fandango At Home"
       ]
     }
   ]
