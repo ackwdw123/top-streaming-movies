@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:01:12.987726Z",
+  "generated_at": "2026-10-10T17:01:43.413343Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,22 +8,52 @@
       "id": 1148365,
       "title": "Matchbox the Movie",
       "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "rating": 6.9,
+      "rating": 7.7,
       "release_date": "2026-10-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1148365",
       "providers": [
-        "Apple TV"
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 1236045,
+      "title": "Animals",
+      "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "rating": 7.2,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1236045",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.3,
+      "rating": 8.4,
       "release_date": "2026-07-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1101412,
+      "title": "Fall 2: Deadpoint",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "rating": 7.2,
+      "release_date": "2026-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -45,17 +75,17 @@
       ]
     },
     {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 7.2,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+      "id": 1742441,
+      "title": "V/H/S/Mixtape",
+      "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
+      "rating": 3.5,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1742441",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Philo",
+        "AMC+ Amazon Channel",
+        "Shudder"
       ]
     },
     {
@@ -75,18 +105,6 @@
       ]
     },
     {
-      "id": 1283515,
-      "title": "Verity",
-      "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-      "rating": 6.4,
-      "release_date": "2026-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -100,10 +118,22 @@
       ]
     },
     {
+      "id": 1281331,
+      "title": "The Social Reckoning",
+      "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "rating": 7.4,
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1281331",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 977942,
       "title": "The Uprising",
       "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "rating": 8.0,
+      "rating": 7.9,
       "release_date": "2026-09-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/977942",
@@ -112,20 +142,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 950028,
-      "title": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "rating": 7.2,
-      "release_date": "2026-06-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/950028",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     }
