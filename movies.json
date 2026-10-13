@@ -1,22 +1,9 @@
 {
-  "generated_at": "2026-10-12T20:58:17.502521Z",
+  "generated_at": "2026-10-13T18:56:28.288770Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1148365,
-      "title": "Matchbox the Movie",
-      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "rating": 7.9,
-      "release_date": "2026-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1148365",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
     {
       "id": 1236045,
       "title": "Animals",
@@ -31,10 +18,22 @@
       ]
     },
     {
+      "id": 1400837,
+      "title": "Other Mommy",
+      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "rating": 6.0,
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1400837",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.4,
+      "rating": 8.5,
       "release_date": "2026-07-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/969681",
@@ -47,43 +46,16 @@
       ]
     },
     {
-      "id": 1400837,
-      "title": "Other Mommy",
-      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 5.9,
-      "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1400837",
+      "id": 1148365,
+      "title": "Matchbox the Movie",
+      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "rating": 7.9,
+      "release_date": "2026-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1148365",
       "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 7.3,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1291595,
-      "title": "Insidious: Out of the Further",
-      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
-      "rating": 7.7,
-      "release_date": "2026-08-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1291595",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -109,37 +81,6 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1742441,
-      "title": "V/H/S/Mixtape",
-      "overview": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.",
-      "rating": 4.1,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1742441",
-      "providers": [
-        "Philo",
-        "AMC Plus Apple TV channel",
-        "AMC+ Amazon Channel",
-        "Shudder"
-      ]
-    },
-    {
-      "id": 977942,
-      "title": "The Uprising",
-      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "rating": 8.0,
-      "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/977942",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
       ]
     }
   ]
