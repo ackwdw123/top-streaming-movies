@@ -1,19 +1,47 @@
 {
-  "generated_at": "2026-10-15T16:25:11.102642Z",
+  "generated_at": "2026-10-16T16:10:29.721768Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1623256,
+      "title": "The Storm",
+      "overview": "When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.",
+      "rating": 7.9,
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5YNjTi5AhbSM4hDOynJcgFfvKRn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1623256",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 7.1,
+      "rating": 7.0,
       "release_date": "2026-07-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1058424",
       "providers": [
-        "Amazon Video"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1381078,
+      "title": "Love of Your Life",
+      "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+      "rating": 6.5,
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -36,7 +64,7 @@
       "id": 1302904,
       "title": "Practical Magic 2",
       "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "rating": 6.4,
+      "rating": 6.7,
       "release_date": "2026-09-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1302904",
@@ -46,19 +74,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1514026,
-      "title": "Buddy",
-      "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-      "rating": 7.3,
-      "release_date": "2026-08-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1514026",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
       ]
     },
     {
@@ -72,6 +87,21 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1514026,
+      "title": "Buddy",
+      "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+      "rating": 7.2,
+      "release_date": "2026-08-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1514026",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube"
       ]
     },
     {
@@ -91,38 +121,11 @@
       "id": 1400837,
       "title": "Other Mommy",
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 6.0,
+      "rating": 5.9,
       "release_date": "2026-10-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400837",
       "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1375161,
-      "title": "Don't Move",
-      "overview": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.",
-      "rating": 5.8,
-      "release_date": "2026-09-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1375161",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     }
