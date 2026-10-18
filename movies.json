@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:03:43.963403Z",
+  "generated_at": "2026-10-18T15:27:47.251260Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1561726,
       "title": "Masterplan",
       "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "rating": 7.0,
+      "rating": 7.3,
       "release_date": "2026-10-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1561726",
@@ -21,7 +21,7 @@
       "id": 1288069,
       "title": "Tenzing",
       "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "rating": 8.0,
+      "rating": 8.3,
       "release_date": "2026-10-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1288069",
@@ -64,7 +64,7 @@
       "id": 1153576,
       "title": "Street Fighter",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.2,
+      "rating": 6.3,
       "release_date": "2026-10-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1153576",
@@ -73,26 +73,13 @@
       ]
     },
     {
-      "id": 1284186,
-      "title": "Sacrifice",
-      "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-      "rating": 5.6,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284186",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1487317,
-      "title": "Therapy Done Right",
-      "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-      "rating": 7.5,
-      "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1487317",
+      "id": 1236045,
+      "title": "Animals",
+      "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "rating": 7.1,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1236045",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -114,16 +101,16 @@
       ]
     },
     {
-      "id": 1773759,
-      "title": "Seriously Single Too",
-      "overview": "Dineo and Noni — besties meant to take on the party scene together — suddenly face their biggest fear when Noni's boyfriend spontaneously propose.",
-      "rating": 0.5,
-      "release_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hbApG0WSwgtaK7hXTZpwZDstDaR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1773759",
+      "id": 1148365,
+      "title": "Matchbox the Movie",
+      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "rating": 7.8,
+      "release_date": "2026-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1148365",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -137,6 +124,22 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1302904,
+      "title": "Practical Magic 2",
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "rating": 6.9,
+      "release_date": "2026-09-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1302904",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     }
   ]
