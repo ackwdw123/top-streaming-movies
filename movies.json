@@ -1,9 +1,38 @@
 {
-  "generated_at": "2026-10-19T18:24:00.131146Z",
+  "generated_at": "2026-10-20T16:25:58.512756Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1288069,
+      "title": "Tenzing",
+      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "rating": 8.3,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "rating": 8.5,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 1058424,
       "title": "Hope",
@@ -15,6 +44,18 @@
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "rating": 6.3,
+      "release_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+      "providers": [
         "Fandango At Home"
       ]
     },
@@ -32,35 +73,23 @@
       ]
     },
     {
-      "id": 1288069,
-      "title": "Tenzing",
-      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "rating": 8.3,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.2,
-      "release_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
-      "providers": [
-        "Fandango At Home"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
       "id": 1284186,
       "title": "Sacrifice",
       "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-      "rating": 5.2,
+      "rating": 5.0,
       "release_date": "2026-04-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1284186",
@@ -85,57 +114,16 @@
       ]
     },
     {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.5,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "id": 1381078,
+      "title": "Love of Your Life",
+      "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+      "rating": 6.8,
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1381078",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1487317,
-      "title": "Therapy Done Right",
-      "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-      "rating": 7.7,
-      "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1487317",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1148365,
-      "title": "Matchbox the Movie",
-      "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "rating": 7.8,
-      "release_date": "2026-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1148365",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "rating": 8.0,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-      "providers": [
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
