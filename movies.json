@@ -1,20 +1,65 @@
 {
-  "generated_at": "2026-10-20T16:25:58.512756Z",
+  "generated_at": "2026-10-21T16:42:48.590444Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1288069,
-      "title": "Tenzing",
-      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "rating": 8.3,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+      "id": 1380417,
+      "title": "By Any Means",
+      "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "rating": 6.7,
+      "release_date": "2026-09-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1380417",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "rating": 7.5,
+      "release_date": "2026-07-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1433583,
+      "title": "The Weight",
+      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "rating": 6.9,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1433583",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1058424,
+      "title": "Hope",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "rating": 6.9,
+      "release_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -34,29 +79,16 @@
       ]
     },
     {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.9,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+      "id": 1288069,
+      "title": "Tenzing",
+      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "rating": 8.4,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.3,
-      "release_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
-      "providers": [
-        "Fandango At Home"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -73,6 +105,18 @@
       ]
     },
     {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "rating": 6.2,
+      "release_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -86,40 +130,12 @@
       ]
     },
     {
-      "id": 1284186,
-      "title": "Sacrifice",
-      "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-      "rating": 5.0,
-      "release_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1284186",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1514026,
-      "title": "Buddy",
-      "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-      "rating": 7.1,
-      "release_date": "2026-08-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1514026",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube"
-      ]
-    },
-    {
       "id": 1381078,
       "title": "Love of Your Life",
       "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-      "rating": 6.8,
+      "rating": 6.9,
       "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1381078",
       "providers": [
         "Amazon Prime Video",
