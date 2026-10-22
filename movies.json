@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-10-21T16:42:48.590444Z",
+  "generated_at": "2026-10-22T16:43:17.166602Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
-    {
-      "id": 1380417,
-      "title": "By Any Means",
-      "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "rating": 6.7,
-      "release_date": "2026-09-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1380417",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
     {
       "id": 1108427,
       "title": "Moana",
@@ -29,23 +13,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1108427",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1433583,
-      "title": "The Weight",
-      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-      "rating": 6.9,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1433583",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Disney Plus"
       ]
     },
     {
@@ -60,6 +28,74 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1380417,
+      "title": "By Any Means",
+      "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+      "rating": 6.6,
+      "release_date": "2026-09-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1380417",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1433583,
+      "title": "The Weight",
+      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+      "rating": 6.8,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1433583",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1153576,
+      "title": "Street Fighter",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "rating": 6.3,
+      "release_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1561726,
+      "title": "Masterplan",
+      "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+      "rating": 6.9,
+      "release_date": "2026-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1561726",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -84,7 +120,7 @@
       "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
       "rating": 8.4,
       "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a3G0yDUDoEJwzmHeIIrZmUCx8bW.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1288069",
       "providers": [
         "Apple TV",
@@ -92,54 +128,19 @@
       ]
     },
     {
-      "id": 1561726,
-      "title": "Masterplan",
-      "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "rating": 7.1,
-      "release_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1561726",
+      "id": 1375646,
+      "title": "Colony",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "rating": 8.1,
+      "release_date": "2026-05-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1375646",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.2,
-      "release_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
-      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1381078,
-      "title": "Love of Your Life",
-      "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-      "rating": 6.9,
-      "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1381078",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
