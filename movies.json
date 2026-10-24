@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-23T16:33:57.046971Z",
+  "generated_at": "2026-10-24T15:28:03.807090Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1400940,
+      "title": "Clayface",
+      "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "rating": 7.6,
+      "release_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1400940",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
@@ -24,10 +36,24 @@
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.9,
+      "rating": 6.8,
       "release_date": "2026-07-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1477104,
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+      "rating": 7.4,
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1477104",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -47,6 +73,19 @@
       ]
     },
     {
+      "id": 1288069,
+      "title": "Tenzing",
+      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "rating": 8.3,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -60,15 +99,16 @@
       ]
     },
     {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.3,
-      "release_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+      "id": 1561726,
+      "title": "Masterplan",
+      "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+      "rating": 7.0,
+      "release_date": "2026-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1561726",
       "providers": [
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -86,61 +126,15 @@
       ]
     },
     {
-      "id": 1380417,
-      "title": "By Any Means",
-      "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-      "rating": 6.5,
-      "release_date": "2026-09-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1380417",
+      "id": 1153576,
+      "title": "Street Fighter",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "rating": 6.4,
+      "release_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1477712,
-      "title": "Ice Cream Man",
-      "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-      "rating": 4.9,
-      "release_date": "2026-08-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1477712",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1561726,
-      "title": "Masterplan",
-      "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "rating": 7.0,
-      "release_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1561726",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1288069,
-      "title": "Tenzing",
-      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "rating": 8.3,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     }
   ]
