@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-10-24T15:28:03.807090Z",
+  "generated_at": "2026-10-25T15:38:30.324579Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1290418,
+      "title": "The Cycle",
+      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+      "rating": 7.6,
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290418",
+      "providers": [
+        "AMC Plus Apple TV channel",
+        "Shudder"
+      ]
+    },
     {
       "id": 1400940,
       "title": "Clayface",
@@ -14,6 +27,19 @@
       "tmdb_url": "https://www.themoviedb.org/movie/1400940",
       "providers": [
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1780005,
+      "title": "Surviving Hurricane Otis",
+      "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+      "rating": 5.4,
+      "release_date": "2026-10-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1780005",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -47,6 +73,18 @@
       ]
     },
     {
+      "id": 791523,
+      "title": "Wildwood",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "rating": 8.8,
+      "release_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/791523",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1477104,
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
@@ -58,31 +96,6 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1108427,
-      "title": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "rating": 7.5,
-      "release_date": "2026-07-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1108427",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 1288069,
-      "title": "Tenzing",
-      "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "rating": 8.3,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1288069",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -99,42 +112,32 @@
       ]
     },
     {
-      "id": 1561726,
-      "title": "Masterplan",
-      "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-      "rating": 7.0,
-      "release_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1561726",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1433583,
-      "title": "The Weight",
-      "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-      "rating": 6.7,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1433583",
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "rating": 7.1,
+      "release_date": "2026-08-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1101383",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
     {
-      "id": 1153576,
-      "title": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "rating": 6.4,
-      "release_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+      "id": 1453407,
+      "title": "Gajab Raat",
+      "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+      "rating": 5.9,
+      "release_date": "2026-10-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1453407",
       "providers": [
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
