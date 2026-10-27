@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:19:20.259604Z",
+  "generated_at": "2026-10-27T17:33:07.135618Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -17,22 +17,10 @@
       ]
     },
     {
-      "id": 791523,
-      "title": "Wildwood",
-      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-      "rating": 8.7,
-      "release_date": "2026-10-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/791523",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1400940,
       "title": "Clayface",
       "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2026-10-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400940",
@@ -41,29 +29,15 @@
       ]
     },
     {
-      "id": 1290418,
-      "title": "The Cycle",
-      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-      "rating": 7.5,
-      "release_date": "2026-09-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290418",
+      "id": 791523,
+      "title": "Wildwood",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "rating": 8.6,
+      "release_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/791523",
       "providers": [
-        "AMC Plus Apple TV channel",
-        "Shudder"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Fandango At Home"
       ]
     },
     {
@@ -81,16 +55,40 @@
       ]
     },
     {
-      "id": 1780005,
-      "title": "Surviving Hurricane Otis",
-      "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
-      "rating": 5.7,
-      "release_date": "2026-10-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1780005",
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1195803,
+      "title": "Wicker",
+      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+      "rating": 7.9,
+      "release_date": "2026-10-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1195803",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1377237,
+      "title": "Runner",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "rating": 8.3,
+      "release_date": "2026-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1377237",
+      "providers": [
+        "Angel Studios"
       ]
     },
     {
@@ -110,31 +108,29 @@
       ]
     },
     {
-      "id": 1195803,
-      "title": "Wicker",
-      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "rating": 7.8,
-      "release_date": "2026-10-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1195803",
+      "id": 1290418,
+      "title": "The Cycle",
+      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+      "rating": 7.2,
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290418",
       "providers": [
-        "Fandango At Home"
+        "AMC Plus Apple TV channel",
+        "Shudder"
       ]
     },
     {
-      "id": 1477104,
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-      "rating": 7.3,
-      "release_date": "2026-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1477104",
+      "id": 1780005,
+      "title": "Surviving Hurricane Otis",
+      "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+      "rating": 5.8,
+      "release_date": "2026-10-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1780005",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
