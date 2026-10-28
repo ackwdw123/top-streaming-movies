@@ -1,18 +1,63 @@
 {
-  "generated_at": "2026-10-27T17:33:07.135618Z",
+  "generated_at": "2026-10-28T17:56:30.222711Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
+      "id": 1283515,
+      "title": "Verity",
+      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "rating": 6.4,
+      "release_date": "2026-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1384216,
       "title": "The Dog Stars",
       "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 6.6,
+      "rating": 6.7,
       "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1384216",
       "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1596275,
+      "title": "Drive - The Pretenders",
+      "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+      "rating": 8.0,
+      "release_date": "2026-10-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1596275",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "rating": 7.6,
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -41,6 +86,18 @@
       ]
     },
     {
+      "id": 1377237,
+      "title": "Runner",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "rating": 8.3,
+      "release_date": "2026-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1377237",
+      "providers": [
+        "Angel Studios"
+      ]
+    },
+    {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
@@ -55,82 +112,29 @@
       ]
     },
     {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "id": 1562777,
+      "title": "The Stunt Driver",
+      "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+      "rating": 8.8,
+      "release_date": "2026-09-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1562777",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1195803,
       "title": "Wicker",
       "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "rating": 7.9,
+      "rating": 8.0,
       "release_date": "2026-10-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1195803",
       "providers": [
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1377237,
-      "title": "Runner",
-      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-      "rating": 8.3,
-      "release_date": "2026-09-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1377237",
-      "providers": [
-        "Angel Studios"
-      ]
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.5,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1290418,
-      "title": "The Cycle",
-      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-      "rating": 7.2,
-      "release_date": "2026-09-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1290418",
-      "providers": [
-        "AMC Plus Apple TV channel",
-        "Shudder"
-      ]
-    },
-    {
-      "id": 1780005,
-      "title": "Surviving Hurricane Otis",
-      "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
-      "rating": 5.8,
-      "release_date": "2026-10-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1780005",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
