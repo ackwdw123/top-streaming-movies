@@ -1,35 +1,20 @@
 {
-  "generated_at": "2026-10-28T17:56:30.222711Z",
+  "generated_at": "2026-10-29T18:05:22.503849Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1283515,
-      "title": "Verity",
-      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "rating": 6.4,
-      "release_date": "2026-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "id": 1727734,
+      "title": "Ali G: Who Iz I?",
+      "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "rating": 5.9,
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1727734",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 6.7,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -46,10 +31,38 @@
       ]
     },
     {
+      "id": 1283515,
+      "title": "Verity",
+      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "rating": 6.3,
+      "release_date": "2026-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "rating": 6.9,
+      "release_date": "2026-08-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1465063,
       "title": "Forgotten Island",
       "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "rating": 7.6,
+      "rating": 7.5,
       "release_date": "2026-09-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1465063",
@@ -112,29 +125,17 @@
       ]
     },
     {
-      "id": 1562777,
-      "title": "The Stunt Driver",
-      "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
-      "rating": 8.8,
-      "release_date": "2026-09-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1562777",
+      "id": 1290418,
+      "title": "The Cycle",
+      "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+      "rating": 6.8,
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1290418",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1195803,
-      "title": "Wicker",
-      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "rating": 8.0,
-      "release_date": "2026-10-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1195803",
-      "providers": [
-        "Fandango At Home"
+        "AMC Plus Apple TV channel",
+        "AMC+ Amazon Channel",
+        "Shudder"
       ]
     }
   ]
