@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-31T16:53:58.368755Z",
+  "generated_at": "2026-11-01T17:41:15.426528Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1507696,
-      "title": "Apocalypse Z: New World",
-      "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "rating": 6.5,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1507696",
+      "id": 1813355,
+      "title": "A Story of Derry",
+      "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "rating": 6.4,
+      "release_date": "2026-10-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1813355",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     },
     {
       "id": 1571955,
       "title": "Collision Course",
       "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "rating": 6.4,
+      "rating": 6.8,
       "release_date": "2026-10-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1571955",
@@ -31,37 +31,23 @@
       ]
     },
     {
-      "id": 1789549,
-      "title": "The Birthday​ Gift​",
-      "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-      "rating": 8.7,
-      "release_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+      "id": 1507696,
+      "title": "Apocalypse Z: New World",
+      "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "rating": 6.0,
+      "release_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1507696",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 7.0,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
       "id": 1283515,
       "title": "Verity",
       "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "rating": 6.6,
+      "rating": 6.8,
       "release_date": "2026-09-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1283515",
@@ -75,11 +61,54 @@
       "id": 1400940,
       "title": "Clayface",
       "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-      "rating": 7.5,
+      "rating": 7.4,
       "release_date": "2026-10-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400940",
       "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1789549,
+      "title": "The Birthday​ Gift​",
+      "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+      "rating": 7.1,
+      "release_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "rating": 7.1,
+      "release_date": "2026-08-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "rating": 7.8,
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     },
@@ -97,45 +126,17 @@
       ]
     },
     {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "rating": 7.6,
-      "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "id": 1058424,
+      "title": "Hope",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "rating": 6.8,
+      "release_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1596275,
-      "title": "Drive - The Pretenders",
-      "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
-      "rating": 7.9,
-      "release_date": "2026-10-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1596275",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1727734,
-      "title": "Ali G: Who Iz I?",
-      "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
-      "rating": 6.0,
-      "release_date": "2026-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1727734",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
