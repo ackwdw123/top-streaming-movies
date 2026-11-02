@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:41:15.426528Z",
+  "generated_at": "2026-11-02T21:26:48.129071Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,9 +8,9 @@
       "id": 1813355,
       "title": "A Story of Derry",
       "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "rating": 6.4,
+      "rating": 6.7,
       "release_date": "2026-10-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1813355",
       "providers": [
         "HBO Max Amazon Channel",
@@ -36,7 +36,7 @@
       "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "rating": 6.0,
       "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wgPGAKuojOd3ncsNbxMDuU4uRn0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1507696",
       "providers": [
         "Amazon Prime Video",
@@ -44,16 +44,14 @@
       ]
     },
     {
-      "id": 1283515,
-      "title": "Verity",
-      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "rating": 6.8,
-      "release_date": "2026-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "id": 791523,
+      "title": "Wildwood",
+      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+      "rating": 8.6,
+      "release_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/791523",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -70,23 +68,24 @@
       ]
     },
     {
-      "id": 1789549,
-      "title": "The Birthday​ Gift​",
-      "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-      "rating": 7.1,
-      "release_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+      "id": 1283515,
+      "title": "Verity",
+      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "rating": 6.9,
+      "release_date": "2026-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1384216,
       "title": "The Dog Stars",
       "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 7.1,
+      "rating": 7.2,
       "release_date": "2026-08-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1384216",
@@ -97,10 +96,23 @@
       ]
     },
     {
+      "id": 1404304,
+      "title": "The Isolate Thief",
+      "overview": "One bitter-cold winter during the Civil War, a young woman becomes the lone caretaker of a remote Union Army outpost. When a stash of stolen gold falls into her lap, a gang of vicious outlaws comes looking for it. As they turn her home into a battleground, she must stay one step ahead of them in order to survive.",
+      "rating": 6.9,
+      "release_date": "2026-07-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1404304",
+      "providers": [
+        "MGM+ Amazon Channel",
+        "Philo"
+      ]
+    },
+    {
       "id": 1465063,
       "title": "Forgotten Island",
       "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "rating": 7.8,
+      "rating": 8.0,
       "release_date": "2026-09-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1465063",
@@ -123,20 +135,6 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.8,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     }
   ]
