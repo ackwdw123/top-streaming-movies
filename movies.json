@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:26:48.129071Z",
+  "generated_at": "2026-11-03T19:08:12.307161Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1813355,
       "title": "A Story of Derry",
       "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "rating": 6.7,
+      "rating": 6.8,
       "release_date": "2026-10-31",
       "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1813355",
@@ -18,41 +18,41 @@
       ]
     },
     {
-      "id": 1571955,
-      "title": "Collision Course",
-      "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "rating": 6.8,
-      "release_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1571955",
+      "id": 1257147,
+      "title": "My Best Friend",
+      "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
+      "rating": 8.5,
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1257147",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
+      "id": 791523,
+      "title": "Wildwood",
+      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+      "rating": 8.5,
+      "release_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/791523",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1507696,
       "title": "Apocalypse Z: New World",
       "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "rating": 6.0,
+      "rating": 6.1,
       "release_date": "2026-10-09",
       "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1507696",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 791523,
-      "title": "Wildwood",
-      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
-      "rating": 8.6,
-      "release_date": "2026-10-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/791523",
-      "providers": [
-        "Fandango At Home"
       ]
     },
     {
@@ -82,17 +82,16 @@
       ]
     },
     {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 7.2,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
+      "id": 1571955,
+      "title": "Collision Course",
+      "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+      "rating": 6.6,
+      "release_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1571955",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -104,37 +103,23 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1404304",
       "providers": [
+        "fuboTV",
         "MGM+ Amazon Channel",
         "Philo"
       ]
     },
     {
-      "id": 1465063,
-      "title": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "rating": 8.0,
-      "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+      "id": 1058424,
+      "title": "Hope",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "rating": 6.8,
+      "release_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
       ]
     }
   ]
