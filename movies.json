@@ -1,27 +1,58 @@
 {
-  "generated_at": "2026-11-03T19:08:12.307161Z",
+  "generated_at": "2026-11-04T19:25:57.684245Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1813355,
-      "title": "A Story of Derry",
-      "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "rating": 6.8,
-      "release_date": "2026-10-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1813355",
+      "id": 1423191,
+      "title": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "rating": 7.5,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
       "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1375441,
+      "title": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+      "rating": 6.8,
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1375441",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1792170,
+      "title": "Model Citizen",
+      "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
+      "rating": 7.8,
+      "release_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1792170",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
       ]
     },
     {
       "id": 1257147,
       "title": "My Best Friend",
-      "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
-      "rating": 8.5,
+      "overview": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.",
+      "rating": 8.4,
       "release_date": "2026-09-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1257147",
@@ -31,9 +62,39 @@
       ]
     },
     {
+      "id": 1283515,
+      "title": "Verity",
+      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+      "rating": 7.0,
+      "release_date": "2026-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1244523,
+      "title": "Beware Boiúna",
+      "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+      "rating": 6.4,
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1244523",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 791523,
       "title": "Wildwood",
-      "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
       "rating": 8.5,
       "release_date": "2026-10-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
@@ -43,16 +104,16 @@
       ]
     },
     {
-      "id": 1507696,
-      "title": "Apocalypse Z: New World",
-      "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "rating": 6.1,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1507696",
+      "id": 1813355,
+      "title": "A Story of Derry",
+      "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "rating": 6.9,
+      "release_date": "2026-10-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1813355",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     },
     {
@@ -68,57 +129,18 @@
       ]
     },
     {
-      "id": 1283515,
-      "title": "Verity",
-      "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-      "rating": 6.9,
-      "release_date": "2026-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1283515",
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "rating": 8.5,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/969681",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1571955,
-      "title": "Collision Course",
-      "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "rating": 6.6,
-      "release_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1571955",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1404304,
-      "title": "The Isolate Thief",
-      "overview": "One bitter-cold winter during the Civil War, a young woman becomes the lone caretaker of a remote Union Army outpost. When a stash of stolen gold falls into her lap, a gang of vicious outlaws comes looking for it. As they turn her home into a battleground, she must stay one step ahead of them in order to survive.",
-      "rating": 6.9,
-      "release_date": "2026-07-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1404304",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo"
-      ]
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.8,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
         "Fandango At Home"
       ]
     }
