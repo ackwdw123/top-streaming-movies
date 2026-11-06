@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:34:49.671714Z",
+  "generated_at": "2026-11-06T18:57:09.932619Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -22,7 +22,7 @@
       "id": 1792170,
       "title": "Model Citizen",
       "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-      "rating": 7.3,
+      "rating": 7.7,
       "release_date": "2026-11-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1792170",
@@ -49,46 +49,42 @@
       ]
     },
     {
-      "id": 1570488,
-      "title": "A Dog's Perfect Christmas",
-      "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-      "rating": 8.3,
-      "release_date": "2026-11-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1570488",
+      "id": 1654940,
+      "title": "One Year to Live, Buy a Man",
+      "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+      "rating": 8.0,
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1654940",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.8,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+      "id": 1630420,
+      "title": "Overacting",
+      "overview": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
+      "rating": 6.0,
+      "release_date": "2026-11-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1630420",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.5,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "id": 1570488,
+      "title": "A Dog's Perfect Christmas",
+      "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+      "rating": 8.2,
+      "release_date": "2026-11-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1570488",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -100,7 +96,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1283515",
       "providers": [
-        "MGM Plus"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
