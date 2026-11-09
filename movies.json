@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:40:26.892265Z",
+  "generated_at": "2026-11-09T21:58:36.058589Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1792170,
       "title": "Model Citizen",
       "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-      "rating": 6.7,
+      "rating": 6.5,
       "release_date": "2026-11-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1792170",
@@ -35,19 +35,6 @@
       ]
     },
     {
-      "id": 1483525,
-      "title": "Possible Love",
-      "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-      "rating": 7.5,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1483525",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1375441,
       "title": "Primetime",
       "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
@@ -59,6 +46,19 @@
         "Amazon Video",
         "Apple TV Store",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1483525,
+      "title": "Possible Love",
+      "overview": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
+      "rating": 7.4,
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1483525",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -92,19 +92,6 @@
       ]
     },
     {
-      "id": 1096228,
-      "title": "Musk",
-      "overview": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
-      "rating": 6.3,
-      "release_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1096228",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
       "id": 1339713,
       "title": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
@@ -115,34 +102,6 @@
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1384216,
-      "title": "The Dog Stars",
-      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "rating": 7.2,
-      "release_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1384216",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "rating": 6.7,
-      "release_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1058424",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     }
   ]
