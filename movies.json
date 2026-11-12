@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:17:26.580792Z",
+  "generated_at": "2026-11-12T19:36:24.981630Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1792170,
       "title": "Model Citizen",
       "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2026-11-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1792170",
@@ -24,9 +24,9 @@
       "id": 1400837,
       "title": "Other Mommy",
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 5.8,
+      "rating": 6.0,
       "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400837",
       "providers": [
         "Amazon Video",
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "id": 1616419,
-      "title": "The Good Lawyer",
-      "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
-      "rating": 7.0,
-      "release_date": "2026-09-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1616419",
+      "id": 1559980,
+      "title": "The Gospel of Christmas",
+      "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+      "rating": 6.0,
+      "release_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1559980",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -65,7 +65,7 @@
       "id": 1263337,
       "title": "Heart of the Beast",
       "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.4,
+      "rating": 7.5,
       "release_date": "2026-09-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1263337",
@@ -75,6 +75,19 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1234139,
+      "title": "Jailer 2",
+      "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+      "rating": 8.0,
+      "release_date": "2026-10-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1234139",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -94,30 +107,16 @@
       ]
     },
     {
-      "id": 1375441,
-      "title": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-      "rating": 6.8,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1375441",
+      "id": 1616419,
+      "title": "The Good Lawyer",
+      "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+      "rating": 6.7,
+      "release_date": "2026-09-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1616419",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "rating": 8.2,
-      "release_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
