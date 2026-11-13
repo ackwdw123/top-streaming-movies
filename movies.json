@@ -1,32 +1,42 @@
 {
-  "generated_at": "2026-11-12T19:36:24.981630Z",
+  "generated_at": "2026-11-13T19:15:52.899355Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1792170,
-      "title": "Model Citizen",
-      "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
-      "rating": 6.4,
-      "release_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1792170",
+      "id": 1616687,
+      "title": "Never Surrender",
+      "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+      "rating": 7.5,
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1616687",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1518204,
+      "title": "Allen",
+      "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+      "rating": 6.8,
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1518204",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
       "id": 1400837,
       "title": "Other Mommy",
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 6.0,
+      "rating": 6.2,
       "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400837",
       "providers": [
         "Amazon Video",
@@ -35,30 +45,15 @@
       ]
     },
     {
-      "id": 1559980,
-      "title": "The Gospel of Christmas",
-      "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
-      "rating": 6.0,
-      "release_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1559980",
+      "id": 1050981,
+      "title": "Being Heumann",
+      "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+      "rating": 8.0,
+      "release_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1050981",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "rating": 7.5,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Apple TV"
       ]
     },
     {
@@ -78,16 +73,29 @@
       ]
     },
     {
-      "id": 1234139,
-      "title": "Jailer 2",
-      "overview": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
-      "rating": 8.0,
-      "release_date": "2026-10-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1234139",
+      "id": 1423191,
+      "title": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "rating": 7.5,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1780407,
+      "title": "Snoopy Presents: 12 Days of Snoopy",
+      "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+      "rating": 7.0,
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1780407",
+      "providers": [
+        "Apple TV"
       ]
     },
     {
@@ -107,13 +115,13 @@
       ]
     },
     {
-      "id": 1616419,
-      "title": "The Good Lawyer",
-      "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
-      "rating": 6.7,
-      "release_date": "2026-09-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1616419",
+      "id": 1559980,
+      "title": "The Gospel of Christmas",
+      "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+      "rating": 6.9,
+      "release_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1559980",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
