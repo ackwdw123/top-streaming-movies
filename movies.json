@@ -1,27 +1,14 @@
 {
-  "generated_at": "2026-11-13T19:15:52.899355Z",
+  "generated_at": "2026-11-14T17:42:21.061627Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1616687,
-      "title": "Never Surrender",
-      "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-      "rating": 7.5,
-      "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1616687",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 1518204,
       "title": "Allen",
       "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
-      "rating": 6.8,
+      "rating": 6.9,
       "release_date": "2026-11-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1518204",
@@ -34,7 +21,7 @@
       "id": 1400837,
       "title": "Other Mommy",
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 6.2,
+      "rating": 6.3,
       "release_date": "2026-10-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400837",
@@ -45,31 +32,42 @@
       ]
     },
     {
+      "id": 1543469,
+      "title": "Heartland",
+      "overview": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must grapple with her own past and Nashville’s seedy underbelly. Her search uncovers a murky side of Nashville where no one, including Misty, is who they seem.",
+      "rating": 7.3,
+      "release_date": "2026-11-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1543469",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1616687,
+      "title": "Never Surrender",
+      "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+      "rating": 7.3,
+      "release_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1616687",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 1050981,
       "title": "Being Heumann",
       "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
-      "rating": 8.0,
+      "rating": 6.4,
       "release_date": "2026-11-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1050981",
       "providers": [
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.5,
-      "release_date": "2026-09-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -87,15 +85,44 @@
       ]
     },
     {
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "rating": 7.6,
+      "release_date": "2026-09-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1567605,
+      "title": "Ebenezer",
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "rating": 7.9,
+      "release_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1567605",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
       "id": 1780407,
       "title": "Snoopy Presents: 12 Days of Snoopy",
       "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
-      "rating": 7.0,
+      "rating": 7.2,
       "release_date": "2026-11-12",
       "poster_url": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1780407",
       "providers": [
-        "Apple TV"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -112,19 +139,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1559980,
-      "title": "The Gospel of Christmas",
-      "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
-      "rating": 6.9,
-      "release_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1559980",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
