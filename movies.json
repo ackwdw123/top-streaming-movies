@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-11-16T21:41:30.421473Z",
+  "generated_at": "2026-11-17T20:30:51.975555Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
     {
-      "id": 1567605,
-      "title": "Ebenezer",
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "rating": 7.7,
-      "release_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1567605",
-      "providers": [
-        "Fandango At Home"
-      ]
-    },
-    {
       "id": 1400837,
       "title": "Other Mommy",
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "rating": 6.3,
+      "rating": 6.4,
       "release_date": "2026-10-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400837",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "rating": 8.5,
+      "release_date": "2026-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/969681",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies",
+        "YouTube",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1567605,
+      "title": "Ebenezer",
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "rating": 7.6,
+      "release_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1567605",
+      "providers": [
         "Fandango At Home"
       ]
     },
@@ -48,7 +64,7 @@
       "id": 1263337,
       "title": "Heart of the Beast",
       "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.6,
+      "rating": 7.7,
       "release_date": "2026-09-19",
       "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1263337",
@@ -58,35 +74,6 @@
         "Google Play Movies",
         "YouTube",
         "Fandango At Home"
-      ]
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.5,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1543469,
-      "title": "Heartland",
-      "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "rating": 6.6,
-      "release_date": "2026-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1543469",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -103,13 +90,13 @@
       ]
     },
     {
-      "id": 1518204,
-      "title": "Allen",
-      "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
-      "rating": 6.8,
-      "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1518204",
+      "id": 1543469,
+      "title": "Heartland",
+      "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+      "rating": 6.5,
+      "release_date": "2026-11-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1543469",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -130,17 +117,29 @@
       ]
     },
     {
-      "id": 1101412,
-      "title": "Fall 2: Deadpoint",
-      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-      "rating": 7.2,
-      "release_date": "2026-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+      "id": 1518204,
+      "title": "Allen",
+      "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+      "rating": 6.8,
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1518204",
       "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "rating": 8.2,
+      "release_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1339713",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     }
   ]
