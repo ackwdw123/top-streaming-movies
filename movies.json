@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:00:52.040520Z",
+  "generated_at": "2026-11-20T19:39:37.203901Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -21,10 +21,23 @@
       ]
     },
     {
+      "id": 1568060,
+      "title": "Perfect Liars",
+      "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+      "rating": null,
+      "release_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1568060",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 1551025,
       "title": "Guarding Stars",
       "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-      "rating": 7.4,
+      "rating": 7.3,
       "release_date": "2026-11-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1551025",
@@ -37,13 +50,40 @@
       "id": 1131943,
       "title": "Madden",
       "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-      "rating": 8.1,
+      "rating": 7.6,
       "release_date": "2026-11-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1131943",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1561834,
+      "title": "Last Meal",
+      "overview": "The passionate love between pianist Sebahat and Bekir is cut short when he vanishes without a trace. Years later, when fate reunites them, they realize that neither time, distance, nor the life Sebahat has built could ever break their bond. Together, they embark on a journey that pushes the very limits of love, loyalty, and sacrifice because some loves are worth fighting for, no matter what.",
+      "rating": 7.5,
+      "release_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1561834",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1185344,
+      "title": "The Beast",
+      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+      "rating": 5.1,
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1185344",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies"
       ]
     },
     {
@@ -63,29 +103,17 @@
       ]
     },
     {
-      "id": 1185344,
-      "title": "The Beast",
-      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
-      "rating": 5.2,
-      "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1185344",
+      "id": 1423191,
+      "title": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "rating": 7.5,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
       "providers": [
         "Amazon Video",
-        "Apple TV Store"
-      ]
-    },
-    {
-      "id": 1473148,
-      "title": "Gentle Monster",
-      "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
-      "rating": 6.5,
-      "release_date": "2026-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1473148",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -103,43 +131,13 @@
       ]
     },
     {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "rating": 7.5,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "rating": 7.7,
-      "release_date": "2026-09-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1263337",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1543469,
-      "title": "Heartland",
-      "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "rating": 6.2,
-      "release_date": "2026-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1543469",
+      "id": 1483525,
+      "title": "Possible Love",
+      "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+      "rating": 7.2,
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1483525",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
