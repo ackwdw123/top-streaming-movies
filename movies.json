@@ -1,9 +1,47 @@
 {
-  "generated_at": "2026-11-20T19:39:37.203901Z",
+  "generated_at": "2026-11-21T18:45:16.718370Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1300968,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "rating": 7.6,
+      "release_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1300968",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1595124,
+      "title": "Steps",
+      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "rating": 6.3,
+      "release_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1595124",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1568060,
+      "title": "Perfect Liars",
+      "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+      "rating": 7.3,
+      "release_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1568060",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 1368337,
       "title": "The Odyssey",
@@ -21,25 +59,12 @@
       ]
     },
     {
-      "id": 1568060,
-      "title": "Perfect Liars",
-      "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-      "rating": null,
-      "release_date": "2026-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1568060",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 1551025,
       "title": "Guarding Stars",
       "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
-      "rating": 7.3,
+      "rating": 7.1,
       "release_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1551025",
       "providers": [
         "Netflix",
@@ -47,16 +72,57 @@
       ]
     },
     {
+      "id": 1185344,
+      "title": "The Beast",
+      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+      "rating": 4.9,
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1185344",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Google Play Movies"
+      ]
+    },
+    {
       "id": 1131943,
       "title": "Madden",
       "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-      "rating": 7.6,
+      "rating": 7.0,
       "release_date": "2026-11-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1131943",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 1307474,
+      "title": "On Behalf of My Son",
+      "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
+      "rating": 8.4,
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1307474",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1642568,
+      "title": "The Last Temptation of Becky",
+      "overview": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+      "rating": 6.0,
+      "release_date": "2026-11-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nzSx9jiInWGWumMV1n1qyRqrpbq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1642568",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     },
     {
@@ -70,77 +136,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1185344,
-      "title": "The Beast",
-      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
-      "rating": 5.1,
-      "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1185344",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies"
-      ]
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "rating": 8.5,
-      "release_date": "2026-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/969681",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Google Play Movies",
-        "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "rating": 7.5,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1084409,
-      "title": "A Talent for Murder",
-      "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
-      "rating": 6.8,
-      "release_date": "2026-10-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1084409",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1483525,
-      "title": "Possible Love",
-      "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-      "rating": 7.2,
-      "release_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1483525",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
