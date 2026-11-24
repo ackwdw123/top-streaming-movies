@@ -1,16 +1,29 @@
 {
-  "generated_at": "2026-11-23T23:27:25.777102Z",
+  "generated_at": "2026-11-24T21:57:41.691076Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
   "movies": [
+    {
+      "id": 1611767,
+      "title": "Clashing Through the Snow",
+      "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+      "rating": 6.4,
+      "release_date": "2026-11-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1611767",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "rating": 7.8,
       "release_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1300968",
       "providers": [
         "Fandango At Home"
@@ -33,19 +46,6 @@
       ]
     },
     {
-      "id": 1595124,
-      "title": "Steps",
-      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
-      "rating": 6.8,
-      "release_date": "2026-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1595124",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
@@ -62,16 +62,40 @@
       ]
     },
     {
-      "id": 1568060,
-      "title": "Perfect Liars",
-      "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-      "rating": 7.5,
+      "id": 1595124,
+      "title": "Steps",
+      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+      "rating": 7.2,
       "release_date": "2026-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1568060",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1595124",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1496696,
+      "title": "Breeder",
+      "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+      "rating": 7.3,
+      "release_date": "2026-10-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1496696",
+      "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1286656,
+      "title": "I Play Rocky",
+      "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "rating": 8.4,
+      "release_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1286656",
+      "providers": [
+        "Fandango At Home"
       ]
     },
     {
@@ -88,42 +112,16 @@
       ]
     },
     {
-      "id": 1131943,
-      "title": "Madden",
-      "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-      "rating": 6.6,
-      "release_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1131943",
+      "id": 1568060,
+      "title": "Perfect Liars",
+      "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+      "rating": 7.5,
+      "release_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1568060",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "rating": 7.5,
-      "release_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1286656,
-      "title": "I Play Rocky",
-      "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
-      "rating": 8.4,
-      "release_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1286656",
-      "providers": [
-        "Fandango At Home"
       ]
     },
     {
