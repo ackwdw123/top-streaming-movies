@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:58:49.987386Z",
+  "generated_at": "2026-11-27T20:44:27.552644Z",
   "source": "TMDB",
   "region": "US",
   "type": "movie",
@@ -8,7 +8,7 @@
       "id": 1458300,
       "title": "The Mosquito Bowl",
       "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "rating": 7.4,
+      "rating": 7.7,
       "release_date": "2026-10-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1458300",
@@ -21,27 +21,13 @@
       "id": 1280115,
       "title": "Way of the Warrior Kid",
       "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-      "rating": 7.6,
+      "rating": 7.4,
       "release_date": "2026-11-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1280115",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 1765072,
-      "title": "You Can See Everything",
-      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "rating": 8.6,
-      "release_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1765072",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
-        "Fandango At Home"
       ]
     },
     {
@@ -57,20 +43,6 @@
         "Apple TV Store",
         "Google Play Movies",
         "YouTube",
-        "Fandango At Home"
-      ]
-    },
-    {
-      "id": 1195803,
-      "title": "Wicker",
-      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "rating": 7.6,
-      "release_date": "2026-10-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1195803",
-      "providers": [
-        "Amazon Video",
-        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -91,13 +63,13 @@
       ]
     },
     {
-      "id": 1281331,
-      "title": "The Social Reckoning",
-      "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "rating": 7.0,
-      "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1281331",
+      "id": 1765072,
+      "title": "You Can See Everything",
+      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "rating": 8.6,
+      "release_date": "2026-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1765072",
       "providers": [
         "Amazon Video",
         "Apple TV Store",
@@ -108,11 +80,25 @@
       "id": 1400336,
       "title": "Focker In-Law",
       "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
-      "rating": 7.0,
+      "rating": 7.4,
       "release_date": "2026-11-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
       "tmdb_url": "https://www.themoviedb.org/movie/1400336",
       "providers": [
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1195803,
+      "title": "Wicker",
+      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+      "rating": 7.6,
+      "release_date": "2026-10-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1195803",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
         "Fandango At Home"
       ]
     },
@@ -130,16 +116,31 @@
       ]
     },
     {
-      "id": 1611767,
-      "title": "Clashing Through the Snow",
-      "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
-      "rating": 6.1,
-      "release_date": "2026-11-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/movie/1611767",
+      "id": 1423191,
+      "title": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "rating": 7.5,
+      "release_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1423191",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
+      ]
+    },
+    {
+      "id": 1281331,
+      "title": "The Social Reckoning",
+      "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "rating": 7.0,
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/movie/1281331",
+      "providers": [
+        "Amazon Video",
+        "Apple TV Store",
+        "Fandango At Home"
       ]
     }
   ]
